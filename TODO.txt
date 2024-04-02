@@ -1,18 +1,4 @@
 
-TODO
-
-     exo linked file has wrong topobject type
-
-     exo link missing key element / type
-     exo link file has wrong key
-
-for later:
-
-non top object exo links [cross links] - quite hard needs scan or hierarchy -long term goal
-check if all ids satisfied
-could check types of keys compatible (some are ints)!
-run coverage
-
 1. get project approximate creation date - not important delay
 
 2. check guids have right format - not so important delay
@@ -31,20 +17,18 @@ run coverage
 
 16. TODOs - not important ****
 
-14. test command line - important   ****
-
-13. build a distribution - important ****
-
 15. write a guide to the format - important ****
 
-16. version 2 projects - nor important ****
+16. version 2 projects - not important ****
 
-17. check internal project properly
+18. run coverage - not important ****
 
+19. non top object exo links [cross links] - quite hard needs scan or hierarchy -long term goal
 
-# tested elsewhere
-INTERNAL_ERROR
-MISSING_ATTRIBUTE
+20. check if all ids satisfied - long term goal
+
+21. could check types of keys compatible (some are ints)! -long term goal
+
 
 
 
