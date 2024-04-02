@@ -1,6 +1,6 @@
 [project]
 name = "ccpn-project-checker"
-version = "0.1.1"
+version = "0.1.9"
 description = "A project checker for ccpn v3+ projects"
 authors = [
     { name = "varioustoxins", email = "garyt.and.sarahb@gmail.com" }
@@ -14,7 +14,7 @@ readme = "README.md"
 requires-python = ">= 3.10"
 
 [project.scripts]
-cli-name = "project_checker.main.main"
+project_checker = "ccpn_project_checker.main:main"
 
 [build-system]
 requires = ["hatchling"]

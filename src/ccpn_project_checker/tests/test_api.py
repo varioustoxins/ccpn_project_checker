@@ -4,7 +4,7 @@ import stat
 
 from pathlib import Path
 
-from project_checker.DiskModelChecker import ModelChecker, ExitStatus
+from ccpn_project_checker.DiskModelChecker import ModelChecker, ExitStatus
 import pytest
 
 from .api_test_data_internal import EXPECTED_INTERNAL, INTERNAL_PROJECTS, INTERNAL_TEST_DATA_PATH, ERROR_CODE, EXPECTEDS

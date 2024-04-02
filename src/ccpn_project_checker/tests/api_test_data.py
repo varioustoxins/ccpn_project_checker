@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from project_checker.DiskModelChecker import ErrorAndWarningData, ErrorCode, _dedent_all
+from ccpn_project_checker.DiskModelChecker import ErrorAndWarningData, ErrorCode, _dedent_all
 
 
 BAD_EXO_3_CONTENT_CORRECTIONS = {

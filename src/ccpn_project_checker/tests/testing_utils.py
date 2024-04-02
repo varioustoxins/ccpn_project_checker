@@ -11,7 +11,7 @@ from time import sleep
 
 from pathlib import Path
 
-from project_checker.tests.api_test_data import ERROR_CODES_NOT_READ_PROTECTED, expecteds
+from ccpn_project_checker.tests.api_test_data import ERROR_CODES_NOT_READ_PROTECTED, expecteds
 
 TEST_DIRECTORY = Path(__file__).parent / '..' / 'test_data'
 TEST_FILE = TEST_DIRECTORY / 'cli_test_output.txt'

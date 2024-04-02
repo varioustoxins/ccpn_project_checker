@@ -1,4 +1,4 @@
-from DiskModelChecker import run_cli_checker
+from ccpn_project_checker.DiskModelChecker import run_cli_checker
 import sys
 
 def main():

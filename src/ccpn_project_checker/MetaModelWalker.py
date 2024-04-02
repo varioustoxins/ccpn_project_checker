@@ -6,7 +6,7 @@ import xml.etree.ElementTree as et
 import sys
 from textwrap import dedent
 
-from project_checker.DiskModelChecker import ObjectInfo
+from ccpn_project_checker.DiskModelChecker import ObjectInfo
 
 top_object_info_map = {}
 guid_to_type = {}

@@ -1,7 +1,7 @@
 from difflib import SequenceMatcher
 
 
-from project_checker.tests.testing_utils import  TEST_FILE, build_cli_output
+from ccpn_project_checker.tests.testing_utils import  TEST_FILE, build_cli_output
 
 def test_cli_checker(time_machine):
     time_machine.move_to(0, tick=False)

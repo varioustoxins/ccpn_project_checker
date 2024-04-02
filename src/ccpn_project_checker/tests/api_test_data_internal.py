@@ -2,7 +2,7 @@ import os
 import sys
 from pathlib import Path
 
-from project_checker.DiskModelChecker import (
+from ccpn_project_checker.DiskModelChecker import (
     _get_parent_path,
     ErrorCode,
     ErrorAndWarningData,

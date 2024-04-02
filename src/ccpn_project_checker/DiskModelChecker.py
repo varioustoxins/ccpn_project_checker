@@ -19,8 +19,8 @@ from typing import List, Dict, Any, Tuple, Union
 
 from dateutil import parser
 
-from project_checker.optional.optional import Optional
-from project_checker.optional.something import Something
+from ccpn_project_checker.optional.optional import Optional
+from ccpn_project_checker.optional.something import Something
 
 ET_COMPAT_PARSER = ETCompatXMLParser()
 
