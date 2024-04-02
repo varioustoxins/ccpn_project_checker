@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_StorageUnit time="Tue May 10 12:29:35 2022" release="3.1.0" packageGuid="www.ccpn.ac.uk_Fogh_2014-10-31-16:36:26_00004" originator="CCPN Python XmlIO">
+
+<GUIT.GuiTask _ID="1" _lastId="7130" createdBy="user" guid="default_user_2022-02-23-14-57-20-617_00003" name="View">
+  <GUIT.GuiTask.nmrProjectName>
+    <IMPL.Line>default</IMPL.Line>
+  </GUIT.GuiTask.nmrProjectName>
+  <GUIT.GuiTask.nmrProject>
+    <NMR.exo-NmrProject>
+      <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00001</IMPL.GuidString>
+    </NMR.exo-NmrProject>
+  </GUIT.GuiTask.nmrProject>
+  <GUIT.GuiTask.windows>
+    <GUIW.exo-Window>
+      <IMPL.GuidString>default_user_2022-02-23-14-57-20-617_00002</IMPL.GuidString>
+      <IMPL.Int>1</IMPL.Int>
+    </GUIW.exo-Window>
+  </GUIT.GuiTask.windows>
+  <GUIT.GuiTask.modules>
+    <GUIT.BoundDisplay _ID="7083" _uniqueId="12" name="3D_HCN" stripType="Bound">
+      <IMPL.DataObject._objectVersion>
+        <IMPL.String>3.1.0.beta1</IMPL.String>
+      </IMPL.DataObject._objectVersion>
+      <GUIT.BoundDisplay.axisCodes> H C N</GUIT.BoundDisplay.axisCodes>
+      <GUIT.BoundDisplay.axisOrder> H C N</GUIT.BoundDisplay.axisOrder>
+      <IMPL.DataObject.ccpnInternalData>
+        <IMPL.Multiple>{
+  "_ccpNmrV3internal": {
+    "stripArrangement": "Y",
+    "zPlaneNavigationMode": "spectrumdisplay",
+    "isGrouped": false,
+    "_dimensionTypes": [
+      "Frequency",
+      "Frequency",
+      "Frequency"
+    ],
+    "_isotopeCodes": [
+      "1H",
+      "13C",
+      "15N"
+    ]
+  }
+}</IMPL.Multiple>
+      </IMPL.DataObject.ccpnInternalData>
+      <GUIT.Module.window>
+        <GUIW.exo-Window>
+          <IMPL.GuidString>default_user_2022-02-23-14-57-20-617_00002</IMPL.GuidString>
+          <IMPL.Int>1</IMPL.Int>
+        </GUIW.exo-Window>
+      </GUIT.Module.window>
+      <GUIT.SpectrumDisplay.axes>
+        <GUIT.FrequencyAxis _ID="7087" code="C" position="50.05188879522301" stripSerial="1" width="91.83856032182794">
+          <GUIT.Axis.stripAxes> 7088</GUIT.Axis.stripAxes>
+        </GUIT.FrequencyAxis>
+        <GUIT.FrequencyAxis _ID="7085" code="H" position="8.336380778301958" stripSerial="1" width="4.06813054776257">
+          <GUIT.Axis.stripAxes> 7086</GUIT.Axis.stripAxes>
+        </GUIT.FrequencyAxis>
+        <GUIT.FrequencyAxis _ID="7089" code="N" position="119.74305493100775" stripSerial="1" width="0.25694506899225883">
+          <GUIT.Axis.stripAxes> 7090</GUIT.Axis.stripAxes>
+        </GUIT.FrequencyAxis>
+      </GUIT.SpectrumDisplay.axes>
+      <GUIT.SpectrumDisplay.spectrumViews>
+        <GUIT.SpectrumView _ID="7103" index="3">
+          <GUIT.SpectrumView.dimensionOrdering> 1 2 3</GUIT.SpectrumView.dimensionOrdering>
+          <GUIT.SpectrumView.spectrumName>
+            <IMPL.Line>cbcaconh</IMPL.Line>
+          </GUIT.SpectrumView.spectrumName>
+          <GUIT.SpectrumView.stripSpectrumViews> 7104</GUIT.SpectrumView.stripSpectrumViews>
+          <GUIT.SpectrumView.dataSource>
+            <NMR.exo-DataSource>
+              <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00001</IMPL.GuidString>
+              <IMPL.Int>5</IMPL.Int>
+              <IMPL.Int>1</IMPL.Int>
+            </NMR.exo-DataSource>
+          </GUIT.SpectrumView.dataSource>
+          <GUIT.SpectrumView.peakListViews>
+            <GUIT.PeakListView _ID="7105" peakListSerial="1">
+              <GUIT.PeakListView.stripPeakListViews> 7106</GUIT.PeakListView.stripPeakListViews>
+              <GUIT.PeakListView.peakList>
+                <NMR.exo-PeakList>
+                  <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00001</IMPL.GuidString>
+                  <IMPL.Int>5</IMPL.Int>
+                  <IMPL.Int>1</IMPL.Int>
+                  <IMPL.Int>1</IMPL.Int>
+                </NMR.exo-PeakList>
+              </GUIT.PeakListView.peakList>
+            </GUIT.PeakListView>
+          </GUIT.SpectrumView.peakListViews>
+        </GUIT.SpectrumView>
+        <GUIT.SpectrumView _ID="7091" index="0">
+          <GUIT.SpectrumView.dimensionOrdering> 1 2 3</GUIT.SpectrumView.dimensionOrdering>
+          <GUIT.SpectrumView.spectrumName>
+            <IMPL.Line>hnca</IMPL.Line>
+          </GUIT.SpectrumView.spectrumName>
+          <GUIT.SpectrumView.stripSpectrumViews> 7092</GUIT.SpectrumView.stripSpectrumViews>
+          <GUIT.SpectrumView.dataSource>
+            <NMR.exo-DataSource>
+              <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00001</IMPL.GuidString>
+              <IMPL.Int>2</IMPL.Int>
+              <IMPL.Int>1</IMPL.Int>
+            </NMR.exo-DataSource>
+          </GUIT.SpectrumView.dataSource>
+          <GUIT.SpectrumView.peakListViews>
+            <GUIT.PeakListView _ID="7093" peakListSerial="1">
+              <GUIT.PeakListView.stripPeakListViews> 7094</GUIT.PeakListView.stripPeakListViews>
+              <GUIT.PeakListView.peakList>
+                <NMR.exo-PeakList>
+                  <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00001</IMPL.GuidString>
+                  <IMPL.Int>2</IMPL.Int>
+                  <IMPL.Int>1</IMPL.Int>
+                  <IMPL.Int>1</IMPL.Int>
+                </NMR.exo-PeakList>
+              </GUIT.PeakListView.peakList>
+            </GUIT.PeakListView>
+          </GUIT.SpectrumView.peakListViews>
+        </GUIT.SpectrumView>
+        <GUIT.SpectrumView _ID="7099" index="2">
+          <GUIT.SpectrumView.dimensionOrdering> 1 2 3</GUIT.SpectrumView.dimensionOrdering>
+          <GUIT.SpectrumView.spectrumName>
+            <IMPL.Line>hncacb</IMPL.Line>
+          </GUIT.SpectrumView.spectrumName>
+          <GUIT.SpectrumView.stripSpectrumViews> 7100</GUIT.SpectrumView.stripSpectrumViews>
+          <GUIT.SpectrumView.dataSource>
+            <NMR.exo-DataSource>
+              <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00001</IMPL.GuidString>
+              <IMPL.Int>4</IMPL.Int>
+              <IMPL.Int>1</IMPL.Int>
+            </NMR.exo-DataSource>
+          </GUIT.SpectrumView.dataSource>
+          <GUIT.SpectrumView.peakListViews>
+            <GUIT.PeakListView _ID="7101" peakListSerial="1">
+              <GUIT.PeakListView.stripPeakListViews> 7102</GUIT.PeakListView.stripPeakListViews>
+              <GUIT.PeakListView.peakList>
+                <NMR.exo-PeakList>
+                  <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00001</IMPL.GuidString>
+                  <IMPL.Int>4</IMPL.Int>
+                  <IMPL.Int>1</IMPL.Int>
+                  <IMPL.Int>1</IMPL.Int>
+                </NMR.exo-PeakList>
+              </GUIT.PeakListView.peakList>
+            </GUIT.PeakListView>
+          </GUIT.SpectrumView.peakListViews>
+        </GUIT.SpectrumView>
+        <GUIT.SpectrumView _ID="7095" index="1">
+          <GUIT.SpectrumView.dimensionOrdering> 1 2 3</GUIT.SpectrumView.dimensionOrdering>
+          <GUIT.SpectrumView.spectrumName>
+            <IMPL.Line>hncoca</IMPL.Line>
+          </GUIT.SpectrumView.spectrumName>
+          <GUIT.SpectrumView.stripSpectrumViews> 7096</GUIT.SpectrumView.stripSpectrumViews>
+          <GUIT.SpectrumView.dataSource>
+            <NMR.exo-DataSource>
+              <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00001</IMPL.GuidString>
+              <IMPL.Int>3</IMPL.Int>
+              <IMPL.Int>1</IMPL.Int>
+            </NMR.exo-DataSource>
+          </GUIT.SpectrumView.dataSource>
+          <GUIT.SpectrumView.peakListViews>
+            <GUIT.PeakListView _ID="7097" peakListSerial="1">
+              <GUIT.PeakListView.stripPeakListViews> 7098</GUIT.PeakListView.stripPeakListViews>
+              <GUIT.PeakListView.peakList>
+                <NMR.exo-PeakList>
+                  <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00001</IMPL.GuidString>
+                  <IMPL.Int>3</IMPL.Int>
+                  <IMPL.Int>1</IMPL.Int>
+                  <IMPL.Int>1</IMPL.Int>
+                </NMR.exo-PeakList>
+              </GUIT.PeakListView.peakList>
+            </GUIT.PeakListView>
+          </GUIT.SpectrumView.peakListViews>
+        </GUIT.SpectrumView>
+      </GUIT.SpectrumDisplay.spectrumViews>
+      <GUIT.BoundDisplay.strips>
+        <GUIT.BoundStrip _ID="7084" _uniqueId="109" index="0" serial="1">
+          <IMPL.DataObject._objectVersion>
+            <IMPL.String>3.1.0.beta1</IMPL.String>
+          </IMPL.DataObject._objectVersion>
+          <IMPL.DataObject.ccpnInternalData>
+            <IMPL.Multiple>{
+  "_ccpNmrV3internal": {
+    "StripLabelPos": {
+      "stripText": "GS:3D_HCN.1",
+      "stripColour": "CCPNGLWIDGET_HEXHIGHLIGHT"
+    },
+    "stripHeaderVisible": false,
+    "minus": {
+      "stripText": "",
+      "stripVisible": false
+    },
+    "plus": {
+      "stripText": "",
+      "stripVisible": false
+    },
+    "l": {
+      "stripText": "",
+      "stripVisible": false
+    },
+    "c": {
+      "stripText": "",
+      "stripVisible": false
+    },
+    "r": {
+      "stripText": "",
+      "stripVisible": false
+    },
+    "_stripTilePosition": [
+      0,
+      0
+    ]
+  }
+}</IMPL.Multiple>
+          </IMPL.DataObject.ccpnInternalData>
+          <GUIT.Strip.stripAxes>
+            <GUIT.StripAxis _ID="7088" _uniqueId="326">
+              <IMPL.DataObject._objectVersion>
+                <IMPL.String>3.1.0.beta1</IMPL.String>
+              </IMPL.DataObject._objectVersion>
+              <IMPL.DataObject.ccpnInternalData>
+                <IMPL.Multiple>{}</IMPL.Multiple>
+              </IMPL.DataObject.ccpnInternalData>
+            </GUIT.StripAxis>
+            <GUIT.StripAxis _ID="7086" _uniqueId="325">
+              <IMPL.DataObject._objectVersion>
+                <IMPL.String>3.1.0.beta1</IMPL.String>
+              </IMPL.DataObject._objectVersion>
+              <IMPL.DataObject.ccpnInternalData>
+                <IMPL.Multiple>{}</IMPL.Multiple>
+              </IMPL.DataObject.ccpnInternalData>
+            </GUIT.StripAxis>
+            <GUIT.StripAxis _ID="7090" _uniqueId="327">
+              <IMPL.DataObject._objectVersion>
+                <IMPL.String>3.1.0.beta1</IMPL.String>
+              </IMPL.DataObject._objectVersion>
+              <IMPL.DataObject.ccpnInternalData>
+                <IMPL.Multiple>{}</IMPL.Multiple>
+              </IMPL.DataObject.ccpnInternalData>
+            </GUIT.StripAxis>
+          </GUIT.Strip.stripAxes>
+          <GUIT.Strip.stripSpectrumViews>
+            <GUIT.StripSpectrumView _ID="7104" _uniqueId="433">
+              <IMPL.DataObject._objectVersion>
+                <IMPL.String>3.1.0.beta1</IMPL.String>
+              </IMPL.DataObject._objectVersion>
+              <IMPL.DataObject.ccpnInternalData>
+                <IMPL.Multiple>{}</IMPL.Multiple>
+              </IMPL.DataObject.ccpnInternalData>
+              <GUIT.StripSpectrumView.stripPeakListViews>
+                <GUIT.StripPeakListView _ID="7106" _uniqueId="433">
+                  <IMPL.DataObject._objectVersion>
+                    <IMPL.String>3.1.0.beta1</IMPL.String>
+                  </IMPL.DataObject._objectVersion>
+                  <IMPL.DataObject.ccpnInternalData>
+                    <IMPL.Multiple>{}</IMPL.Multiple>
+                  </IMPL.DataObject.ccpnInternalData>
+                </GUIT.StripPeakListView>
+              </GUIT.StripSpectrumView.stripPeakListViews>
+            </GUIT.StripSpectrumView>
+            <GUIT.StripSpectrumView _ID="7092" _uniqueId="430">
+              <IMPL.DataObject._objectVersion>
+                <IMPL.String>3.1.0.beta1</IMPL.String>
+              </IMPL.DataObject._objectVersion>
+              <IMPL.DataObject.ccpnInternalData>
+                <IMPL.Multiple>{}</IMPL.Multiple>
+              </IMPL.DataObject.ccpnInternalData>
+              <GUIT.StripSpectrumView.stripPeakListViews>
+                <GUIT.StripPeakListView _ID="7094" _uniqueId="430">
+                  <IMPL.DataObject._objectVersion>
+                    <IMPL.String>3.1.0.beta1</IMPL.String>
+                  </IMPL.DataObject._objectVersion>
+                  <IMPL.DataObject.ccpnInternalData>
+                    <IMPL.Multiple>{}</IMPL.Multiple>
+                  </IMPL.DataObject.ccpnInternalData>
+                </GUIT.StripPeakListView>
+              </GUIT.StripSpectrumView.stripPeakListViews>
+            </GUIT.StripSpectrumView>
+            <GUIT.StripSpectrumView _ID="7100" _uniqueId="432">
+              <IMPL.DataObject._objectVersion>
+                <IMPL.String>3.1.0.beta1</IMPL.String>
+              </IMPL.DataObject._objectVersion>
+              <IMPL.DataObject.ccpnInternalData>
+                <IMPL.Multiple>{}</IMPL.Multiple>
+              </IMPL.DataObject.ccpnInternalData>
+              <GUIT.StripSpectrumView.stripPeakListViews>
+                <GUIT.StripPeakListView _ID="7102" _uniqueId="432">
+                  <IMPL.DataObject._objectVersion>
+                    <IMPL.String>3.1.0.beta1</IMPL.String>
+                  </IMPL.DataObject._objectVersion>
+                  <IMPL.DataObject.ccpnInternalData>
+                    <IMPL.Multiple>{}</IMPL.Multiple>
+                  </IMPL.DataObject.ccpnInternalData>
+                </GUIT.StripPeakListView>
+              </GUIT.StripSpectrumView.stripPeakListViews>
+            </GUIT.StripSpectrumView>
+            <GUIT.StripSpectrumView _ID="7096" _uniqueId="431">
+              <IMPL.DataObject._objectVersion>
+                <IMPL.String>3.1.0.beta1</IMPL.String>
+              </IMPL.DataObject._objectVersion>
+              <IMPL.DataObject.ccpnInternalData>
+                <IMPL.Multiple>{}</IMPL.Multiple>
+              </IMPL.DataObject.ccpnInternalData>
+              <GUIT.StripSpectrumView.stripPeakListViews>
+                <GUIT.StripPeakListView _ID="7098" _uniqueId="431">
+                  <IMPL.DataObject._objectVersion>
+                    <IMPL.String>3.1.0.beta1</IMPL.String>
+                  </IMPL.DataObject._objectVersion>
+                  <IMPL.DataObject.ccpnInternalData>
+                    <IMPL.Multiple>{}</IMPL.Multiple>
+                  </IMPL.DataObject.ccpnInternalData>
+                </GUIT.StripPeakListView>
+              </GUIT.StripSpectrumView.stripPeakListViews>
+            </GUIT.StripSpectrumView>
+          </GUIT.Strip.stripSpectrumViews>
+        </GUIT.BoundStrip>
+      </GUIT.BoundDisplay.strips>
+    </GUIT.BoundDisplay>
+  </GUIT.GuiTask.modules>
+</GUIT.GuiTask>
+
+</_StorageUnit>
+<!--End of Memops Data-->

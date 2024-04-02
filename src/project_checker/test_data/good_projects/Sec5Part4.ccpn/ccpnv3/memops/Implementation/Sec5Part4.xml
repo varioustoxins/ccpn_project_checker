@@ -1,0 +1,4014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_StorageUnit time="Tue May 10 12:29:35 2022" release="3.1.0" packageGuid="www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00025" originator="CCPN Python XmlIO">
+
+<IMPL.MemopsRoot _ID="1" _lastId="253" createdBy="user" name="Sec5Part4">
+  <IMPL.MemopsRoot.repositories>
+    <IMPL.Repository _ID="3">
+      <IMPL.Repository.name>
+        <IMPL.Line>backup</IMPL.Line>
+      </IMPL.Repository.name>
+      <IMPL.Repository.url>
+        <IMPL.Url>
+          <IMPL.Url.path>
+            <IMPL.PathString>/Users/vad5/Documents/Tutorials/data/dataFeb2022/CcpnTutorialDataSolutionNmrMay22/CcpnSec5BBTutorial/Sec5Part4_backup.ccpn</IMPL.PathString>
+          </IMPL.Url.path>
+        </IMPL.Url>
+      </IMPL.Repository.url>
+    </IMPL.Repository>
+    <IMPL.Repository _ID="5">
+      <IMPL.Repository.name>
+        <IMPL.Line>generalData</IMPL.Line>
+      </IMPL.Repository.name>
+      <IMPL.Repository.stored> 14</IMPL.Repository.stored>
+      <IMPL.Repository.url>
+        <IMPL.Url>
+          <IMPL.Url.path>
+            <IMPL.PathString>/Users/vad5/.ccpn/data</IMPL.PathString>
+          </IMPL.Url.path>
+        </IMPL.Url>
+      </IMPL.Repository.url>
+    </IMPL.Repository>
+    <IMPL.Repository _ID="4">
+      <IMPL.Repository.name>
+        <IMPL.Line>refData</IMPL.Line>
+      </IMPL.Repository.name>
+      <IMPL.Repository.stored> 9 10 14 6 8 12 11 13 7</IMPL.Repository.stored>
+      <IMPL.Repository.url>
+        <IMPL.Url>
+          <IMPL.Url.path>
+            <IMPL.PathString>/Users/vad5/PycharmProjects/Git/AnalysisV3/src/python/ccpnmodel/data</IMPL.PathString>
+          </IMPL.Url.path>
+        </IMPL.Url>
+      </IMPL.Repository.url>
+    </IMPL.Repository>
+    <IMPL.Repository _ID="2">
+      <IMPL.Repository.name>
+        <IMPL.Line>userData</IMPL.Line>
+      </IMPL.Repository.name>
+      <IMPL.Repository.stored> 9 15 8 12 6 7</IMPL.Repository.stored>
+      <IMPL.Repository.url>
+        <IMPL.Url>
+          <IMPL.Url.path>
+            <IMPL.PathString>/Users/vad5/Documents/Tutorials/data/dataFeb2022/CcpnTutorialDataSolutionNmrMay22/CcpnSec5BBTutorial/Sec5Part4.ccpn</IMPL.PathString>
+          </IMPL.Url.path>
+        </IMPL.Url>
+      </IMPL.Repository.url>
+    </IMPL.Repository>
+  </IMPL.MemopsRoot.repositories>
+  <IMPL.MemopsRoot.packageLocators>
+    <IMPL.PackageLocator _ID="15">
+      <IMPL.PackageLocator.repositories> 2</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="6" targetName="ccp.molecule.ChemComp">
+      <IMPL.PackageLocator.repositories> 2 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="7" targetName="ccp.molecule.ChemCompCharge">
+      <IMPL.PackageLocator.repositories> 2 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="8" targetName="ccp.molecule.ChemCompCoord">
+      <IMPL.PackageLocator.repositories> 2 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="9" targetName="ccp.molecule.ChemCompLabel">
+      <IMPL.PackageLocator.repositories> 2 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="10" targetName="ccp.molecule.ChemElement">
+      <IMPL.PackageLocator.repositories> 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="11" targetName="ccp.molecule.StereoChemistry">
+      <IMPL.PackageLocator.repositories> 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="12" targetName="ccp.nmr.NmrExpPrototype">
+      <IMPL.PackageLocator.repositories> 2 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="13" targetName="ccp.nmr.NmrReference">
+      <IMPL.PackageLocator.repositories> 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="14" targetName="ccpnmr.AnalysisProfile">
+      <IMPL.PackageLocator.repositories> 5 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+  </IMPL.MemopsRoot.packageLocators>
+  <IMPL.MemopsRoot.currentChemComp>
+    <CHEM.exo-NonStdChemComp>
+      <IMPL.GuidString>msd_ccpnRef_2007-12-11-10-20-13_00010</IMPL.GuidString>
+    </CHEM.exo-NonStdChemComp>
+  </IMPL.MemopsRoot.currentChemComp>
+  <IMPL.MemopsRoot.currentDataLocationStore>
+    <DLOC.exo-DataLocationStore>
+      <IMPL.GuidString>default_user_2022-02-23-14-57-20-615_00001</IMPL.GuidString>
+    </DLOC.exo-DataLocationStore>
+  </IMPL.MemopsRoot.currentDataLocationStore>
+  <IMPL.MemopsRoot.currentGuiTask>
+    <GUIT.exo-GuiTask>
+      <IMPL.GuidString>default_user_2022-02-23-14-57-20-617_00003</IMPL.GuidString>
+    </GUIT.exo-GuiTask>
+  </IMPL.MemopsRoot.currentGuiTask>
+  <IMPL.MemopsRoot.currentLabelingScheme>
+    <CCLB.exo-LabelingScheme>
+      <IMPL.GuidString>IsoSchemeProj_user_2008-08-01-11-46-16_00022</IMPL.GuidString>
+    </CCLB.exo-LabelingScheme>
+  </IMPL.MemopsRoot.currentLabelingScheme>
+  <IMPL.MemopsRoot.currentMolSystem>
+    <MOLS.exo-MolSystem>
+      <IMPL.GuidString>default_user_2022-02-23-14-57-20-617_00001</IMPL.GuidString>
+    </MOLS.exo-MolSystem>
+  </IMPL.MemopsRoot.currentMolSystem>
+  <IMPL.MemopsRoot.currentMolecule>
+    <MOLE.exo-Molecule>
+      <IMPL.GuidString>Sec5Part1_user_2022-02-23-15-20-24-415_00001</IMPL.GuidString>
+    </MOLE.exo-Molecule>
+  </IMPL.MemopsRoot.currentMolecule>
+  <IMPL.MemopsRoot.currentNmrProject>
+    <NMR.exo-NmrProject>
+      <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00001</IMPL.GuidString>
+    </NMR.exo-NmrProject>
+  </IMPL.MemopsRoot.currentNmrProject>
+  <IMPL.MemopsRoot.currentRefSampleComponentStore>
+    <REFS.exo-RefSampleComponentStore>
+      <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00003</IMPL.GuidString>
+    </REFS.exo-RefSampleComponentStore>
+  </IMPL.MemopsRoot.currentRefSampleComponentStore>
+  <IMPL.MemopsRoot.currentSampleStore>
+    <SAM.exo-SampleStore>
+      <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00002</IMPL.GuidString>
+    </SAM.exo-SampleStore>
+  </IMPL.MemopsRoot.currentSampleStore>
+  <IMPL.MemopsRoot.currentWindowStore>
+    <GUIW.exo-WindowStore>
+      <IMPL.GuidString>default_user_2022-02-23-14-57-20-617_00002</IMPL.GuidString>
+    </GUIW.exo-WindowStore>
+  </IMPL.MemopsRoot.currentWindowStore>
+  <IMPL.MemopsRoot.chemComps>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="2eg" code3Letter="2EG" createdBy="ccpnRef" guid="pdbe_ccpnRef_2009-03-12-11-40-39-730_00001" molType="DNA">
+      <CHEM.ChemComp.name>
+        <IMPL.String>2'-DEOXY-N-ETHYLGUANOSINE 5'-PHOSPHATE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>origin</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>PDBe</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataBoolean value="true">
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>pdbeCcGeneration</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>objectGeneratedFromScratch</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+        </IMPL.AppDataBoolean>
+      </IMPL.DataObject.applicationData>
+    </CHEM.NonStdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="1" ccpCode="Da" code1Letter="A" code3Letter="DA" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-13-15_00001" molType="DNA" stdChemCompCode="Da">
+      <CHEM.ChemComp.name>
+        <IMPL.String>2'-DEOXYADENOSINE-5'-MONOPHOSPHATE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="1" ccpCode="Dc" code1Letter="C" code3Letter="DC" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-13-16_00002" molType="DNA" stdChemCompCode="Dc">
+      <CHEM.ChemComp.name>
+        <IMPL.String>2'-DEOXYCYTIDINE-5'-MONOPHOSPHATE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="1" ccpCode="Dg" code1Letter="G" code3Letter="DG" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-13-16_00005" molType="DNA" stdChemCompCode="Dg">
+      <CHEM.ChemComp.name>
+        <IMPL.String>2'-DEOXYGUANOSINE-5'-MONOPHOSPHATE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="1" ccpCode="Di" code1Letter="I" code3Letter="DI" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-13-17_00002" molType="DNA" stdChemCompCode="Di">
+      <CHEM.ChemComp.name>
+        <IMPL.String>2'-DEOXYINOSINE-5'-MONOPHOSPHATE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.StdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dn" code3Letter="DN" createdBy="ccpnRef" guid="pdbe_ccpnRef_2010-06-10-15-15-16-029_00001" molType="DNA">
+      <CHEM.ChemComp.name>
+        <IMPL.String>UNKNOWN 2'-DEOXYNUCLEOTIDE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>origin</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>PDBe</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataBoolean value="true">
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>pdbeCcGeneration</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>objectGeneratedFromScratch</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+        </IMPL.AppDataBoolean>
+      </IMPL.DataObject.applicationData>
+    </CHEM.NonStdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="1" ccpCode="Dt" code1Letter="T" code3Letter="DT" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-13-17_00005" molType="DNA" stdChemCompCode="Dt">
+      <CHEM.ChemComp.name>
+        <IMPL.String>THYMIDINE-5'-MONOPHOSPHATE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="1" ccpCode="Du" code1Letter="U" code3Letter="DU" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-13-17_00008" molType="DNA" stdChemCompCode="Du">
+      <CHEM.ChemComp.name>
+        <IMPL.String>2'-DEOXYURIDINE-5'-MONOPHOSPHATE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.StdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="5MU" code3Letter="5MU" createdBy="ccpnRef" guid="pdbe_ccpnRef_2009-03-12-11-46-34-706_00001" molType="RNA" stdChemCompCode="U">
+      <CHEM.ChemComp.name>
+        <IMPL.String>5-METHYLURIDINE 5'-MONOPHOSPHATE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>origin</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>PDBe</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataBoolean value="true">
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>pdbeCcGeneration</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>objectGeneratedFromScratch</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+        </IMPL.AppDataBoolean>
+      </IMPL.DataObject.applicationData>
+    </CHEM.NonStdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="1" ccpCode="A" code1Letter="A" code3Letter="A" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-13-18_00001" molType="RNA" stdChemCompCode="A">
+      <CHEM.ChemComp.name>
+        <IMPL.String>ADENOSINE-5'-MONOPHOSPHATE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="1" ccpCode="C" code1Letter="C" code3Letter="C" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-13-18_00004" molType="RNA" stdChemCompCode="C">
+      <CHEM.ChemComp.name>
+        <IMPL.String>CYTIDINE-5'-MONOPHOSPHATE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="1" ccpCode="G" code1Letter="G" code3Letter="G" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-13-19_00001" molType="RNA" stdChemCompCode="G">
+      <CHEM.ChemComp.name>
+        <IMPL.String>GUANOSINE-5'-MONOPHOSPHATE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="1" ccpCode="I" code1Letter="I" code3Letter="I" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-13-19_00004" molType="RNA" stdChemCompCode="I">
+      <CHEM.ChemComp.name>
+        <IMPL.String>INOSINIC ACID</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.StdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="N" code3Letter="N" createdBy="ccpnRef" guid="pdbe_ccpnRef_2009-03-12-12-42-39-084_00001" molType="RNA">
+      <CHEM.ChemComp.name>
+        <IMPL.String>ANY 5'-MONOPHOSPHATE NUCLEOTIDE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>origin</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>PDBe</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataBoolean value="true">
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>pdbeCcGeneration</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>objectGeneratedFromScratch</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+        </IMPL.AppDataBoolean>
+      </IMPL.DataObject.applicationData>
+    </CHEM.NonStdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="1" ccpCode="U" code1Letter="U" code3Letter="U" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-13-20_00001" molType="RNA" stdChemCompCode="U">
+      <CHEM.ChemComp.name>
+        <IMPL.String>URIDINE-5'-MONOPHOSPHATE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.StdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="3co" code3Letter="3CO" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-13-49_00008" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>COBALT (III) ION</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Ace" code3Letter="ACE" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-14-26_00007" molType="other">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>acetaldehyde</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>ACETYL GROUP</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Ag" code3Letter="AG" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-14-30_00015" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>SILVER ION</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Atp" code3Letter="ATP" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-14-47_00001" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>ADENOSINE-5'-TRIPHOSPHATE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Ca" code3Letter="CA" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-15-15_00002" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>CALCIUM ION</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Cd" code3Letter="CD" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-15-18_00017" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>CADMIUM ION</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>origin</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>PDBe</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataBoolean value="true">
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>pdbeCcGeneration</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>objectGeneratedFromScratch</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+        </IMPL.AppDataBoolean>
+      </IMPL.DataObject.applicationData>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Cdr" code3Letter="CDR" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-15-20_00003" molType="other">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>(2R,5S,6R)-6-methyltetrahydro-2H-pyran-2,5-diol</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>2,3-DIDEOXYFUCOSE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Cmo" code3Letter="CMO" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-15-29_00013" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>CARBON MONOXIDE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Cu" code3Letter="CU" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-15-41_00012" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>COPPER (II) ION</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Gdp" code3Letter="GDP" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-16-38_00002" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>GUANOSINE-5'-DIPHOSPHATE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Glc" code3Letter="GLC" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-16-41_00007" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>ALPHA-D-GLUCOSE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>origin</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>PDBe</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataBoolean value="true">
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>pdbeCcGeneration</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>objectGeneratedFromScratch</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+        </IMPL.AppDataBoolean>
+      </IMPL.DataObject.applicationData>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Hoh" code3Letter="HOH" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-16-57_00004" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>WATER</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="K" code3Letter="K" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-17-20_00006" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>POTASSIUM ION</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="La" code3Letter="LA" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-17-26_00006" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>LANTHANUM (III) ION</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Mcy" code3Letter="MCY" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-17-40_00001" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>5-METHYL-2'-DEOXYCYTIDINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Mg" code3Letter="MG" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-17-41_00016" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>MAGNESIUM ION</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Mn" code3Letter="MN" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-17-44_00024" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>MANGANESE (II) ION</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Moh" code3Letter="MOH" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-17-46_00013" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>METHANOL</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>origin</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>PDBe</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataBoolean value="true">
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>pdbeCcGeneration</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>objectGeneratedFromScratch</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+        </IMPL.AppDataBoolean>
+      </IMPL.DataObject.applicationData>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Na" code3Letter="NA" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-17-57_00007" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>SODIUM ION</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Nh2" code3Letter="NH2" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-18-05_00002" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>AMINO GROUP</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Plm" code3Letter="PLM" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-18-36_00010" molType="other">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>palmitic acid</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>PALMITIC ACID</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Qui" code3Letter="QUI" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-18-52_00014" molType="other">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>quinoxaline-2-carboxylic acid</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>2-CARBOXYQUINOXALINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Zn" code3Letter="ZN" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-07_00016" molType="other">
+      <CHEM.ChemComp.name>
+        <IMPL.String>ZINC ION</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Aba" code3Letter="ABA" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-09_00015" hasStdChirality="true" molType="protein" stdChemCompCode="Ala">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>(2R)-2-aminobutanoic acid</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>ALPHA-AMINOBUTYRIC ACID</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Aib" code3Letter="AIB" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-09_00021" hasStdChirality="true" molType="protein" stdChemCompCode="Ala">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>2-methylalanine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>ALPHA-AMINOISOBUTYRIC ACID</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="221" ccpCode="Ala" code1Letter="A" code3Letter="ALA" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-09_00022" hasStdChirality="true" merckCode="12,205" molType="protein" stdChemCompCode="Ala">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-alanine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>ALANINE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['MB', 'HB*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="424" ccpCode="Arg" code1Letter="R" code3Letter="ARG" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-10_00007" hasStdChirality="true" merckCode="12,817" molType="protein" stdChemCompCode="Arg">
+      <CHEM.ChemComp.name>
+        <IMPL.String>ARGININE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['NH*', 'NH1', 'NH2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['NH#', 'NH1', 'NH2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['NH%', 'NH1', 'NH2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['NH+', 'NH1', 'NH2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HH', 'HH*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE*', 'HE']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE#', 'HE']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE%', 'HE']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE+', 'HE']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="292" ccpCode="Asn" code1Letter="N" code3Letter="ASN" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-10_00013" hasStdChirality="true" merckCode="12,872" molType="protein" stdChemCompCode="Asn">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-asparagine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>ASPARAGINE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD*', 'HD2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD#', 'HD2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD%', 'HD2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD+', 'HD2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="274" ccpCode="Asp" code1Letter="D" code3Letter="ASP" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-10_00001" hasStdChirality="true" merckCode="12,875" molType="protein" stdChemCompCode="Asp">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-aspartic acid</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>ASPARTIC ACID</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['OD*', 'OD1', 'OD2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['OD#', 'OD1', 'OD2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['OD%', 'OD1', 'OD2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['OD+', 'OD1', 'OD2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Bmt" code3Letter="BMT" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-11_00001" hasStdChirality="true" molType="protein" stdChemCompCode="Thr">
+      <CHEM.ChemComp.name>
+        <IMPL.String>4-METHYL-4-[(E)-2-BUTENYL]-4,N-METHYL-THREONINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Cgu" code3Letter="CGU" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-11_00012" hasStdChirality="true" merckCode="12,1876" molType="protein" stdChemCompCode="Glu">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>(3S)-3-aminopropane-1,1,3-tricarboxylic acid</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>GAMMA-CARBOXY-GLUTAMIC ACID</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Cso" code3Letter="CSO" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-12_00008" hasStdChirality="true" molType="protein" stdChemCompCode="Cys">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>S-hydroxy-L-cysteine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>S-HYDROXYCYSTEINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Css" code3Letter="CSS" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-12_00011" hasStdChirality="true" molType="protein" stdChemCompCode="Cys">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>3-hydrodithio-L-alanine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>S-MERCAPTOCYSTEINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Cxm" code3Letter="CXM" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-12_00017" hasStdChirality="true" molType="protein" stdChemCompCode="Met">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>N-carboxy-L-methionine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>N-CARBOXYMETHIONINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="280" ccpCode="Cys" code1Letter="C" code3Letter="CYS" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00005" hasStdChirality="true" merckCode="12,2850" molType="protein" stdChemCompCode="Cys">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-cysteine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>CYSTEINE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="D11" code3Letter="D11" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00013" hasStdChirality="false" molType="protein" stdChemCompCode="Thr">
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-PHOSHPHOTHREONINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dal" code3Letter="DAL" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00008" hasStdChirality="false" molType="protein" stdChemCompCode="Ala">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>D-alanine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-alanine</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dar" code3Letter="DAR" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00009" hasStdChirality="false" molType="protein" stdChemCompCode="Arg">
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-ARGININE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Das" code3Letter="DAS" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00011" hasStdChirality="false" molType="protein" stdChemCompCode="Asp">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>D-aspartic acid</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-ASPARTIC ACID</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dcy" code3Letter="DCY" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00012" hasStdChirality="false" molType="protein" stdChemCompCode="Cys">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>D-cysteine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-CYSTEINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dgl" code3Letter="DGL" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00020" hasStdChirality="false" molType="protein" stdChemCompCode="Glu">
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-GLUTAMIC ACID</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dgn" code3Letter="DGN" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00019" hasStdChirality="false" molType="protein" stdChemCompCode="Gln">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>D-glutamine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-GLUTAMINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dha" code3Letter="DHA" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-14_00016" hasStdChirality="true" molType="protein" stdChemCompCode="Ala">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>2-aminoacrylic acid</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>2-AMINO-ACRYLIC ACID</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dhi" code3Letter="DHI" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00021" hasStdChirality="false" molType="protein" stdChemCompCode="His">
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-HISTIDINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dil" code3Letter="DIL" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00022" hasStdChirality="false" molType="protein" stdChemCompCode="Ile">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>D-alloisoleucine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-ISOLEUCINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Div" code3Letter="DIV" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00014" hasStdChirality="false" molType="protein" stdChemCompCode="Val">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-isovaline</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-ISOVALINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dle" code3Letter="DLE" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00024" hasStdChirality="false" molType="protein" stdChemCompCode="Leu">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>D-leucine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-LEUCINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dly" code3Letter="DLY" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00025" hasStdChirality="false" molType="protein" stdChemCompCode="Lys">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>D-lysine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-LYSINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dne" code3Letter="DNE" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00015" hasStdChirality="false" molType="protein" stdChemCompCode="Leu">
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-NORLEUCINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dng" code3Letter="DNG" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00016" hasStdChirality="false" molType="protein" stdChemCompCode="Leu">
+      <CHEM.ChemComp.name>
+        <IMPL.String>N-FORMYL-D-NORLEUCINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dnm" code3Letter="DNM" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00017" hasStdChirality="false" molType="protein" stdChemCompCode="Leu">
+      <CHEM.ChemComp.name>
+        <IMPL.String>N-METHYL-D-NORLEUCINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dpn" code3Letter="DPN" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-14_00004" hasStdChirality="false" molType="protein" stdChemCompCode="Phe">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>D-phenylalanine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-PHENYLALANINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dpr" code3Letter="DPR" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-14_00005" hasStdChirality="false" molType="protein" stdChemCompCode="Pro">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-proline</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-proline</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dse" code3Letter="DSE" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00018" hasStdChirality="false" molType="protein" stdChemCompCode="Ser">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>N-methyl-D-serine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>N-METHYL-D-SERINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dsg" code3Letter="DSG" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00010" hasStdChirality="false" molType="protein" stdChemCompCode="Asn">
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-ASPARAGINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dsn" code3Letter="DSN" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-14_00006" hasStdChirality="false" molType="protein" stdChemCompCode="Ser">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>D-serine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-SERINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dth" code3Letter="DTH" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-14_00007" hasStdChirality="false" molType="protein" stdChemCompCode="Thr">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-threonine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-threonine</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dtr" code3Letter="DTR" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-14_00008" hasStdChirality="false" molType="protein" stdChemCompCode="Trp">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>D-tryptophan</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-tryptophan</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dty" code3Letter="DTY" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-14_00009" hasStdChirality="false" molType="protein" stdChemCompCode="Tyr">
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-TYROSINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Dva" code3Letter="DVA" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-14_00010" hasStdChirality="false" molType="protein" stdChemCompCode="Val">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>D-valine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-VALINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="308" ccpCode="Gln" code1Letter="Q" code3Letter="GLN" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-15_00017" hasStdChirality="true" merckCode="12,4479" molType="protein" stdChemCompCode="Gln">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-glutamine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>GLUTAMINE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB2*', 'HB2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB2#', 'HB2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB2%', 'HB2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB2+', 'HB2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['OE*', 'OE1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['OE#', 'OE1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['OE%', 'OE1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['OE+', 'OE1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE*', 'HE2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE#', 'HE2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE%', 'HE2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE+', 'HE2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="315" ccpCode="Glu" code1Letter="E" code3Letter="GLU" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-15_00018" hasStdChirality="true" merckCode="12,4477" molType="protein" stdChemCompCode="Glu">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-glutamic acid</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>GLUTAMIC ACID</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['OE*', 'OE1', 'OE2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['OE#', 'OE1', 'OE2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['OE%', 'OE1', 'OE2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['OE+', 'OE1', 'OE2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="205" ccpCode="Gly" code1Letter="G" code3Letter="GLY" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-15_00019" hasStdChirality="true" merckCode="12,4500" molType="protein" stdChemCompCode="Gly">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>glycine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>GLYCINE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA', 'HA*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="334" ccpCode="His" code1Letter="H" code3Letter="HIS" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-16_00013" hasStdChirality="true" merckCode="12,4758" molType="protein" stdChemCompCode="His">
+      <CHEM.ChemComp.name>
+        <IMPL.String>L-Histidine</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD*', 'HD1', 'HD2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD#', 'HD1', 'HD2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD%', 'HD1', 'HD2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD+', 'HD1', 'HD2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE1*', 'HE1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE1#', 'HE1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE1%', 'HE1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE1+', 'HE1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD*', 'HD2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD#', 'HD2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD%', 'HD2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD+', 'HD2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE*', 'HE1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE#', 'HE1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE%', 'HE1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE+', 'HE1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Hsl" code3Letter="HSL" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-16_00018" hasStdChirality="true" molType="protein" stdChemCompCode="Ser">
+      <CHEM.ChemComp.name>
+        <IMPL.String>HOMOSERINE LACTONE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Hyp" code3Letter="HYP" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-16_00021" hasStdChirality="true" merckCode="12,4887" molType="protein" stdChemCompCode="Pro">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>(4R)-4-hydroxy-L-proline</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>4-HYDROXYPROLINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="336" ccpCode="Ile" code1Letter="I" code3Letter="ILE" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-17_00003" hasStdChirality="true" merckCode="12,5196" molType="protein" stdChemCompCode="Ile">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-alloisoleucine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>ISOLEUCINE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['MD', 'HD1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['MG', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG**', 'HG1*', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG##', 'HG1*', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG%%', 'HG1*', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG++', 'HG1*', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG*', 'HG1*', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG#', 'HG1*', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG%', 'HG1*', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG+', 'HG1*', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD*', 'HD1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD#', 'HD1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD%', 'HD1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD+', 'HD1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB*', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB#', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB%', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB+', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD2*', 'HD1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD2#', 'HD1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD2%', 'HD1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD2+', 'HD1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG2', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG1', 'HG1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['QB', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['QD', 'QD1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['CD', 'CD1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB1', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG', 'HG1*', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB3', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB2', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Ioy" code3Letter="IOY" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00023" hasStdChirality="false" molType="protein" stdChemCompCode="Phe">
+      <CHEM.ChemComp.name>
+        <IMPL.String>P-IODO-D-PHENYLALANINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Iyt" code3Letter="IYT" createdBy="ccpnRef" guid="pdbe_ccpnRef_2009-03-12-12-32-01-945_00001" molType="protein">
+      <CHEM.ChemComp.name>
+        <IMPL.String>N-ALPHA-ACETYL-3,5-DIIODOTYROSYL-D-THREONINE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>origin</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>PDBe</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataBoolean value="true">
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>pdbeCcGeneration</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>objectGeneratedFromScratch</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+        </IMPL.AppDataBoolean>
+      </IMPL.DataObject.applicationData>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Kcx" code3Letter="KCX" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-17_00009" hasStdChirality="true" molType="protein" stdChemCompCode="Lys">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>N6-carboxy-L-lysine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>LYSINE NZ-CARBOXYLIC ACID</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="334" ccpCode="Leu" code1Letter="L" code3Letter="LEU" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-17_00014" hasStdChirality="true" merckCode="12,5475" molType="protein" stdChemCompCode="Leu">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-leucine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>LEUCINE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['MD2', 'HD2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD#1', 'HD1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['MD1', 'HD1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD#2', 'HD2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB', 'HB*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB1*', 'HB1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB1#', 'HB1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB1%', 'HB1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB1+', 'HB1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG*', 'HG']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG#', 'HG']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG%', 'HG']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG+', 'HG']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB2*', 'HB2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB2#', 'HB2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB2%', 'HB2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB2+', 'HB2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Llp" code3Letter="LLP" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-17_00015" hasStdChirality="true" molType="protein" stdChemCompCode="Lys">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>N6-({3-hydroxy-2-methyl-5-[(phosphonooxy)methyl]pyridin-4-yl}methyl)-L-lysine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>2-LYSINE(3-HYDROXY-2-METHYL-5-PHOSPHONOOXYMETHYL-PYRIDIN-4-YLMETHANE)</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="435" ccpCode="Lys" code1Letter="K" code3Letter="LYS" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-18_00001" hasStdChirality="true" merckCode="12,5667" molType="protein" stdChemCompCode="Lys">
+      <CHEM.ChemComp.name>
+        <IMPL.String>LYSINE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE1*', 'HE*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE1#', 'HE*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE1%', 'HE*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE1+', 'HE*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Med" code3Letter="MED" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-13_00026" hasStdChirality="false" molType="protein" stdChemCompCode="Met">
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-METHIONINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="315" ccpCode="Met" code1Letter="M" code3Letter="MET" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-19_00001" hasStdChirality="true" merckCode="12,6053" molType="protein" stdChemCompCode="Met">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-methionine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>METHIONINE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB2*', 'HB2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB2#', 'HB2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB2%', 'HB2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB2+', 'HB2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Mle" code3Letter="MLE" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-19_00010" hasStdChirality="true" molType="protein" stdChemCompCode="Leu">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>N-methyl-L-leucine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>N-METHYLLEUCINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Mse" code3Letter="MSE" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-19_00018" hasStdChirality="true" molType="protein" stdChemCompCode="Met">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>(2S)-2-amino-4-(methylseleno)butanoic acid</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>SELENOMETHIONINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Mva" code3Letter="MVA" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-19_00022" hasStdChirality="true" molType="protein" stdChemCompCode="Val">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>N-methyl-L-valine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>N-METHYLVALINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Ndf" code3Letter="NDF" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-14_00001" hasStdChirality="false" molType="protein" stdChemCompCode="Phe">
+      <CHEM.ChemComp.name>
+        <IMPL.String>N-(CARBOXYCARBONYL)-D-PHENYLALANINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Nle" code3Letter="NLE" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-20_00008" hasStdChirality="true" merckCode="12,68001" molType="protein" stdChemCompCode="Leu">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-norleucine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>NORLEUCINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Ocs" code3Letter="OCS" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-20_00017" hasStdChirality="true" molType="protein" stdChemCompCode="Cys">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>3-sulfo-L-alanine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>CYSTEINESULFONIC ACID</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Orn" code3Letter="ORN" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-21_00006" hasStdChirality="true" merckCode="12,7002" molType="protein" stdChemCompCode="Ala">
+      <CHEM.ChemComp.name>
+        <IMPL.String>ORNITHINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Pca" code3Letter="PCA" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-21_00014" hasStdChirality="true" merckCode="12,8185" molType="protein" stdChemCompCode="Glu">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>5-oxo-L-proline</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>PYROGLUTAMIC ACID</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Pdd" code3Letter="PDD" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-14_00002" hasStdChirality="false" molType="protein">
+      <CHEM.ChemComp.name>
+        <IMPL.String>N-(5'-PHOSPHOPYRIDOXYL)-D-ALANINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Pg9" code3Letter="PG9" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-14_00003" hasStdChirality="false" molType="protein" stdChemCompCode="Gly">
+      <CHEM.ChemComp.name>
+        <IMPL.String>D-PHENYLGLYCINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="336" ccpCode="Phe" code1Letter="F" code3Letter="PHE" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-22_00003" hasStdChirality="true" merckCode="12,7425" molType="protein" stdChemCompCode="Phe">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-phenylalanine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>PHENYLALANINE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE', 'HE*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HZ*', 'HZ']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HZ#', 'HZ']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HZ%', 'HZ']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HZ+', 'HZ']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="271" ccpCode="Pro" code1Letter="P" code3Letter="PRO" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-22_00008" hasStdChirality="true" merckCode="12,7963" molType="protein" stdChemCompCode="Pro">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-proline</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>PROLINE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD', 'HD*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Ptr" code3Letter="PTR" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-22_00013" hasStdChirality="true" molType="protein" stdChemCompCode="Tyr">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>O-phosphono-L-tyrosine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>O-PHOSPHOTYROSINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Sar" code3Letter="SAR" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-23_00007" hasStdChirality="true" molType="protein" stdChemCompCode="Gly">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>N-methylglycine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>SARCOSINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="255" ccpCode="Ser" code1Letter="S" code3Letter="SER" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-23_00016" hasStdChirality="true" merckCode="12,8604" molType="protein" stdChemCompCode="Ser">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-serine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>SERINE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG*', 'HG']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG#', 'HG']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG%', 'HG']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG+', 'HG']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="297" ccpCode="Thr" code1Letter="T" code3Letter="THR" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-24_00014" hasStdChirality="true" merckCode="12,9522" molType="protein" stdChemCompCode="Thr">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-threonine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>THREONINE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['MG', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG*', 'HG1', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG#', 'HG1', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG%', 'HG1', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG+', 'HG1', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['QB', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG*', 'HG1', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG#', 'HG1', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG%', 'HG1', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG+', 'HG1', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['QG', 'QG2']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB*', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB#', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB%', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB+', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG1*', 'HG1', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG1#', 'HG1', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG1%', 'HG1', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG1+', 'HG1', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="358" ccpCode="Trp" code1Letter="W" code3Letter="TRP" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-25_00008" hasStdChirality="true" merckCode="12,9929" molType="protein" stdChemCompCode="Trp">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-tryptophan</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>TRYPTOPHAN</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE*', 'HE1', 'HE3']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE#', 'HE1', 'HE3']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE%', 'HE1', 'HE3']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE+', 'HE1', 'HE3']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HZ*', 'HZ2', 'HZ3']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HZ#', 'HZ2', 'HZ3']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HZ%', 'HZ2', 'HZ3']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HZ+', 'HZ2', 'HZ3']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HZ', 'HZ2', 'HZ3']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD*', 'HD1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD#', 'HD1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD%', 'HD1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HD+', 'HD1']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HE', 'HE1', 'HE3']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="1" ccpCode="Tyr" code1Letter="Y" code3Letter="TYR" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-26_00001" hasStdChirality="true" merckCode="12,9970" molType="protein" stdChemCompCode="Tyr">
+      <CHEM.ChemComp.name>
+        <IMPL.String>TYROSINE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Tys" code3Letter="TYS" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-26_00002" hasStdChirality="true" molType="protein" stdChemCompCode="Tyr">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>O-sulfo-L-tyrosine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>SULFONATED TYROSINE</IMPL.String>
+      </CHEM.ChemComp.name>
+    </CHEM.NonStdChemComp>
+    <CHEM.NonStdChemComp _ID="1" _lastId="1" ccpCode="Unk" code3Letter="UNK" createdBy="ccpnRef" guid="pdbe_ccpnRef_2009-03-12-13-10-05-920_00001" molType="protein">
+      <CHEM.ChemComp.name>
+        <IMPL.String>UNKNOWN</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>origin</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>PDBe</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataBoolean value="true">
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>pdbeCcGeneration</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>objectGeneratedFromScratch</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+        </IMPL.AppDataBoolean>
+      </IMPL.DataObject.applicationData>
+    </CHEM.NonStdChemComp>
+    <CHEM.StdChemComp _ID="1" _lastId="299" ccpCode="Val" code1Letter="V" code3Letter="VAL" createdBy="ccpnRef" guid="msd_ccpnRef_2007-12-11-10-20-27_00001" hasStdChirality="true" merckCode="12,10046" molType="protein" stdChemCompCode="Val">
+      <CHEM.ChemComp.commonNames>
+        <IMPL.String>L-valine</IMPL.String>
+      </CHEM.ChemComp.commonNames>
+      <CHEM.ChemComp.name>
+        <IMPL.String>VALINE</IMPL.String>
+      </CHEM.ChemComp.name>
+      <IMPL.DataObject.applicationData>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['CGR', 'HG1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG1**', 'HG1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG1##', 'HG1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG1%%', 'HG1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG1++', 'HG1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['CGS', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG#2', 'HG2#']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG#1', 'HG1#']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['MG2', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['MG1', 'HG1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['MGY', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['MGX', 'HG1*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG2**', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG2##', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG2%%', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>ambiguityMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HG2++', 'HG2*']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA*', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA#', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA%', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HA+', 'HA']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB2', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB1', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['QB', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB*', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB#', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB%', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+        <IMPL.AppDataString>
+          <IMPL.ApplicationData.application>
+            <IMPL.Line>ccpNmr</IMPL.Line>
+          </IMPL.ApplicationData.application>
+          <IMPL.ApplicationData.keyword>
+            <IMPL.Line>commonNameMapping</IMPL.Line>
+          </IMPL.ApplicationData.keyword>
+          <IMPL.AppDataString.value>
+            <IMPL.String>['HB+', 'HB']</IMPL.String>
+          </IMPL.AppDataString.value>
+        </IMPL.AppDataString>
+      </IMPL.DataObject.applicationData>
+    </CHEM.StdChemComp>
+  </IMPL.MemopsRoot.chemComps>
+  <IMPL.MemopsRoot.dataLocationStores>
+    <DLOC.DataLocationStore _ID="1" _lastId="22" createdBy="user" guid="default_user_2022-02-23-14-57-20-615_00001">
+    </DLOC.DataLocationStore>
+  </IMPL.MemopsRoot.dataLocationStores>
+  <IMPL.MemopsRoot.guiTasks>
+    <GUIT.GuiTask _ID="1" _lastId="7130" createdBy="user" guid="default_user_2022-02-23-14-57-20-617_00003" name="View">
+      <GUIT.GuiTask.nmrProjectName>
+        <IMPL.Line>default</IMPL.Line>
+      </GUIT.GuiTask.nmrProjectName>
+      <GUIT.GuiTask.nmrProject>
+        <NMR.exo-NmrProject>
+          <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00001</IMPL.GuidString>
+        </NMR.exo-NmrProject>
+      </GUIT.GuiTask.nmrProject>
+    </GUIT.GuiTask>
+  </IMPL.MemopsRoot.guiTasks>
+  <IMPL.MemopsRoot.labelingSchemes>
+    <CCLB.LabelingScheme _ID="1" _lastId="1" createdBy="ccpn_auto" guid="IsoSchemeProj_user_2008-08-01-11-46-16_00024" lastUnlockedBy="ccpn_auto" name="13Glycerol">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>95% 1,3-13C glycerol, 15N</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>1,3-13C Glycerol</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="1" createdBy="ccpn_auto" guid="IsoSchemeProj_user_2008-08-01-11-46-16_00026" lastUnlockedBy="ccpn_auto" name="2Glycerol">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>95% 2-13C glycerol, 15N</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>2-13C Glycerol</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="1" createdBy="ccpn_auto" guid="IsoSchemeProj_user_2008-08-01-11-46-16_00023" lastUnlockedBy="ccpn_auto" name="GAFY">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>G,A,S: 95% 13C,15N; F,Y: 95% 2,3-13C,15N</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>GAFY</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="1" createdBy="ccpn_auto" guid="Labelling_vicky_2009-11-12-15-38-04-232_00001" lastUnlockedBy="ccpn_auto" name="IVL">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>Uniform 95% 15N, 13C, 2H; V,L: single 1H Me; I: 1H delta Me</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>IVL protonated Me groups</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="1" createdBy="ccpn_auto" guid="IsoSchemeProj_user_2008-08-01-11-46-16_00025" lastUnlockedBy="ccpn_auto" name="NatAbun">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>Unlabelled isotopomers</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>Natural Abundances</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="1" createdBy="ccpn_auto" guid="Labelling_vicky_2009-11-12-16-11-30-865_00001" lastUnlockedBy="ccpn_auto" name="SAIL">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>Stereo-array Isotope Labelling</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>SAIL</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="1" createdBy="ccpn_auto" guid="Labelling_vicky_2010-11-16-15-06-28-227_00001" lastUnlockedBy="ccpn_auto" name="uni_13C">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>Uniform 95% 13C</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>Uniform 13C</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="1" createdBy="ccpn_auto" guid="IsoSchemeProj_user_2008-08-01-11-46-16_00022" lastUnlockedBy="ccpn_auto" name="uni_15N">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>Uniform 95% 15N</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>Uniform 15N</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="1" createdBy="ccpn_auto" guid="IsoSchemeProj_user_2008-08-01-11-46-16_00028" lastUnlockedBy="ccpn_auto" name="uni_15N13C">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>Uniform 95% 15N, 13C</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>Uniform 15N, 13C</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="1" createdBy="ccpn_auto" guid="IsoSchemeProj_user_2008-08-01-11-46-16_00027" lastUnlockedBy="ccpn_auto" name="uni_15N13C2H">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>Uniform 95% 15N, 13C, 2H</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>Uniform 15N, 13C, 2H</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+  </IMPL.MemopsRoot.labelingSchemes>
+  <IMPL.MemopsRoot.molSystems>
+    <MOLS.MolSystem _ID="1" _lastId="8937" code="default" createdBy="user" guid="default_user_2022-02-23-14-57-20-617_00001">
+      <MOLS.MolSystem.name>
+        <IMPL.String>default</IMPL.String>
+      </MOLS.MolSystem.name>
+    </MOLS.MolSystem>
+  </IMPL.MemopsRoot.molSystems>
+  <IMPL.MemopsRoot.molecules>
+    <MOLE.Molecule _ID="1" _lastId="755" createdBy="user" guid="Sec5Part1_user_2022-02-23-15-20-24-415_00001" isFinalised="true">
+      <MOLE.Molecule.name>
+        <IMPL.Line>Sec5</IMPL.Line>
+      </MOLE.Molecule.name>
+    </MOLE.Molecule>
+  </IMPL.MemopsRoot.molecules>
+  <IMPL.MemopsRoot.nmrProjects>
+    <NMR.NmrProject _ID="1" _lastId="88524" createdBy="user" guid="default_user_2022-02-23-14-57-20-616_00001">
+      <NMR.NmrProject._nextUniqueIdValues>
+        <IMPL.Multiple>{
+  "NmrChain": 14,
+  "Window": 1,
+  "ChemicalShiftList": 1,
+  "Spectrum": 5,
+  "SpectrumReference": 14,
+  "PeakList": 5,
+  "SpectrumDisplay": 13,
+  "Strip": 110,
+  "Axis": 328,
+  "SpectrumView": 434,
+  "PeakListView": 434,
+  "Peak": 770,
+  "NmrResidue": 191,
+  "NmrAtom": 546,
+  "ChemicalShift": 546,
+  "Substance": 1,
+  "Chain": 1,
+  "Residue": 95,
+  "Atom": 2046,
+  "Mark": 2872
+}</IMPL.Multiple>
+      </NMR.NmrProject._nextUniqueIdValues>
+      <IMPL.DataObject._objectVersion>
+        <IMPL.String>3.1.0.beta1</IMPL.String>
+      </IMPL.DataObject._objectVersion>
+      <NMR.NmrProject.name>
+        <IMPL.Line>default</IMPL.Line>
+      </NMR.NmrProject.name>
+      <NMR.NmrProject.molSystem>
+        <MOLS.exo-MolSystem>
+          <IMPL.GuidString>default_user_2022-02-23-14-57-20-617_00001</IMPL.GuidString>
+        </MOLS.exo-MolSystem>
+      </NMR.NmrProject.molSystem>
+      <NMR.NmrProject.sampleStore>
+        <SAM.exo-SampleStore>
+          <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00002</IMPL.GuidString>
+        </SAM.exo-SampleStore>
+      </NMR.NmrProject.sampleStore>
+    </NMR.NmrProject>
+  </IMPL.MemopsRoot.nmrProjects>
+  <IMPL.MemopsRoot.refSampleComponentStores>
+    <REFS.RefSampleComponentStore _ID="1" _lastId="4" createdBy="user" guid="default_user_2022-02-23-14-57-20-616_00003">
+      <REFS.RefSampleComponentStore.name>
+        <IMPL.Line>default</IMPL.Line>
+      </REFS.RefSampleComponentStore.name>
+    </REFS.RefSampleComponentStore>
+  </IMPL.MemopsRoot.refSampleComponentStores>
+  <IMPL.MemopsRoot.sampleStores>
+    <SAM.SampleStore _ID="1" _lastId="1" createdBy="user" guid="default_user_2022-02-23-14-57-20-616_00002">
+      <SAM.SampleStore.name>
+        <IMPL.Line>default</IMPL.Line>
+      </SAM.SampleStore.name>
+      <SAM.SampleStore.refSampleComponentStore>
+        <REFS.exo-RefSampleComponentStore>
+          <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00003</IMPL.GuidString>
+        </REFS.exo-RefSampleComponentStore>
+      </SAM.SampleStore.refSampleComponentStore>
+    </SAM.SampleStore>
+  </IMPL.MemopsRoot.sampleStores>
+  <IMPL.MemopsRoot.windowStores>
+    <GUIW.WindowStore _ID="1" _lastId="13" createdBy="user" guid="default_user_2022-02-23-14-57-20-617_00002">
+      <GUIW.WindowStore.nmrProject>
+        <NMR.exo-NmrProject>
+            <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00001</IMPL.GuidString>
+        </NMR.exo-NmrProject>
+      </GUIW.WindowStore.nmrProject>
+    </GUIW.WindowStore>
+  </IMPL.MemopsRoot.windowStores>
+</IMPL.MemopsRoot>
+
+</_StorageUnit>
+<!--End of Memops Data-->

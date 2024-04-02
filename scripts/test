@@ -1,0 +1,11 @@
+#!/bin/bash
+
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+
+export PYTHONPATH=${SCRIPT_DIR}/../src:${PYTHONPATH}
+
+echo $PYTHONPATH
+
+cd ${SCRIPT_DIR}/../src/project_checker/tests
+
+pytest ${SCRIPT_DIR}/../src/project_checker/tests -r  fEsxX $@

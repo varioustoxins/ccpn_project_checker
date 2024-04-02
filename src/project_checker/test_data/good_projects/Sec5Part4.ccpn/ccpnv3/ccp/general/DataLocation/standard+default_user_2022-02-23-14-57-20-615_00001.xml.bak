@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_StorageUnit time="Tue May  3 21:16:06 2022" release="3.1.0" packageGuid="www.ccpn.ac.uk_Fogh_2007-04-03-19:08:10_00001" originator="CCPN Python XmlIO">
+
+<DLOC.DataLocationStore _ID="1" _lastId="19" createdBy="user" guid="default_user_2022-02-23-14-57-20-615_00001">
+  <DLOC.DataLocationStore.dataUrls>
+    <DLOC.DataUrl _ID="2" serial="1">
+      <DLOC.DataUrl.name>
+        <IMPL.Line>insideData</IMPL.Line>
+      </DLOC.DataUrl.name>
+      <DLOC.DataUrl.url>
+        <IMPL.Url>
+          <IMPL.Url.path>
+            <IMPL.PathString>/Users/vad5/Documents/Tutorials/data/dataFeb2022/Sec5FullyAssigned.ccpn</IMPL.PathString>
+          </IMPL.Url.path>
+        </IMPL.Url>
+      </DLOC.DataUrl.url>
+    </DLOC.DataUrl>
+    <DLOC.DataUrl _ID="3" serial="2">
+      <DLOC.DataUrl.name>
+        <IMPL.Line>alongsideData</IMPL.Line>
+      </DLOC.DataUrl.name>
+      <DLOC.DataUrl.url>
+        <IMPL.Url>
+          <IMPL.Url.path>
+            <IMPL.PathString>/Users/vad5/Documents/Tutorials/data/dataFeb2022</IMPL.PathString>
+          </IMPL.Url.path>
+        </IMPL.Url>
+      </DLOC.DataUrl.url>
+    </DLOC.DataUrl>
+    <DLOC.DataUrl _ID="4" serial="3">
+      <DLOC.DataUrl.name>
+        <IMPL.Line>remoteData</IMPL.Line>
+      </DLOC.DataUrl.name>
+      <DLOC.DataUrl.url>
+        <IMPL.Url>
+          <IMPL.Url.path>
+            <IMPL.PathString>/Users/vad5</IMPL.PathString>
+          </IMPL.Url.path>
+        </IMPL.Url>
+      </DLOC.DataUrl.url>
+    </DLOC.DataUrl>
+  </DLOC.DataLocationStore.dataUrls>
+</DLOC.DataLocationStore>
+
+</_StorageUnit>
+<!--End of Memops Data-->

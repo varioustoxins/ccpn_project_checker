@@ -1,0 +1,50 @@
+
+TODO
+
+     exo linked file has wrong topobject type
+
+     exo link missing key element / type
+     exo link file has wrong key
+
+for later:
+
+non top object exo links [cross links] - quite hard needs scan or hierarchy -long term goal
+check if all ids satisfied
+could check types of keys compatible (some are ints)!
+run coverage
+
+1. get project approximate creation date - not important delay
+
+2. check guids have right format - not so important delay
+
+3. internal name changed - not so important delay
+
+4. add types for scanned files - lets have this ****
+
+5. check exo link names are ascii - not so important delay
+
+6. check internal project name and that it is ccpn ascii - not so important delay
+
+11. not implemeneted BAD_GUID_FORMAT - not important
+
+12. check inactive error - not important
+
+16. TODOs - not important ****
+
+14. test command line - important   ****
+
+13. build a distribution - important ****
+
+15. write a guide to the format - important ****
+
+16. version 2 projects - nor important ****
+
+17. check internal project properly
+
+
+# tested elsewhere
+INTERNAL_ERROR
+MISSING_ATTRIBUTE
+
+
+

@@ -1,0 +1,3472 @@
+{
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00024": [
+        "memops"
+    ],
+    "www.ccpn.ac.uk_RasmusFogh_2006-06-21-19:13:29_00000": [
+        "Root"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00028": [
+        "memops",
+        "Implementation",
+        "Boolean"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-03-07-15:48:27_00001": [
+        "memops",
+        "Implementation",
+        "KeyWord"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00029": [
+        "memops",
+        "Implementation",
+        "DateTime"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00009": [
+        "memops",
+        "Implementation",
+        "NonNegativeFloat"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-09-12-18:31:28_00001": [
+        "memops",
+        "Implementation",
+        "SpacelessString"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00026": [
+        "memops",
+        "Implementation",
+        "ApplicationData"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00047": [
+        "memops",
+        "Implementation",
+        "MemopsRoot"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-10-03-14:53:27_00001": [
+        "memops",
+        "Implementation",
+        "FileTopObject"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00055": [
+        "memops",
+        "Implementation",
+        "Token"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-09-14-16:28:57_00007": [
+        "memops",
+        "Implementation",
+        "FileMemopsRoot"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-12-15-19:00:39_00001": [
+        "memops",
+        "Implementation",
+        "ImplementationObject"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00025": [
+        "memops",
+        "Implementation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-05-05-15:12:50_00007": [
+        "memops",
+        "Implementation",
+        "RgbColor"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00044": [
+        "memops",
+        "Implementation",
+        "AppDataString"
+    ],
+    "www.ccpn.ac.uk_Fogh_2010-11-17-16:21:33_00001": [
+        "memops",
+        "Implementation",
+        "ThreeValueAnswer"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00048": [
+        "memops",
+        "Implementation",
+        "FileStorageObject"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00031": [
+        "memops",
+        "Implementation",
+        "Float"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00003": [
+        "memops",
+        "Implementation",
+        "PathString"
+    ],
+    "www.ccpn.ac.uk_Fogh_2015-10-26-11:28:17_00001": [
+        "memops",
+        "Implementation",
+        "IeeeFloat"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-05-29-14:27:55_00001": [
+        "memops",
+        "Implementation",
+        "NegativeFloat"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00054": [
+        "memops",
+        "Implementation",
+        "StorageFormat"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-09-14-16:28:57_00002": [
+        "memops",
+        "Implementation",
+        "TopObject"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00043": [
+        "memops",
+        "Implementation",
+        "AppDataFloat"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-09-14-16:28:57_00008": [
+        "memops",
+        "Implementation",
+        "DbMemopsRoot"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00011": [
+        "memops",
+        "Implementation",
+        "NonNegativeInt"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00041": [
+        "memops",
+        "Implementation",
+        "AppDataInt"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00058": [
+        "memops",
+        "Implementation",
+        "FloatRatio"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00027": [
+        "memops",
+        "Implementation",
+        "MemopsObject"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-09-14-16:28:57_00005": [
+        "memops",
+        "Implementation",
+        "DataObject"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-13-15:54:00_00000": [
+        "memops",
+        "Implementation",
+        "Url"
+    ],
+    "www.ccpn.ac.uk_Fogh_2016-02-21-22:03:00_00001": [
+        "memops",
+        "Implementation",
+        "Multiple"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-04-16-13:49:36_00004": [
+        "memops",
+        "Implementation",
+        "SymmTracelessMatrix"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-11-17-09:06:35_00001": [
+        "memops",
+        "Implementation",
+        "Any"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-12-15-19:00:39_00003": [
+        "memops",
+        "Implementation",
+        "MemopsDataTypeObject"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00005": [
+        "memops",
+        "Implementation",
+        "SingleLine"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-11-03-14:03:26_00001": [
+        "memops",
+        "Implementation",
+        "StringKeyDict"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00032": [
+        "memops",
+        "Implementation",
+        "Int"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-09-14-16:28:57_00003": [
+        "memops",
+        "Implementation",
+        "PackageLocator"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-06-30-16:30:50_00001": [
+        "memops",
+        "Implementation",
+        "GuidString"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00035": [
+        "memops",
+        "Implementation",
+        "String"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-09-12-18:31:28_00003": [
+        "memops",
+        "Implementation",
+        "LongWord"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00013": [
+        "memops",
+        "Implementation",
+        "Dict"
+    ],
+    "www.ccpn.ac.uk_Fogh_2011-12-02-09:49:50_00001": [
+        "memops",
+        "Implementation",
+        "HexString"
+    ],
+    "www.ccpn.ac.uk_Fogh_2011-12-02-09:49:50_00003": [
+        "memops",
+        "Implementation",
+        "RgbaColor"
+    ],
+    "www.ccpn.ac.uk_Fogh_2021-03-09-12:46:37_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "Collection"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-01-23-10:52:32_00001": [
+        "memops",
+        "Implementation",
+        "Page"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00033": [
+        "memops",
+        "Implementation",
+        "Line"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-04-10-18:39:10_00003": [
+        "memops",
+        "Implementation",
+        "IntSign"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-09-14-16:28:57_00001": [
+        "memops",
+        "Implementation",
+        "DbTopObject"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00050": [
+        "memops",
+        "Implementation",
+        "UrlProtocol"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00037": [
+        "memops",
+        "Implementation",
+        "Word"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-10-18-17:15:48_00001": [
+        "memops",
+        "Implementation",
+        "ComplexDataType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00007": [
+        "memops",
+        "Implementation",
+        "PositiveFloat"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00039": [
+        "memops",
+        "Implementation",
+        "AppDataBoolean"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00001": [
+        "memops",
+        "Implementation",
+        "PositiveInt"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-09-14-16:28:57_00004": [
+        "memops",
+        "Implementation",
+        "Repository"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-05-29-14:27:55_00003": [
+        "memops",
+        "Implementation",
+        "NegativeInt"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-06-17-10:12:41_00001": [
+        "cambridge"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-10-01-14:13:59_00003": [
+        "cambridge",
+        "Dangle",
+        "DangleChain"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-10-01-14:13:59_00004": [
+        "cambridge",
+        "Dangle",
+        "DangleResidue"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-10-01-14:13:59_00001": [
+        "cambridge",
+        "Dangle"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-10-01-14:13:59_00002": [
+        "cambridge",
+        "Dangle",
+        "DangleStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-10-01-14:13:59_00006": [
+        "cambridge",
+        "Dangle",
+        "NormDegAngle"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-10-01-14:13:59_00005": [
+        "cambridge",
+        "Dangle",
+        "ColorScheme"
+    ],
+    "www.ccpn.ac.uk_Fogh_2010-05-06-12:26:54_00005": [
+        "cambridge",
+        "WmsProtocol",
+        "ProtocolAccess"
+    ],
+    "www.ccpn.ac.uk_Fogh_2011-03-22-17:23:22_00002": [
+        "cambridge",
+        "WmsProtocol",
+        "InterfaceParameter"
+    ],
+    "www.ccpn.ac.uk_Fogh_2010-05-06-12:26:54_00002": [
+        "cambridge",
+        "WmsProtocol",
+        "WmsProtocol"
+    ],
+    "www.ccpn.ac.uk_Fogh_2010-05-06-12:26:54_00001": [
+        "cambridge",
+        "WmsProtocol"
+    ],
+    "www.ccpn.ac.uk_Fogh_2011-03-22-17:23:22_00001": [
+        "cambridge",
+        "WmsProtocol",
+        "ProtocolInterface"
+    ],
+    "www.ccpn.ac.uk_Fogh_2011-10-11-16:36:18_00003": [
+        "cambridge",
+        "WmsProtocol",
+        "InterfaceObject"
+    ],
+    "www.ccpn.ac.uk_Fogh_2010-05-06-12:26:54_00004": [
+        "cambridge",
+        "WmsProtocol",
+        "ProtocolService"
+    ],
+    "www.ccpn.ac.uk_Fogh_2010-05-06-12:26:54_00003": [
+        "cambridge",
+        "WmsProtocol",
+        "ProtocolParameter"
+    ],
+    "www.ccpn.ac.uk_Fogh_2011-03-22-17:23:22_00006": [
+        "cambridge",
+        "WmsProtocol",
+        "ParamType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2011-10-11-16:36:18_00002": [
+        "cambridge",
+        "WmsProtocol",
+        "InterfaceLabel"
+    ],
+    "www.ccpn.ac.uk_Fogh_2011-03-22-17:23:22_00003": [
+        "cambridge",
+        "WmsProtocol",
+        "EnumValue"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-11-22:58:43_00001": [
+        "utrecht"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-02-19-14:00:58_00002": [
+        "utrecht",
+        "Haddock",
+        "ScoringWeight"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-11-22:58:43_00006": [
+        "utrecht",
+        "Haddock",
+        "HaddockEnergyTerm"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-02-20-13:11:56_00001": [
+        "utrecht",
+        "Haddock",
+        "SemiFlexMode"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-11-22:58:43_00004": [
+        "utrecht",
+        "Haddock",
+        "HaddockPartner"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-11-22:58:43_00002": [
+        "utrecht",
+        "Haddock"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-02-27-16:13:11_00001": [
+        "utrecht",
+        "Haddock",
+        "Chain"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-02-18-17:38:39_00004": [
+        "utrecht",
+        "Haddock",
+        "ForceFieldCode"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-21-18:19:25_00001": [
+        "utrecht",
+        "Haddock",
+        "NonBondedType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-02-27-16:13:11_00003": [
+        "utrecht",
+        "Haddock",
+        "HaddockInteraction"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-11-22:58:43_00007": [
+        "utrecht",
+        "Haddock",
+        "Run"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-02-19-14:00:58_00001": [
+        "utrecht",
+        "Haddock",
+        "DielectricType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-02-27-16:13:11_00002": [
+        "utrecht",
+        "Haddock",
+        "Residue"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-02-20-14:31:17_00001": [
+        "utrecht",
+        "Haddock",
+        "EnergyTermParameter"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-21-18:19:25_00003": [
+        "utrecht",
+        "Haddock",
+        "Solvent"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-02-19-14:00:58_00003": [
+        "utrecht",
+        "Haddock",
+        "ScoringTerm"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-11-22:58:43_00003": [
+        "utrecht",
+        "Haddock",
+        "HaddockProject"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-02-18-17:38:39_00003": [
+        "utrecht",
+        "Haddock",
+        "ResidueFlexibility"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:43_00001": [
+        "ccp"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-17-12:58:03_00002": [
+        "ccp",
+        "lims"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00010": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "SpecificLabelGroup"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00056": [
+        "ccp",
+        "lims",
+        "RefSampleComponent"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00015": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "MolComponent"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00009": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "LabelName"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00007": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "Label"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00001": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "Primer"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00003": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "RestrictionEnzyme"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00062": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "Composite"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00061": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "Cell"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00011": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "IsotopeLabel"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00058": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "CompositeElement"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00060": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "Construct"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00005": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "MolCompFeature"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-09-05-12:37:24_00007": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "RefSampleComponentStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00059": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "CompositeInteraction"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00057": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "AbstractComponent"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00008": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "LabelType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00002": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "Substance"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00012": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "ConstructStatus"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00013": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "StatusType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00004": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "ComponentDbRef"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00006": [
+        "ccp",
+        "lims",
+        "RefSampleComponent",
+        "FeatureType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:43_00002": [
+        "ccp",
+        "lims",
+        "Sample"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:44_00005": [
+        "ccp",
+        "lims",
+        "Sample",
+        "ConcentrationUnit"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:44_00007": [
+        "ccp",
+        "lims",
+        "Sample",
+        "AbstractSample"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-09-05-12:37:24_00008": [
+        "ccp",
+        "lims",
+        "Sample",
+        "SampleStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:44_00002": [
+        "ccp",
+        "lims",
+        "Sample",
+        "SampleComponent"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:44_00006": [
+        "ccp",
+        "lims",
+        "Sample",
+        "AmountUnit"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:44_00001": [
+        "ccp",
+        "lims",
+        "Sample",
+        "Sample"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:44_00004": [
+        "ccp",
+        "lims",
+        "Sample",
+        "CrystalSample"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-17-12:58:03_00001": [
+        "ccp",
+        "general"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:55_00012": [
+        "ccp",
+        "general",
+        "Citation",
+        "BookCitation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:55_00017": [
+        "ccp",
+        "general",
+        "Citation",
+        "CitationStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:55_00010": [
+        "ccp",
+        "general",
+        "Citation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:55_00014": [
+        "ccp",
+        "general",
+        "Citation",
+        "ThesisCitation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:55_00011": [
+        "ccp",
+        "general",
+        "Citation",
+        "Citation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:55_00013": [
+        "ccp",
+        "general",
+        "Citation",
+        "ConferenceCitation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:55_00016": [
+        "ccp",
+        "general",
+        "Citation",
+        "CitationStatus"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:55_00015": [
+        "ccp",
+        "general",
+        "Citation",
+        "JournalCitation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00038": [
+        "ccp",
+        "general",
+        "Instrument"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-18:19:49_00001": [
+        "ccp",
+        "general",
+        "Instrument",
+        "InstrumentStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00040": [
+        "ccp",
+        "general",
+        "Instrument",
+        "NmrSpectrometer"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00039": [
+        "ccp",
+        "general",
+        "Instrument",
+        "AbstractInstrument"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00041": [
+        "ccp",
+        "general",
+        "Instrument",
+        "NmrProbe"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00002": [
+        "ccp",
+        "general",
+        "Instrument",
+        "NmrProbeType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00003": [
+        "ccp",
+        "general",
+        "Instrument",
+        "SpectrometerFreq"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00004": [
+        "ccp",
+        "general",
+        "Instrument",
+        "Column"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00001": [
+        "ccp",
+        "general",
+        "Instrument",
+        "Instrument"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-18:19:50_00004": [
+        "ccp",
+        "general",
+        "Template"
+    ],
+    "www.ccpn.ac.uk_Fogh_2011-03-30-17:55:17_00001": [
+        "ccp",
+        "general",
+        "Template",
+        "FloatMatrixObject"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-18:19:50_00005": [
+        "ccp",
+        "general",
+        "Template",
+        "AbstractProbability"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-13-15:55:49_00003": [
+        "ccp",
+        "general",
+        "Template",
+        "MultiTypeValue"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00019": [
+        "ccp",
+        "general",
+        "DbRef"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00021": [
+        "ccp",
+        "general",
+        "DbRef",
+        "Database"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00020": [
+        "ccp",
+        "general",
+        "DbRef",
+        "Entry"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00024": [
+        "ccp",
+        "general",
+        "Annotation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00025": [
+        "ccp",
+        "general",
+        "Annotation",
+        "MolFeature"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00026": [
+        "ccp",
+        "general",
+        "Annotation",
+        "Annotation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-09-05-12:55:15_00001": [
+        "ccp",
+        "general",
+        "Annotation",
+        "AnnotationStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-09-05-12:55:15_00002": [
+        "ccp",
+        "general",
+        "Taxonomy",
+        "Taxonomy"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-18:19:50_00002": [
+        "ccp",
+        "general",
+        "Taxonomy"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-18:19:50_00003": [
+        "ccp",
+        "general",
+        "Taxonomy",
+        "NaturalSource"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-04-03-19:08:10_00005": [
+        "ccp",
+        "general",
+        "DataLocation",
+        "AbstractDataStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-04-04-17:43:15_00007": [
+        "ccp",
+        "general",
+        "DataLocation",
+        "ComponentShape"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00034": [
+        "ccp",
+        "general",
+        "DataLocation",
+        "NumberType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-04-03-19:08:10_00001": [
+        "ccp",
+        "general",
+        "DataLocation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-04-03-19:08:10_00003": [
+        "ccp",
+        "general",
+        "DataLocation",
+        "DataUrl"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-04-04-17:43:15_00002": [
+        "ccp",
+        "general",
+        "DataLocation",
+        "NumericMatrix"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-04-04-17:43:15_00005": [
+        "ccp",
+        "general",
+        "DataLocation",
+        "ShapeMatrix"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-06-19-17:41:34_00001": [
+        "ccp",
+        "general",
+        "DataLocation",
+        "Component"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-04-03-19:08:10_00002": [
+        "ccp",
+        "general",
+        "DataLocation",
+        "DataLocationStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-06-19-17:41:34_00002": [
+        "ccp",
+        "general",
+        "DataLocation",
+        "ComponentStatus"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-04-04-17:43:15_00006": [
+        "ccp",
+        "general",
+        "DataLocation",
+        "DataEncoding"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-06-11-15:00:22_00001": [
+        "ccp",
+        "general",
+        "DataLocation",
+        "MatrixFileType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-04-04-17:43:15_00004": [
+        "ccp",
+        "general",
+        "DataLocation",
+        "BlockedBinaryMatrix"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-04-04-17:43:15_00001": [
+        "ccp",
+        "general",
+        "DataLocation",
+        "MimeTypeDataStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-04-04-17:43:15_00003": [
+        "ccp",
+        "general",
+        "DataLocation",
+        "ComplexStorage"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-14-17:02:54_00003": [
+        "ccp",
+        "general",
+        "KeywordDefinition",
+        "KeywordDefinitionStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-14-17:02:54_00001": [
+        "ccp",
+        "general",
+        "KeywordDefinition"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-14-17:02:54_00002": [
+        "ccp",
+        "general",
+        "KeywordDefinition",
+        "KeywordDefinition"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00023": [
+        "ccp",
+        "general",
+        "Affiliation",
+        "Group"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00017": [
+        "ccp",
+        "general",
+        "Affiliation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00019": [
+        "ccp",
+        "general",
+        "Affiliation",
+        "Organisation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00018": [
+        "ccp",
+        "general",
+        "Affiliation",
+        "Person"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00022": [
+        "ccp",
+        "general",
+        "Affiliation",
+        "PersonInGroup"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00021": [
+        "ccp",
+        "general",
+        "Affiliation",
+        "FamilyTitle"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00020": [
+        "ccp",
+        "general",
+        "Affiliation",
+        "PersonTitle"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-18:19:49_00006": [
+        "ccp",
+        "general",
+        "Affiliation",
+        "AffiliationStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00027": [
+        "ccp",
+        "general",
+        "Method"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00028": [
+        "ccp",
+        "general",
+        "Method",
+        "Method"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00032": [
+        "ccp",
+        "general",
+        "Method",
+        "MethodStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00031": [
+        "ccp",
+        "general",
+        "Method",
+        "ParamType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00030": [
+        "ccp",
+        "general",
+        "Method",
+        "Parameter"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00029": [
+        "ccp",
+        "general",
+        "Method",
+        "Software"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-17-12:58:02_00001": [
+        "ccp",
+        "molecule"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-18:19:50_00001": [
+        "ccp",
+        "molecule",
+        "Stereochemistry",
+        "StereochemistryStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00055": [
+        "ccp",
+        "molecule",
+        "Stereochemistry",
+        "RefStereochemistry"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00054": [
+        "ccp",
+        "molecule",
+        "Stereochemistry"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00028": [
+        "ccp",
+        "molecule",
+        "MolSystem",
+        "MolSystemSysName"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00036": [
+        "ccp",
+        "molecule",
+        "MolSystem",
+        "ChainFragment"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00022": [
+        "ccp",
+        "molecule",
+        "MolSystem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00024": [
+        "ccp",
+        "molecule",
+        "MolSystem",
+        "Chain"
+    ],
+    "www.ccpn.ac.uk_Fogh_2016-09-12-10:13:24_00001": [
+        "ccp",
+        "molecule",
+        "MolSystem",
+        "ChainGroup"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00023": [
+        "ccp",
+        "molecule",
+        "MolSystem",
+        "MolSystem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00033": [
+        "ccp",
+        "molecule",
+        "MolSystem",
+        "StructureGroup"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00029": [
+        "ccp",
+        "molecule",
+        "MolSystem",
+        "Atom"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00034": [
+        "ccp",
+        "molecule",
+        "MolSystem",
+        "MolSystemLinkEnd"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00030": [
+        "ccp",
+        "molecule",
+        "MolSystem",
+        "Residue"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00027": [
+        "ccp",
+        "molecule",
+        "MolSystem",
+        "MolSystemLink"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00026": [
+        "ccp",
+        "molecule",
+        "MolSystem",
+        "ChainInteraction"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00037": [
+        "ccp",
+        "molecule",
+        "MolSystem",
+        "GenericBond"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-31-11:44:56_00002": [
+        "ccp",
+        "molecule",
+        "MolSystem",
+        "AtomType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-24-11:28:55_00009": [
+        "ccp",
+        "molecule",
+        "LabeledMolecule",
+        "MolLabelFraction"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-24-11:28:55_00001": [
+        "ccp",
+        "molecule",
+        "LabeledMolecule"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-24-11:28:55_00003": [
+        "ccp",
+        "molecule",
+        "LabeledMolecule",
+        "MolLabel"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-24-11:28:55_00007": [
+        "ccp",
+        "molecule",
+        "LabeledMolecule",
+        "UniformAtomLabel"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-24-11:28:55_00006": [
+        "ccp",
+        "molecule",
+        "LabeledMolecule",
+        "SingleAtomLabel"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-24-11:28:55_00005": [
+        "ccp",
+        "molecule",
+        "LabeledMolecule",
+        "AtomLabel"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-24-11:28:55_00002": [
+        "ccp",
+        "molecule",
+        "LabeledMolecule",
+        "LabeledMolecule"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-24-11:28:55_00004": [
+        "ccp",
+        "molecule",
+        "LabeledMolecule",
+        "ResLabel"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-24-11:28:55_00008": [
+        "ccp",
+        "molecule",
+        "LabeledMolecule",
+        "LabeledMixture"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-01-25-14:45:21_00001": [
+        "ccp",
+        "molecule",
+        "LabeledMolecule",
+        "ResLabelFraction"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-02-20-18:17:09_00004": [
+        "molsim",
+        "Symmetry",
+        "Segment"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-02-20-17:01:34_00001": [
+        "molsim",
+        "Symmetry"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-02-20-18:17:09_00001": [
+        "molsim",
+        "Symmetry",
+        "MolSystemSymmetrySet"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-02-20-18:17:09_00002": [
+        "molsim",
+        "Symmetry",
+        "Symmetry"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-02-20-18:17:09_00006": [
+        "molsim",
+        "Symmetry",
+        "SymmetryOpCode"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:55_00009": [
+        "ccp",
+        "molecule",
+        "ChemCompCoord",
+        "ChemAtomCoord"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:55_00005": [
+        "ccp",
+        "molecule",
+        "ChemCompCoord"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:55_00007": [
+        "ccp",
+        "molecule",
+        "ChemCompCoord",
+        "ChemCompVarCoord"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:55_00006": [
+        "ccp",
+        "molecule",
+        "ChemCompCoord",
+        "ChemCompCoord"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00038": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "LinkAtom"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00025": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "ChemCompLinking"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00011": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "StdChemComp"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00026": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "BondStereochemistry"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00046": [
+        "ccp",
+        "molecule",
+        "ChemComp"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00002": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "AtomSysName"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00013": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "TwelveLetterCode"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00004": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "ChemCompSysName"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00023": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "ThreeLetterCode"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00030": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "LinkEnd"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00028": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "Stereochemistry"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00047": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "ChemComp"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00014": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "ChemAtomSet"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00001": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "AbstractChemAtom"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00009": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "NonStdChemComp"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00037": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "ChemAtom"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00022": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "ChemTorsionSysName"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00005": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "ChemCompVar"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00027": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "AtomChirality"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-05-03-17:42:17_00001": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "NamingSystem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00039": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "BondType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00008": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "ChemTorsion"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00054": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "ChemAngle"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00024": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "MolType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00003": [
+        "ccp",
+        "molecule",
+        "ChemComp",
+        "ChemBond"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00008": [
+        "ccp",
+        "molecule",
+        "ChemCompCharge"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00012": [
+        "ccp",
+        "molecule",
+        "ChemCompCharge",
+        "ChemAtomCharge"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00009": [
+        "ccp",
+        "molecule",
+        "ChemCompCharge",
+        "ChemCompCharge"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00010": [
+        "ccp",
+        "molecule",
+        "ChemCompCharge",
+        "ChemCompVarCharge"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00048": [
+        "ccp",
+        "molecule",
+        "Molecule",
+        "MolResLinkEnd"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-26-10:11:54_00001": [
+        "ccp",
+        "molecule",
+        "Molecule",
+        "Alignment"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00038": [
+        "ccp",
+        "molecule",
+        "Molecule"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00051": [
+        "ccp",
+        "molecule",
+        "Molecule",
+        "SmilesType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00053": [
+        "ccp",
+        "molecule",
+        "Molecule",
+        "SecStrucCode"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00050": [
+        "ccp",
+        "molecule",
+        "Molecule",
+        "LinkDihedralAngle"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00049": [
+        "ccp",
+        "molecule",
+        "Molecule",
+        "MolResLink"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00044": [
+        "ccp",
+        "molecule",
+        "Molecule",
+        "MolResidue"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00045": [
+        "ccp",
+        "molecule",
+        "Molecule",
+        "MolSeqFragment"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00039": [
+        "ccp",
+        "molecule",
+        "Molecule",
+        "Molecule"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00043": [
+        "ccp",
+        "molecule",
+        "Molecule",
+        "MoleculeSysName"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00055": [
+        "ccp",
+        "molecule",
+        "Molecule",
+        "MolType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00032": [
+        "ccp",
+        "molecule",
+        "MolStructure",
+        "StructureEnsemble"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00065": [
+        "ccp",
+        "molecule",
+        "MolStructure"
+    ],
+    "www.ccpn.ac.uk_Fogh_2011-04-05-18:06:52_00001": [
+        "ccp",
+        "molecule",
+        "MolStructure",
+        "EnsembleDataNames"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:55_00002": [
+        "ccp",
+        "molecule",
+        "MolStructure",
+        "Chain"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:55_00001": [
+        "ccp",
+        "molecule",
+        "MolStructure",
+        "Coord"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-23-12:00:10_00001": [
+        "ccp",
+        "molecule",
+        "MolStructure",
+        "Model"
+    ],
+    "www.ccpn.ac.uk_Fogh_2011-03-30-17:55:16_00001": [
+        "ccp",
+        "molecule",
+        "MolStructure",
+        "DataMatrix"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:55_00004": [
+        "ccp",
+        "molecule",
+        "MolStructure",
+        "Atom"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:55_00003": [
+        "ccp",
+        "molecule",
+        "MolStructure",
+        "Residue"
+    ],
+    "www.ccpn.ac.uk_Fogh_2016-06-25-05:37:23_00001": [
+        "ccp",
+        "molecule",
+        "MolStructure",
+        "Parameter"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-18:19:49_00003": [
+        "ccp",
+        "molecule",
+        "ChemElement",
+        "Isotope"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-18:19:49_00002": [
+        "ccp",
+        "molecule",
+        "ChemElement"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-06-07-18:18:10_00002": [
+        "ccp",
+        "molecule",
+        "ChemElement",
+        "HalfLifeType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-18:19:49_00005": [
+        "ccp",
+        "molecule",
+        "ChemElement",
+        "ChemElementStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-18:19:49_00004": [
+        "ccp",
+        "molecule",
+        "ChemElement",
+        "ChemElement"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-09-08-17:17:06_00004": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "MolSysAtomValidation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-14-17:02:54_00011": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "EntryValidation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-14-17:02:54_00008": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "NmrConstraintValidation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-13-15:55:49_00001": [
+        "ccp",
+        "molecule",
+        "Validation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-13-15:55:49_00004": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "ValidationResult"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-13-15:55:49_00002": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "ValidationStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-14-17:02:54_00009": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "NmrConstraintListValidation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-14-17:02:54_00010": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "EnsembleValidation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-09-08-17:17:06_00003": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "MolSysResidueValidation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-14-17:02:54_00007": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "NmrMeasurementListValidation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-09-08-17:17:06_00002": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "MolSysChainValidation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-13-15:55:49_00006": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "ResidueValidation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-13-15:55:49_00008": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "StructureValidation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-14-17:02:54_00006": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "NmrMeasurementValidation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-13-15:55:49_00007": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "ChainValidation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-14-17:02:54_00004": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "PeakListValidation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-13-15:55:49_00005": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "AtomValidation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-11-14-17:02:54_00005": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "PeakValidation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-09-08-17:17:06_00001": [
+        "ccp",
+        "molecule",
+        "Validation",
+        "MolSystemValidation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-01-24-12:23:14_00001": [
+        "ccp",
+        "molecule",
+        "ChemCompLabel",
+        "LabelingScheme"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00013": [
+        "ccp",
+        "molecule",
+        "ChemCompLabel"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00018": [
+        "ccp",
+        "molecule",
+        "ChemCompLabel",
+        "AtomLabel"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-24-11:28:54_00001": [
+        "ccp",
+        "molecule",
+        "ChemCompLabel",
+        "Isotopomer"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00014": [
+        "ccp",
+        "molecule",
+        "ChemCompLabel",
+        "ChemCompLabel"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-17-12:58:03_00003": [
+        "ccp",
+        "nmr"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00037": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "ExpKeyword"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00036": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "ExpCategory"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00027": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "ExpTransferSubType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00030": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "ExpMeasurementType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00023": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "AtomSite"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00026": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "RefExpDimRef"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00019": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00021": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "ExpTransfer"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00034": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "ExpMeasurement"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00031": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "ConstantTimeType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-03-30-16:37:31_00001": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "SystematicName"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00032": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "ExpGraph"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-03-30-16:37:31_00002": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "NamingSystem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00029": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "ExpTransferType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00020": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "NmrExpPrototype"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00025": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "RefExpDim"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00028": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "ExpStep"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:45_00024": [
+        "ccp",
+        "nmr",
+        "NmrExpPrototype",
+        "RefExperiment"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00001": [
+        "ccp",
+        "nmr",
+        "NmrReference",
+        "ChemCompNmrRef"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:08_00001": [
+        "ccp",
+        "nmr",
+        "NmrReference"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00006": [
+        "ccp",
+        "nmr",
+        "NmrReference",
+        "ChemCompVarNmrRef"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00005": [
+        "ccp",
+        "nmr",
+        "NmrReference",
+        "ChemAtomShiftCorr"
+    ],
+    "www.ccpn.ac.uk_Fogh_2010-05-14-15:28:22_00001": [
+        "ccp",
+        "nmr",
+        "NmrReference",
+        "ChemAtomNmrDistrib"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:49_00008": [
+        "ccp",
+        "nmr",
+        "NmrReference",
+        "NmrReferenceStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00002": [
+        "ccp",
+        "nmr",
+        "NmrReference",
+        "ChemAtomNmrRef"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00022": [
+        "ccp",
+        "nmr",
+        "NmrEntry",
+        "RelatedEntry"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00019": [
+        "ccp",
+        "nmr",
+        "NmrEntry"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00023": [
+        "ccp",
+        "nmr",
+        "NmrEntry",
+        "NmrEntryStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-09-26-14:11:49_00003": [
+        "ccp",
+        "nmr",
+        "NmrEntry",
+        "VectorType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00021": [
+        "ccp",
+        "nmr",
+        "NmrEntry",
+        "Study"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-09-26-14:11:48_00001": [
+        "ccp",
+        "nmr",
+        "NmrEntry",
+        "EntryMolecule"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:25:09_00020": [
+        "ccp",
+        "nmr",
+        "NmrEntry",
+        "Entry"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-09-26-14:12:23_00001": [
+        "ccp",
+        "nmr",
+        "NmrEntry",
+        "ProductionMethod"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-09-26-14:11:49_00001": [
+        "ccp",
+        "nmr",
+        "NmrEntry",
+        "EntryType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-09-26-14:11:49_00002": [
+        "ccp",
+        "nmr",
+        "NmrEntry",
+        "SourceType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-07-11-16:03:02_00001": [
+        "ccp",
+        "nmr",
+        "NmrEntry",
+        "DataBaseName"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-05-20-16:32:11_00005": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "SpectrumData"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-04-16-16:23:57_00002": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "NmrCalcStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-05-20-16:32:11_00003": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "MolResidueData"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-04-16-16:23:57_00007": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "IoRole"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-05-20-16:32:11_00004": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "StructureEnsembleData"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-05-20-16:32:11_00002": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "MolSystemData"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-04-16-16:23:58_00005": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "ConstraintStoreData"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-04-16-16:23:57_00001": [
+        "ccp",
+        "nmr",
+        "NmrCalc"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-04-16-16:23:58_00004": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "DerivedListData"
+    ],
+    "www.ccpn.ac.uk_Fogh_2011-10-11-16:36:17_00001": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "ParameterGroup"
+    ],
+    "www.ccpn.ac.uk_Fogh_2010-05-17-12:06:16_00001": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "TensorData"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-04-16-16:23:58_00003": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "MeasurementListData"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-04-16-16:23:58_00006": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "ViolationListData"
+    ],
+    "www.ccpn.ac.uk_Fogh_2010-05-18-17:35:44_00001": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "EnergyTerm"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-04-16-16:23:57_00004": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "Run"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-04-16-16:23:57_00005": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "Status"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-04-16-16:23:58_00001": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "RunParameter"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-04-16-16:23:57_00006": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "Data"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-04-16-16:23:58_00002": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "ExternalData"
+    ],
+    "www.ccpn.ac.uk_Fogh_2010-05-18-17:35:44_00002": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "EnergyTermParameter"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-04-16-16:23:58_00007": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "PeakListData"
+    ],
+    "www.ccpn.ac.uk_Fogh_2010-05-05-14:19:57_00001": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "RunIo"
+    ],
+    "www.ccpn.ac.uk_Fogh_2011-04-05-18:08:58_00001": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "FloatMatrixData"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-05-20-16:32:11_00001": [
+        "ccp",
+        "nmr",
+        "NmrCalc",
+        "SpinSystemData"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:49_00005": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ExpSampleState"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00017": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "T1"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00033": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "Resonance"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00019": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "T1Rho"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00021": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "DerivedData"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-03-02-12:01:34_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "DataSourceImage"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00026": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "Pka"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00035": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ResonanceGroupProb"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00039": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "T1CoherenceType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-02-05-11:33:12_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "TempCalibMethod"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-25-11:29:42_00002": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "PeakCluster"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00021": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "T2"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00007": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ShiftDifference"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00009": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "AbstractMeasurement"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-30-17:44:22_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "NmrChain"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00012": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "SpectralDensityDerivation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00022": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "DerivedDataList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00010": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "AbstractMeasurementList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2015-06-11-15:41:36_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "Note"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:49_00011": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "StructureGeneration"
+    ],
+    "www.ccpn.ac.uk_EJB_2022-01-06-18:06:14_00001": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ViolationTable"
+    ],
+    "www.ccpn.ac.uk_EJB_2022-01-06-18:06:14_00002": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ViolationTableParameter"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00039": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "SampleCondition"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00006": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ShiftAnisotropyList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00022": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "PeakList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00006": [
+        "ccp",
+        "nmr",
+        "Nmr"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00027": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ExpDimRef"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-04-10-18:39:10_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ExpDimRefMapping"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-04-05-11:27:55_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "SparseSampling"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00018": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "T1List"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00033": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ShiftRefType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2018-04-20-12:17:45_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "MultipletType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00031": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ResidueProb"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00008": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "AbstractDataDim"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00009": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ShiftList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00021": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "PeakIntensity"
+    ],
+    "www.ccpn.ac.uk_Fogh_2017-10-05-09:04:32_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "Thing"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00011": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "Peak"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-11-17-17:48:52_00002": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ConnectedStretch"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-11-19-14:50:32_00010": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "SpectrumHit"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:49_00002": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ChainStateSetType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00028": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "PkaList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2009-02-05-11:33:12_00002": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "TempControlMethod"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00020": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "T1RhoList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-12-01-14:37:12_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "PeakClusterType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00022": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "T2List"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00038": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "IntensityType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00013": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "Datum"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00034": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ResonanceGroup"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00004": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "Shift"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00003": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "HExchRate"
+    ],
+    "www.ccpn.ac.uk_Ed_2017-10-05-09:04:32_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "BaseAnotherThing"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00002": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "SampledDataDim"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:50_00002": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "StructureGenerationType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00020": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "AbstractPeakDimContrib"
+    ],
+    "www.ccpn.ac.uk_EJB_2018-04-20-10:54:01_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "Multiplet"
+    ],
+    "www.ccpn.ac.uk_EJB_2018-04-20-10:54:01_00002": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "MultipletList"
+    ],
+    "www.ccpn.ac.uk_EJB_2018-04-21-18:51:56_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "IntegralList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-10-25-11:29:42_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "PeakDimComponent"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00032": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "FidDataDim"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00014": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "DataDerivation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "SampleConditionSet"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00030": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ExpTransfer"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00015": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "AtomSet"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:49_00003": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "SampleConditionType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00006": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "NoeList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00030": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "RdcList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00010": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ShiftReference"
+    ],
+    "www.ccpn.ac.uk_Fogh_2021-03-13-19:38:20_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "DataTable"
+    ],
+    "www.ccpn.ac.uk_Fogh_2016-01-29-09:12:52_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "SpectrumGroup"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00027": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "PKaDerivation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00033": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "FreqDataDim"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:49_00004": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ShiftReferenceMolecule"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00013": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "SpectralDensityList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00023": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ShiftDifferenceType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00024": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "PeakDimContribN"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00012": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "JCouplingList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00011": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "SpectralDensity"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00004": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "HExchRateList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:49_00010": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "NmrExpSeries"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00010": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "IsotropicS2List"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00005": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ShiftAnisotropy"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00008": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "IsotropicS2"
+    ],
+    "www.ccpn.ac.uk_EJB_2018-04-21-18:48:48_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "Integral"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00015": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "DataList"
+    ],
+    "www.ccpn.ac.uk_EJB_2018-05-18-14:55:52_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "DirectNmrChainLinkType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-04-10-18:39:10_00002": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "DimensionScaling"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-03-06-18:40:24_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "StructureAnalysis"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:50_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "NoeValueType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2021-03-13-20:00:31_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "DataTableParameter"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00032": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ResidueTypeProb"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00009": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "IsotropicS2Derivation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00037": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "LinkType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:49_00009": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "HExchProtectionType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00007": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "InternalShiftReference"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00019": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "DataDimRef"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "HExchProtection"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00023": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "DipolarRelaxation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:49_00007": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "DataSourceDataType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-11-17-17:48:52_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "SequentialAssignment"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00005": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "Noe"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00020": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "DataSource"
+    ],
+    "www.ccpn.ac.uk_Fogh_2018-04-13-07:49:51_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "AnotherThing"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00032": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ResonanceProb"
+    ],
+    "www.ccpn.ac.uk_Fogh_2018-04-13-07:49:51_00002": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "YetAnotherThing"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00028": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "Experiment"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00008": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ShiftDifferenceList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00011": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "JCoupling"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:49_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "T2CoherenceType"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00026": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "PeakDimContrib"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00026": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ExpDim"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00024": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "DipolarRelaxList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00017": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ChainState"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00002": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "HExchProtectionList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00018": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ChainStateSet"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00031": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ExternalShiftReference"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00029": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "Rdc"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00017": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "PeakContrib"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00025": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ExpChainState"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:47_00038": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "ResonanceSet"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-18:19:48_00001": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "NmrProject"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00007": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "AbstractDataDerivation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00013": [
+        "ccp",
+        "nmr",
+        "Nmr",
+        "PeakDim"
+    ],
+    "www.ccpn.ac.uk_Fogh_2015-12-22-14:42:10_00005": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "FourAtomContribution"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-22-17:02:49_00002": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "DistanceContribution"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00024": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "AbstractConstraint"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00029": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ChemicalShiftConstraint"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-04-16-13:49:36_00001": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "CsaConstraintList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-22-17:02:49_00006": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "HBondItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00018": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "DihedralConstraintList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-22-17:02:49_00005": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "HBondContribution"
+    ],
+    "www.ccpn.ac.uk_Fogh_2015-12-21-10:17:16_00006": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "AtomPairItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00001": [
+        "ccp",
+        "nmr",
+        "NmrConstraint"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00008": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "SingleConstraint"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00011": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "JCouplingConstraint"
+    ],
+    "www.ccpn.ac.uk_Fogh_2015-12-21-10:17:16_00001": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "GenericConstraintList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00030": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ChemicalShiftConstraintList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-29-12:54:23_00009": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "CsaContribution"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-22-17:02:49_00008": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "JCouplingItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00026": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "RdcConstraintList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00015": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "DistanceConstraintItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-04-16-13:49:36_00003": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ConditionState"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00012": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "HBondConstraintList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-29-12:54:23_00007": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ChemicalShiftContribution"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00032": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ConstraintPeakContrib"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00014": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "HBondConstraint"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00028": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "RdcConstraint"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00010": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "JCouplingConstraintItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2016-02-21-11:18:29_00001": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "CalculationStep"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00033": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ChainStateLink"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00005": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ResCoord"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-04-16-13:49:36_00002": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "CsaConstraint"
+    ],
+    "www.ccpn.ac.uk_Fogh_2016-02-21-22:02:59_00001": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ConstraintListParameter"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:48_00014": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "NmrConstraintStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00027": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "RdcConstraintItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00016": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "DistanceConstraintList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00007": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "FixedAtomSet"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00013": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "HBondConstraintItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00002": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "Violation"
+    ],
+    "www.ccpn.ac.uk_Fogh_2016-02-21-11:18:29_00002": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "Data"
+    ],
+    "www.ccpn.ac.uk_Fogh_2015-12-22-14:42:10_00003": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "AtomPairContribution"
+    ],
+    "www.ccpn.ac.uk_Fogh_2015-12-22-14:42:10_00001": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "SingleAtomContribution"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00009": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "JCouplingConstraintList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00003": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ViolationList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-29-12:54:23_00005": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "RdcItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00017": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "DistanceConstraint"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00023": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "AbstractConstraintList"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-22-17:02:49_00007": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "JCouplingContribution"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00006": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "FixedResonanceSet"
+    ],
+    "www.ccpn.ac.uk_Fogh_2015-12-21-10:17:16_00004": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "SingleAtomItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-22-17:02:49_00001": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ConstraintContribution"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-29-12:54:23_00002": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "DihedralItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2015-12-21-10:17:16_00009": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "FourAtomItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-22-17:02:49_00003": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "DistanceItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-29-12:54:23_00004": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "RdcContribution"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00025": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "DihedralConstraint"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00019": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "DihedralConstraintItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00031": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "FixedResonance"
+    ],
+    "www.ccpn.ac.uk_Fogh_2015-03-09-10:31:14_00001": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ConstraintOrigin"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00004": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ResStructure"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-10-17-10:43:15_00001": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "PairwiseConstraintItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2015-12-22-15:03:06_00001": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "GenericContribution"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-29-12:54:23_00010": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "CsaItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2015-12-21-10:17:16_00002": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "GenericConstraint"
+    ],
+    "www.ccpn.ac.uk_Fogh_2006-08-16-14:22:51_00022": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ConstraintGroup"
+    ],
+    "www.ccpn.ac.uk_Fogh_2016-02-21-11:18:29_00003": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "Parameter"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-29-12:54:23_00001": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "DihedralContribution"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-22-17:02:49_00004": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ConstraintItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-07-29-12:54:23_00008": [
+        "ccp",
+        "nmr",
+        "NmrConstraint",
+        "ChemicalShiftItem"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-06-05-13:42:05_00001": [
+        "molsim"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-06-05-13:42:05_00002": [
+        "molsim",
+        "AnnealProtocol"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-06-05-13:42:05_00005": [
+        "molsim",
+        "AnnealProtocol",
+        "AnnealStage"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-06-05-13:42:05_00008": [
+        "molsim",
+        "AnnealProtocol",
+        "ScaleFunction"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-06-05-13:42:05_00007": [
+        "molsim",
+        "AnnealProtocol",
+        "PotentialScale"
+    ],
+    "www.ccpn.ac.uk_Fogh_2008-02-20-13:32:58_00001": [
+        "molsim",
+        "AnnealProtocol",
+        "RefTermParameter"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-06-05-13:42:05_00006": [
+        "molsim",
+        "AnnealProtocol",
+        "EnergyTerm"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-06-05-13:42:05_00004": [
+        "molsim",
+        "AnnealProtocol",
+        "AnnealProtocol"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-06-05-13:42:05_00009": [
+        "molsim",
+        "AnnealProtocol",
+        "RefPotentialTerm"
+    ],
+    "www.ccpn.ac.uk_Fogh_2007-06-05-13:42:05_00003": [
+        "molsim",
+        "AnnealProtocol",
+        "AnnealProtocolStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-10-31-16:36:25_00001": [
+        "ccpnmr"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-10-31-16:36:25_00002": [
+        "ccpnmr",
+        "gui"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-10-31-16:36:25_00003": [
+        "ccpnmr",
+        "gui",
+        "Window"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-10-31-16:36:26_00003": [
+        "ccpnmr",
+        "gui",
+        "Window",
+        "WindowStore"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-10-31-16:36:26_00001": [
+        "ccpnmr",
+        "gui",
+        "Window",
+        "Window"
+    ],
+    "www.ccpn.ac.uk_EJB_2018-04-21-22:53:02_00002": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "MultipletListView"
+    ],
+    "www.ccpn.ac.uk_EJB_2018-04-22-02:33:08_00002": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "IntegralListView"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-10-31-16:36:26_00010": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "SpectrumView"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-10-31-16:36:25_00004": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "Ruler"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-11-04-17:39:35_00017": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "StripDirection"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-11-04-17:39:35_00030": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "FreeStrip"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-11-04-17:39:35_00003": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "AxisWidthGroup"
+    ],
+    "www.ccpn.ac.uk_Fogh_2015-07-24-16:11:39_00001": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "StripPeakListView"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-10-31-16:36:26_00004": [
+        "ccpnmr",
+        "gui",
+        "Task"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-11-04-17:39:35_00002": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "AxisPositionGroup"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-11-06-10:52:33_00003": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "FidAxis"
+    ],
+    "www.ccpn.ac.uk_Fogh_2015-06-11-17:25:49_00003": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "StripAxis"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-11-06-10:52:33_00002": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "FrequencyAxis"
+    ],
+    "www.ccpn.ac.uk_Fogh_2016-06-22-02:40:53_00001": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "GenericModule"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-11-04-17:39:35_00009": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "BoundDisplay"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-11-04-17:39:35_00005": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "SpectrumDisplay"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-11-04-17:39:35_00029": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "FreeStripDisplay"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-11-04-17:39:35_00018": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "BoundStrip"
+    ],
+    "www.ccpn.ac.uk_Fogh_2015-06-11-17:25:49_00002": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "StripSpectrumView"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-11-04-17:39:35_00004": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "AxisArea"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-10-31-16:36:26_00006": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "Module"
+    ],
+    "www.ccpn.ac.uk_EJB_2018-04-21-22:53:02_00001": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "StripMultipletListView"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-11-06-10:52:33_00004": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "SampledAxis"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-11-06-10:52:33_00001": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "IntensityAxis"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-10-31-16:36:26_00007": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "PeakListView"
+    ],
+    "www.ccpn.ac.uk_EJB_2018-04-22-02:33:08_00003": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "IntegralView"
+    ],
+    "www.ccpn.ac.uk_EJB_2018-04-21-23:01:38_00001": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "MultipletView"
+    ],
+    "www.ccpn.ac.uk_EJB_2018-04-22-02:33:08_00001": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "StripIntegralListView"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-10-31-16:36:26_00013": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "GuiTask"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-10-31-16:36:26_00002": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "Mark"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-11-04-17:39:35_00006": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "Strip"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-10-31-16:36:26_00008": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "PeakView"
+    ],
+    "www.ccpn.ac.uk_Fogh_2016-06-22-02:40:53_00002": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "Parameter"
+    ],
+    "www.ccpn.ac.uk_Fogh_2014-10-31-16:36:26_00005": [
+        "ccpnmr",
+        "gui",
+        "Task",
+        "Axis"
+    ]
+}

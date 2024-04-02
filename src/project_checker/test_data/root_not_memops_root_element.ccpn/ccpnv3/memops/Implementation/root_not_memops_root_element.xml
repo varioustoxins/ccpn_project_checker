@@ -1,0 +1,3697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_StorageUnit time="Sat Feb 24 16:16:06 2024" release="3.1.0" packageGuid="www.ccpn.ac.uk_Fogh_2006-08-16-14:22:53_00025" originator="CCPN Python XmlIO">
+
+<IMPL.NotMemopsRoot _ID="1" _lastId="43" createdBy="user" name="empty_good_project">
+  <IMPL.MemopsRoot.repositories>
+    <IMPL.Repository _ID="3">
+      <IMPL.Repository.name>
+        <IMPL.Line>backup</IMPL.Line>
+      </IMPL.Repository.name>
+      <IMPL.Repository.url>
+        <IMPL.Url>
+          <IMPL.Url.path>
+            <IMPL.PathString>/Users/garyt/programs/ccpnmr/tutorial_data/CcpnBBAssignTutorial/default_backup.ccpn/ccpnv3</IMPL.PathString>
+          </IMPL.Url.path>
+        </IMPL.Url>
+      </IMPL.Repository.url>
+    </IMPL.Repository>
+    <IMPL.Repository _ID="5">
+      <IMPL.Repository.name>
+        <IMPL.Line>generalData</IMPL.Line>
+      </IMPL.Repository.name>
+      <IMPL.Repository.stored> 14</IMPL.Repository.stored>
+      <IMPL.Repository.url>
+        <IMPL.Url>
+          <IMPL.Url.path>
+            <IMPL.PathString>/Users/garyt/.ccpn/data</IMPL.PathString>
+          </IMPL.Url.path>
+        </IMPL.Url>
+      </IMPL.Repository.url>
+    </IMPL.Repository>
+    <IMPL.Repository _ID="4">
+      <IMPL.Repository.name>
+        <IMPL.Line>refData</IMPL.Line>
+      </IMPL.Repository.name>
+      <IMPL.Repository.stored> 9 13 12 11 14 6 8 10 7</IMPL.Repository.stored>
+      <IMPL.Repository.url>
+        <IMPL.Url>
+          <IMPL.Url.path>
+            <IMPL.PathString>/Users/garyt/programs/ccpnmr/3.2.1/src/python/ccpnmodel/data</IMPL.PathString>
+          </IMPL.Url.path>
+        </IMPL.Url>
+      </IMPL.Repository.url>
+    </IMPL.Repository>
+    <IMPL.Repository _ID="2">
+      <IMPL.Repository.name>
+        <IMPL.Line>userData</IMPL.Line>
+      </IMPL.Repository.name>
+      <IMPL.Repository.stored> 9 12 15 6 8 7</IMPL.Repository.stored>
+      <IMPL.Repository.url>
+        <IMPL.Url>
+          <IMPL.Url.path>
+            <IMPL.PathString>/Users/garyt/Dropbox/git/ccpnmr/ccpnmr_3.0.3.edge_gwv6/src/python/checker/test_data/good_projects/empty_good_project.ccpn</IMPL.PathString>
+          </IMPL.Url.path>
+        </IMPL.Url>
+      </IMPL.Repository.url>
+    </IMPL.Repository>
+  </IMPL.MemopsRoot.repositories>
+  <IMPL.MemopsRoot.packageLocators>
+    <IMPL.PackageLocator _ID="15">
+      <IMPL.PackageLocator.repositories> 2</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="6" targetName="ccp.molecule.ChemComp">
+      <IMPL.PackageLocator.repositories> 2 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="7" targetName="ccp.molecule.ChemCompCharge">
+      <IMPL.PackageLocator.repositories> 2 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="8" targetName="ccp.molecule.ChemCompCoord">
+      <IMPL.PackageLocator.repositories> 2 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="9" targetName="ccp.molecule.ChemCompLabel">
+      <IMPL.PackageLocator.repositories> 2 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="10" targetName="ccp.molecule.ChemElement">
+      <IMPL.PackageLocator.repositories> 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="11" targetName="ccp.molecule.StereoChemistry">
+      <IMPL.PackageLocator.repositories> 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="12" targetName="ccp.nmr.NmrExpPrototype">
+      <IMPL.PackageLocator.repositories> 2 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="13" targetName="ccp.nmr.NmrReference">
+      <IMPL.PackageLocator.repositories> 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+    <IMPL.PackageLocator _ID="14" targetName="ccpnmr.AnalysisProfile">
+      <IMPL.PackageLocator.repositories> 5 4</IMPL.PackageLocator.repositories>
+    </IMPL.PackageLocator>
+  </IMPL.MemopsRoot.packageLocators>
+  <IMPL.MemopsRoot.currentGuiTask>
+    <GUIT.exo-GuiTask>
+      <IMPL.GuidString>default_user_2024-02-24-15-54-35-583_00006</IMPL.GuidString>
+    </GUIT.exo-GuiTask>
+  </IMPL.MemopsRoot.currentGuiTask>
+  <IMPL.MemopsRoot.currentLabelingScheme>
+    <CCLB.exo-LabelingScheme>
+      <IMPL.GuidString>IsoSchemeProj_user_2008-08-01-11-46-16_00022</IMPL.GuidString>
+    </CCLB.exo-LabelingScheme>
+  </IMPL.MemopsRoot.currentLabelingScheme>
+  <IMPL.MemopsRoot.currentMolSystem>
+    <MOLS.exo-MolSystem>
+      <IMPL.GuidString>default_user_2024-02-24-15-54-35-583_00004</IMPL.GuidString>
+    </MOLS.exo-MolSystem>
+  </IMPL.MemopsRoot.currentMolSystem>
+  <IMPL.MemopsRoot.currentNmrExpPrototype>
+    <NMRX.exo-NmrExpPrototype>
+      <IMPL.GuidString>cam_wb104_2008-01-15-16-06-39_00031</IMPL.GuidString>
+    </NMRX.exo-NmrExpPrototype>
+  </IMPL.MemopsRoot.currentNmrExpPrototype>
+  <IMPL.MemopsRoot.currentNmrProject>
+    <NMR.exo-NmrProject>
+      <IMPL.GuidString>default_user_2024-02-24-15-54-35-583_00001</IMPL.GuidString>
+    </NMR.exo-NmrProject>
+  </IMPL.MemopsRoot.currentNmrProject>
+  <IMPL.MemopsRoot.currentRefSampleComponentStore>
+    <REFS.exo-RefSampleComponentStore>
+      <IMPL.GuidString>default_user_2024-02-24-15-54-35-583_00003</IMPL.GuidString>
+    </REFS.exo-RefSampleComponentStore>
+  </IMPL.MemopsRoot.currentRefSampleComponentStore>
+  <IMPL.MemopsRoot.currentSampleStore>
+    <SAM.exo-SampleStore>
+      <IMPL.GuidString>default_user_2024-02-24-15-54-35-583_00002</IMPL.GuidString>
+    </SAM.exo-SampleStore>
+  </IMPL.MemopsRoot.currentSampleStore>
+  <IMPL.MemopsRoot.currentWindowStore>
+    <GUIW.exo-WindowStore>
+      <IMPL.GuidString>default_user_2024-02-24-15-54-35-583_00005</IMPL.GuidString>
+    </GUIW.exo-WindowStore>
+  </IMPL.MemopsRoot.currentWindowStore>
+  <IMPL.MemopsRoot.guiTasks>
+    <GUIT.GuiTask _ID="1" _lastId="1" createdBy="user" guid="default_user_2024-02-24-15-54-35-583_00006" name="View">
+      <GUIT.GuiTask.nmrProjectName>
+        <IMPL.Line>default</IMPL.Line>
+      </GUIT.GuiTask.nmrProjectName>
+      <GUIT.GuiTask.nmrProject>
+        <NMR.exo-NmrProject>
+          <IMPL.GuidString>default_user_2024-02-24-15-54-35-583_00001</IMPL.GuidString>
+        </NMR.exo-NmrProject>
+      </GUIT.GuiTask.nmrProject>
+    </GUIT.GuiTask>
+  </IMPL.MemopsRoot.guiTasks>
+  <IMPL.MemopsRoot.labelingSchemes>
+    <CCLB.LabelingScheme _ID="1" _lastId="13240" createdBy="ccpn_auto" guid="IsoSchemeProj_user_2008-08-01-11-46-16_00024" lastUnlockedBy="ccpn_auto" name="13Glycerol">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>95% 1,3-13C glycerol, 15N</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>1,3-13C Glycerol</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="13240" createdBy="ccpn_auto" guid="IsoSchemeProj_user_2008-08-01-11-46-16_00026" lastUnlockedBy="ccpn_auto" name="2Glycerol">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>95% 2-13C glycerol, 15N</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>2-13C Glycerol</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="907" createdBy="ccpn_auto" guid="IsoSchemeProj_user_2008-08-01-11-46-16_00023" lastUnlockedBy="ccpn_auto" name="GAFY">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>G,A,S: 95% 13C,15N; F,Y: 95% 2,3-13C,15N</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>GAFY</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="4486" createdBy="ccpn_auto" guid="Labelling_vicky_2009-11-12-15-38-04-232_00001" lastUnlockedBy="ccpn_auto" name="IVL">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>Uniform 95% 15N, 13C, 2H; V,L: single 1H Me; I: 1H delta Me</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>IVL protonated Me groups</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="4063" createdBy="ccpn_auto" guid="IsoSchemeProj_user_2008-08-01-11-46-16_00025" lastUnlockedBy="ccpn_auto" name="NatAbun">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>Unlabelled isotopomers</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>Natural Abundances</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="4063" createdBy="ccpn_auto" guid="Labelling_vicky_2009-11-12-16-11-30-865_00001" lastUnlockedBy="ccpn_auto" name="SAIL">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>Stereo-array Isotope Labelling</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>SAIL</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="4063" createdBy="ccpn_auto" guid="Labelling_vicky_2010-11-16-15-06-28-227_00001" lastUnlockedBy="ccpn_auto" name="uni_13C">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>Uniform 95% 13C</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>Uniform 13C</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="4063" createdBy="ccpn_auto" guid="IsoSchemeProj_user_2008-08-01-11-46-16_00022" lastUnlockedBy="ccpn_auto" name="uni_15N">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>Uniform 95% 15N</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>Uniform 15N</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="4063" createdBy="ccpn_auto" guid="IsoSchemeProj_user_2008-08-01-11-46-16_00028" lastUnlockedBy="ccpn_auto" name="uni_15N13C">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>Uniform 95% 15N, 13C</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>Uniform 15N, 13C</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+    <CCLB.LabelingScheme _ID="1" _lastId="4063" createdBy="ccpn_auto" guid="IsoSchemeProj_user_2008-08-01-11-46-16_00027" lastUnlockedBy="ccpn_auto" name="uni_15N13C2H">
+      <CCLB.LabelingScheme.details>
+        <IMPL.String>Uniform 95% 15N, 13C, 2H</IMPL.String>
+      </CCLB.LabelingScheme.details>
+      <CCLB.LabelingScheme.longName>
+        <IMPL.Line>Uniform 15N, 13C, 2H</IMPL.Line>
+      </CCLB.LabelingScheme.longName>
+    </CCLB.LabelingScheme>
+  </IMPL.MemopsRoot.labelingSchemes>
+  <IMPL.MemopsRoot.molSystems>
+    <MOLS.MolSystem _ID="1" _lastId="1" code="default" createdBy="user" guid="default_user_2024-02-24-15-54-35-583_00004">
+      <MOLS.MolSystem.name>
+        <IMPL.String>default</IMPL.String>
+      </MOLS.MolSystem.name>
+    </MOLS.MolSystem>
+  </IMPL.MemopsRoot.molSystems>
+  <IMPL.MemopsRoot.nmrExpPrototypes>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="29" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00001" lastUnlockedBy="editor" serial="1">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>COSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="29" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00002" lastUnlockedBy="editor" serial="2">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_H.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="39" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00004" lastUnlockedBy="editor" serial="4">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_H.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="51" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00005" lastUnlockedBy="editor" serial="5">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[DQ(HH)]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>DQ</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="29" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00006" lastUnlockedBy="editor" serial="6">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>other</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[J(HH)]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>J-resolved</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="45" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00007" lastUnlockedBy="editor" serial="7">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H{[n(0)]+[c(0)]}_H.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>12CH/14NH -&gt; H NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="53" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00008" lastUnlockedBy="editor" serial="8">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[{n|c}]_H.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13CH/15NH -&gt; H NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="65" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00009" lastUnlockedBy="editor" serial="9">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[{n|c}]_H{[n(0)]+[c(0)]}.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13CH/15NH -&gt; 12CH/14NH NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="83" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00010" lastUnlockedBy="editor" serial="10">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>{ H[{n|c}]_H{[n(0)]+[c(0)]} | H{[n(0)]+[c(0)]}_H[{n|c}] }.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>labelled &lt;-&gt; unlabeled NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="39" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00011" lastUnlockedBy="editor" serial="11">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13C HSQC/HMQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="39" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00012" lastUnlockedBy="editor" serial="13">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15N HSQC/HMQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="29" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00013" lastUnlockedBy="editor" serial="14">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_[C].Jmultibond</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>low-pass J 13C HMBC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="29" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00014" lastUnlockedBy="editor" serial="15">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_[N].Jmultibond</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>low-pass J 15N HMBC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00015" lastUnlockedBy="editor" serial="16">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_H_H.through-space,relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NOESY-TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00016" lastUnlockedBy="editor" serial="17">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_H_H.through-space,through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NOESY-NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00017" lastUnlockedBy="editor" serial="18">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_H_H.relayed,relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>TOCSY-TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="65" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00018" lastUnlockedBy="editor" serial="19">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N_[C]].Jcoupling</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>H-detected HNC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="69" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00019" lastUnlockedBy="editor" serial="20">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[CA]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNCA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="103" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00020" lastUnlockedBy="editor" serial="21">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[CO]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNCO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="97" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00021" lastUnlockedBy="editor" serial="22">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C[C]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>H-detected HCC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="103" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00022" lastUnlockedBy="editor" serial="23">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[CA[CO]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HCACO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="97" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00023" lastUnlockedBy="editor" serial="24">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C_[N]].Jcoupling</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>H-detected HCN</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="89" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00024" lastUnlockedBy="editor" serial="25">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N]_H.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15N HSQC-NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="89" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00025" lastUnlockedBy="editor" serial="26">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C]_H.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13C HSQC-NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="89" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00026" lastUnlockedBy="editor" serial="27">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[{N|C}]_H.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15N/13C HSQC-NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="331" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00027" lastUnlockedBy="editor" serial="28">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HN_CH.Jcoupling</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNCH</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="163" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00028" lastUnlockedBy="editor" serial="29">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N_[C[H]]].Jcoupling</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>out-and-back HNCH</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="163" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00029" lastUnlockedBy="editor" serial="30">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C_[N[H]]].Jcoupling</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>out-and-back HCNH</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="331" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00030" lastUnlockedBy="editor" serial="31">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HNCAHA</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNCAHA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="163" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00031" lastUnlockedBy="editor" serial="32">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[CA[HA]]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>out-and-back HNCAHA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="163" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-39_00032" lastUnlockedBy="editor" serial="33">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HA[CA[N[H]]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>out-and-back HACANH</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="163" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00001" lastUnlockedBy="editor" serial="34">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N_[C[C]]].Jcoupling</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>H-detected HNCC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="163" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00002" lastUnlockedBy="editor" serial="35">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[CA[CO]]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNCACO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="127" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00003" lastUnlockedBy="editor" serial="36">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[CO[CA]]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNCOCA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="109" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00005" lastUnlockedBy="editor" serial="38">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C[CO[N]]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>H-detected HCCON</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="109" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00006" lastUnlockedBy="editor" serial="39">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[CA[CO[N]]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>H-detected HACACON</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="196" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00007" lastUnlockedBy="editor" serial="40">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HCCH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HCCH-COSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="131" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00008" lastUnlockedBy="editor" serial="41">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HC_CH.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HCCH-TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="111" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00009" lastUnlockedBy="editor" serial="42">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>Schleucher, et al., J. Biomol. NMR 4, 301-306 (1994)</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C]_H[C].through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13C,13C HSQC-NOESY-HSQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="83" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00010" lastUnlockedBy="editor" serial="43">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>T. Diercks, M. Coles &amp; H. Kessler, J. Biomol. NMR, 15,  177-180 (1999)</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N]_H[N].through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15N,15N HSQC-NOESY-HSQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="129" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00011" lastUnlockedBy="editor" serial="44">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>Schleucher et al., J. Biomol NMR 4, 301-306 (1994);  T. Diercks, M. Coles &amp; H. Kessler, J. Biomol. NMR, 15,  177-180 (1999)</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N]_H[C].through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15N,13C HSQC-NOESY-HSQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="443" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00012" lastUnlockedBy="editor" serial="45">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HCCONH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HCCONH</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="197" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00013" lastUnlockedBy="editor" serial="46">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HBCBCGCDHD</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HBCBCGCDHD</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="343" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00014" lastUnlockedBy="editor" serial="47">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HC_caNH.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HCC-TOCSY-NH</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="430" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00015" lastUnlockedBy="editor" serial="48">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HC_caCONH.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HCCA-TOCSY-CONH</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="33" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00016" lastUnlockedBy="editor" serial="50">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C[co]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CO-filtered 13C HSQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="33" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00017" lastUnlockedBy="editor" serial="51">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C[caro]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>aromatic-selective 13C HSQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="33" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00018" lastUnlockedBy="editor" serial="52">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C[h(2n+1)]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CH,CH3 HSQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="33" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00019" lastUnlockedBy="editor" serial="53">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[h(2n+1)]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NH,NH3 HSQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="33" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00020" lastUnlockedBy="editor" serial="54">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C[h(2)]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CH2 HSQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="33" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00021" lastUnlockedBy="editor" serial="55">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[h(2)]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NH2 HSQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="47" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00022" lastUnlockedBy="editor" serial="56">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>ct.H[C[{c(2n)|c(2n+1)}]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CT-HSQC, peak sign from JCC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="47" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00023" lastUnlockedBy="editor" serial="57">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>ct.H[C[{cali(2n)|cali(2n+1)}]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CT-HSQC, peak sign from JCCaliph</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="148" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00024" lastUnlockedBy="editor" serial="58">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[{CA|ca[Cali]}]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNCA/CB</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="900" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00025" lastUnlockedBy="editor" serial="59">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H{CA|Cca}CONH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HBCB/HACACONH</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="145" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00026" lastUnlockedBy="editor" serial="60">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[{CA[H]|ca[C[H]]}]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>out-and-back HNCAHA/CBHB</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="441" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00027" lastUnlockedBy="editor" serial="61">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HCACONH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HCACONH</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="93" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00028" lastUnlockedBy="editor" serial="62">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C]_H{[c(0)]+[n(0)]}.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13CH HSQC -&gt; unlabelled NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="93" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00029" lastUnlockedBy="editor" serial="63">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N]_H{[c(0)]+[n(0)]}.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15NH HSQC -&gt; unlabelled NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="93" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00030" lastUnlockedBy="editor" serial="64">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C]_H[{c|n}].through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13CH HSQC -&gt; 13CH/15NH NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="89" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00031" lastUnlockedBy="editor" serial="65">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C]_H[c(0)].through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13CH -&gt; 12C HSQC-NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="93" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00032" lastUnlockedBy="editor" serial="66">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N]_H[{c|n}].through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15NH HSQC -&gt; 13CH/15NH NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="352" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00034" lastUnlockedBy="editor" serial="68">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[CO[{CA[H]|ca[C[H]]}]]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>out-and-back HNCOCAHA/CBHB</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="217" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00035" lastUnlockedBy="editor" serial="69">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[CO[{CA|ca[C]}]]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNCOCA/CB</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="343" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00036" lastUnlockedBy="editor" serial="70">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H{CA|Cca}NH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HBCB/HACANH</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="93" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00037" lastUnlockedBy="editor" serial="71">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N]_H.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15N HSQC-TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="85" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00038" lastUnlockedBy="editor" serial="72">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C]_H.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13C HSQC-TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="109" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00039" lastUnlockedBy="editor" serial="73">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[{N|C}]_H.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15N/13C HSQC-TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="75" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00040" lastUnlockedBy="editor" serial="74">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[{n|c}]_H[{n|c}].through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13CH/15NH -&gt; 13CH/15NH NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="39" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00041" lastUnlockedBy="editor" serial="75">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H{[n(0)]+[c(0)]}_H{[n(0)]+[c(0)]}.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>12CH/14NH -&gt; 12CH/14NH NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="45" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00042" lastUnlockedBy="editor" serial="76">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H{[n(0)]+[c(0)]}_H.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>12CH/14NH -&gt; H TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="45" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00043" lastUnlockedBy="editor" serial="77">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H{[n(0)]+[c(0)]}H</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>12CH/14NH -&gt; H COSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="43" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00044" lastUnlockedBy="editor" serial="78">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[c(0)]_H.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>12CH -&gt; H TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="43" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00045" lastUnlockedBy="editor" serial="79">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[c(0)]H</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>12CH -&gt; H COSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="33" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00046" lastUnlockedBy="editor" serial="82">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[c(0)]_H[c(0)].through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>12CH -&gt; 12CH NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="35" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00047" lastUnlockedBy="editor" serial="83">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[c]_H[c].through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13CH -&gt; 13CH NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="51" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00048" lastUnlockedBy="editor" serial="84">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H{[N]+[HA]}</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNHA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="55" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00049" lastUnlockedBy="editor" serial="85">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[HB]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNHB</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="39" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00050" lastUnlockedBy="editor" serial="86">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>other</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>1H 1D</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="15" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00051" lastUnlockedBy="editor" serial="88">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>other</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>C</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13C 1D</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="15" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00052" lastUnlockedBy="editor" serial="89">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>other</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>N</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15N 1D</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="97" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00053" lastUnlockedBy="editor" serial="90">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>RNA</NMRX.ExpKeyword>
+        <NMRX.ExpKeyword>DNA</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[Cbase[Nbase]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>H-detected HbCbN</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="441" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00054" lastUnlockedBy="editor" serial="91">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>RNA</NMRX.ExpKeyword>
+        <NMRX.ExpKeyword>DNA</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HCsugarNCbaseH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HsCsNCbHb</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="39" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00055" lastUnlockedBy="editor" serial="92">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>relaxation</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N][T1(H)]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>T1(H) 15N HSQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="39" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00056" lastUnlockedBy="editor" serial="94">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>relaxation</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N][T2(H)]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>T2(H) 15N HSQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="39" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00057" lastUnlockedBy="editor" serial="95">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>relaxation</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N][T1rho(H)]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>T1rho(H) 15N HSQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="39" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00058" lastUnlockedBy="editor" serial="96">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>relaxation</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N][T1zz(HN)]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>T1zz(HN) 15N HSQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="37" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00060" lastUnlockedBy="editor" serial="98">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>short mixing time TEDOR, PAIN</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>NC</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NC (onebond)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="37" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00061" lastUnlockedBy="editor" serial="99">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>N_CA.onebond</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NCA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="37" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00062" lastUnlockedBy="editor" serial="101">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>NCO</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NCO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00063" lastUnlockedBy="editor" serial="102">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>NC_C.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NCC (through-space)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00064" lastUnlockedBy="editor" serial="103">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>N_CA_C.onebond,through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NCACX (through-space)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="ccpnRef" guid="cam_wb104_2008-01-15-16-06-40_00065" lastUnlockedBy="editor" serial="104">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>NCO_C.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NCOCX (through-space)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="445" createdBy="ccpn_auto" guid="test6_user_2008-03-10-14-18-05_00108" lastUnlockedBy="editor" serial="105">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>HCCH-Tocsy with extra out-and-back relay to 15N. Intended for Lys and Arg side chain nitrogens</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HC_C_[N]H.relayed.Jcoupling</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HCC[N]H-TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="241" createdBy="editor" guid="ccpn_editor_2008-04-07-16-17-04-164_00001" serial="106">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HNCANH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HN(CA)NH / HNN</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="527" createdBy="editor" guid="ccpn_editor_2008-04-07-16-51-50-196_00001" serial="107">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HNCOCANH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNCOCANH / HN(C)N</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="493" createdBy="ccpnRef" guid="ccpn_editor_2008-10-13-16-48-41-090_00001" lastUnlockedBy="editor" serial="108">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H{CA|Cca}N[CO]H</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HBCB/HACAN[CO]NH</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="27" createdBy="rhf22" guid="ccpn_editor_2009-03-16-10-35-39-461_00001" serial="109">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>e.g. DOAM, CMAR, CMR, CTUC</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CC</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CC COSY; CC (onebond)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="113" createdBy="ccpnRef" guid="ccpn_editor_2009-03-16-13-52-55-524_00001" lastUnlockedBy="editor" serial="110">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HNCACO</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>C-detected HNCACO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="115" createdBy="ccpnRef" guid="ccpn_editor_2009-03-16-14-56-08-475_00001" lastUnlockedBy="editor" serial="111">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HNCOCA</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>C-detected HNCOCA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="113" createdBy="rhf22" guid="ccpn_editor_2009-03-16-16-42-27-333_00001" serial="112">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>RNA</NMRX.ExpKeyword>
+        <NMRX.ExpKeyword>DNA</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HNNH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNNH</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="113" createdBy="rhf22" guid="ccpn_editor_2009-03-16-16-47-13-478_00001" serial="113">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>RNA</NMRX.ExpKeyword>
+        <NMRX.ExpKeyword>DNA</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HN_NH.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNNH TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="53" createdBy="rhf22" guid="ccpn_editor_2009-03-16-16-50-51-428_00001" serial="114">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>RNA</NMRX.ExpKeyword>
+        <NMRX.ExpKeyword>DNA</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[N]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNN COSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="97" createdBy="ccpnRef" guid="ccpn_editor_2009-03-18-09-33-08-016_00001" lastUnlockedBy="editor" serial="115">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[CA[N]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HCAN</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="155" createdBy="rhf22" guid="ccpn_rhf22_2009-03-18-18-10-50-574_00001" serial="116">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HBCBCGCDCEHE</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="51" createdBy="rhf22" guid="ccpn_rhf22_2009-03-18-18-38-00-330_00001" serial="118">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HA{[CA]+[HB]}</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HACAHB</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="59" createdBy="rhf22" guid="ccpn_rhf22_2009-03-18-18-45-52-163_00001" serial="119">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HACACO</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="rhf22" guid="ccpn_rhf22_2009-03-18-18-52-30-351_00001" serial="120">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="rhf22" guid="ccpn_rhf22_2009-03-18-18-54-16-731_00001" serial="121">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>NH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="rhf22" guid="ccpn_rhf22_2009-03-18-18-55-01-315_00001" serial="122">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>PH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="95" createdBy="rhf22" guid="ccpn_rhf22_2009-03-19-17-13-14-314_00001" serial="123">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>DNA</NMRX.ExpKeyword>
+        <NMRX.ExpKeyword>RNA</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[Cbase[N[Cbase]]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>H68C68N19C42</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="97" createdBy="ccpnRef" guid="ccpn_rhf22_2009-03-31-16-49-15-743_00001" lastUnlockedBy="editor" serial="124">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>DNA</NMRX.ExpKeyword>
+        <NMRX.ExpKeyword>RNA</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C[P]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>H-detected HCP</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="445" createdBy="ccpn_auto" guid="ccpn_rhf22_2009-03-31-16-51-12-992_00001" lastUnlockedBy="editor" serial="125">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>HCCH-Tocsy with extra out-and-back relay to 31P.</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HC_C[P]H.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HCC[P]H TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="rhf22" guid="ccpn_rhf22_2009-03-31-17-02-49-012_00001" serial="126">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>PCH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="445" createdBy="ccpn_auto" guid="ccpn_rhf22_2009-03-31-17-32-47-057_00001" lastUnlockedBy="editor" serial="127">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>HCCH-COSY with extra out-and-back relay to 15N. Intended for Lys and Arg side chain nitrogens</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HCC_[N]H.Jcoupling</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HCC[N]H COSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="65" createdBy="rhf22" guid="ccpn_rhf22_2009-04-01-11-32-42-802_00001" serial="128">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>PH[C]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HPC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="27" createdBy="rhf22" guid="ccpn_rhf22_2009-04-01-11-45-38-607_00001" serial="129">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>P_H.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>PH TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="65" createdBy="rhf22" guid="ccpn_rhf22_2009-04-01-11-47-27-547_00001" serial="130">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>P_H[C].relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>PH[C] TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="rhf22" guid="ccpn_rhf22_2009-04-01-11-50-19-498_00001" serial="131">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>P_H_H.relayed,through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>PHH TOCSY,NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="353" createdBy="rhf22" guid="ccpn_rhf22_2009-04-01-16-22-43-484_00001" serial="132">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>DNA</NMRX.ExpKeyword>
+        <NMRX.ExpKeyword>RNA</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HCaroCaroNH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>H5C5C4N3H</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="45" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-01-17-33-45-765_00001" lastUnlockedBy="editor" serial="133">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>other</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[{J(HH)|J(CH)}]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HC J-resolved</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="45" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-01-17-39-40-928_00001" lastUnlockedBy="editor" serial="134">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>other</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[{J(HH)|J(NH)}]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HN J-resolved</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="45" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-01-17-40-46-130_00001" lastUnlockedBy="editor" serial="136">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>other</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[{J(HH)|J(PH)}]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HP J-resolved</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="rhf22" guid="ccpn_rhf22_2009-04-02-11-10-31-160_00001" serial="137">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HHH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>COSY-COSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="rhf22" guid="ccpn_rhf22_2009-04-02-11-11-51-308_00001" serial="138">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_HH.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NOESY-COSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="85" createdBy="rhf22" guid="ccpn_rhf22_2009-04-02-11-13-04-585_00001" serial="139">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C]H</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13C HSQC-COSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="85" createdBy="rhf22" guid="ccpn_rhf22_2009-04-02-11-15-37-668_00001" serial="140">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N]H</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15N HSQC-COSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="27" createdBy="rhf22" guid="ccpn_rhf22_2009-04-02-16-21-58-488_00001" serial="145">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>TOBSY; short mixing time PDSD, DARR, RFDR, PAR</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>C_C.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CC TOCSY; CC (relayed)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="27" createdBy="rhf22" guid="ccpn_rhf22_2009-04-02-16-22-29-921_00001" serial="146">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>long mixing time PDSD, DARR, RFDR, PAR</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>C_C.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CC NOESY; CC (through-space)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="97" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-03-14-11-37-984_00001" lastUnlockedBy="editor" serial="147">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C_[C]].Jmultibond</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>long range HCC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="83" createdBy="rhf22" guid="ccpn_rhf22_2009-04-03-14-27-15-011_00001" serial="148">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HC_C.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HCC TOCSY; HCC (relayed)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="37" createdBy="rhf22" guid="ccpn_rhf22_2009-04-03-14-37-40-370_00001" serial="149">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CACO</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CACO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="29" createdBy="rhf22" guid="ccpn_rhf22_2009-04-03-14-38-32-367_00001" serial="150">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CA[CO]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>out-and-back CACO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="29" createdBy="rhf22" guid="ccpn_rhf22_2009-04-03-14-39-48-418_00001" serial="153">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CO[CA]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>out-and-back COCA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="65" createdBy="rhf22" guid="ccpn_rhf22_2009-04-03-16-41-44-520_00001" serial="154">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[P]_H.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>31P HSQC-NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="33" createdBy="rhf22" guid="ccpn_rhf22_2009-04-03-16-45-23-891_00001" serial="155">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[P]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>31P HSQC/HMQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="69" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-03-16-56-09-422_00001" lastUnlockedBy="editor" serial="157">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[P]_H.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>31P HSQC-TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="47" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-03-17-29-44-945_00001" lastUnlockedBy="editor" serial="158">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_[C[{h(2n)|h(2n+1)}]].Jmultibond</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>low passHMBC, peak sign from JCH</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="45" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-03-17-43-48-161_00001" lastUnlockedBy="editor" serial="159">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[{N|C}]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15N/13C HSQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="103" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-06-14-20-36-579_00001" lastUnlockedBy="editor" serial="160">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>A. Meissner &amp; O.W. Sorensen, J. Magn. Reson. 150, 100 - 104 (2001)</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>seq.H[N[CA]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>seqHNCA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="370" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-06-14-26-31-124_00001" lastUnlockedBy="editor" serial="162">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>(A. Meissner &amp; O.W. Sorensen, J. Magn. Reson. 151, 328 - 331 (2001))</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>seq.H{CA|Cca}NH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>seqHBCB/HACANH</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="37" createdBy="rhf22" guid="ccpn_rhf22_2009-04-08-15-24-31-480_00001" serial="163">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>C_H.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13C HOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="37" createdBy="rhf22" guid="ccpn_rhf22_2009-04-08-15-25-37-964_00001" serial="164">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>N_H.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15N HOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="37" createdBy="rhf22" guid="ccpn_rhf22_2009-04-08-15-29-35-888_00001" serial="165">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>F_H.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>19F HOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="15" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-08-16-13-08-058_00001" lastUnlockedBy="editor" serial="166">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>other</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>F</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>19F 1D</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="15" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-08-16-13-44-142_00001" lastUnlockedBy="editor" serial="167">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>other</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>P</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>31P 1D</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="rhf22" guid="ccpn_rhf22_2009-04-09-17-22-55-657_00001" serial="168">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CH(1)</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>idept-90</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="65" createdBy="rhf22" guid="ccpn_rhf22_2009-04-09-17-35-30-819_00001" serial="171">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>{H(2n+1)|H(2)}C</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>dept-135</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="89" createdBy="rhf22" guid="ccpn_rhf22_2009-04-09-17-41-08-133_00001" serial="172">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HCC</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>relayed inept</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="93" createdBy="rhf22" guid="ccpn_rhf22_2009-04-09-17-50-32-845_00001" serial="173">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HCC[h(0)]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>relayed inept (quaternary C)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="rhf22" guid="ccpn_rhf22_2009-04-09-17-57-16-877_00001" serial="174">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_HC.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>TOCSY-HC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="rhf22" guid="ccpn_rhf22_2009-04-09-17-59-59-074_00001" serial="175">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_HN.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>TOCSY-HN</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="53" createdBy="rhf22" guid="ccpn_rhf22_2009-04-10-12-24-09-410_00001" serial="176">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N_[CA]].onebond</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>intra-HNCA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="57" createdBy="rhf22" guid="ccpn_rhf22_2009-04-10-12-31-20-619_00001" serial="177">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[DQ(CACA)]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>DQ-HNCA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="95" createdBy="rhf22" guid="ccpn_rhf22_2009-04-10-15-40-01-742_00001" serial="178">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N_[CA[CO]]].onebond</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>intra-HNCACO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="31" createdBy="rhf22" guid="ccpn_rhf22_2009-04-13-16-19-37-778_00001" serial="179">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>relaxation</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[T1(H)]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>T1 H</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="31" createdBy="rhf22" guid="ccpn_rhf22_2009-04-13-16-22-01-404_00001" serial="180">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>relaxation</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[T2(H)]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>T2 H</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="31" createdBy="rhf22" guid="ccpn_rhf22_2009-04-13-16-23-13-548_00001" serial="182">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>relaxation</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[T1rho(H)]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>T1rho H</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-13-16-24-45-202_00001" lastUnlockedBy="editor" serial="184">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>relaxation</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[T1(N)]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HN T1(N)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-13-16-26-26-530_00001" lastUnlockedBy="editor" serial="185">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>relaxation</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[T2(N)]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HN T2(N)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-13-16-26-54-311_00001" lastUnlockedBy="editor" serial="186">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>relaxation</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[T1rho(N)]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HN T1rho(N)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-13-16-28-20-226_00001" lastUnlockedBy="editor" serial="187">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>relaxation</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C[T1(C)]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HC T1(C)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-13-16-29-04-178_00001" lastUnlockedBy="editor" serial="188">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>relaxation</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C[T2(C)]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HC T2(C)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-13-16-29-43-374_00001" lastUnlockedBy="editor" serial="189">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>relaxation</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C[T1rho(C)]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HC T1rho(C)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="91" createdBy="rhf22" guid="ccpn_rhf22_2009-04-13-16-30-34-155_00001" serial="190">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>relaxation</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[T1(N)][CO]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNCO T1(N)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="91" createdBy="rhf22" guid="ccpn_rhf22_2009-04-13-16-34-04-789_00001" serial="191">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>relaxation</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[T2(N)][CO]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNCO T2(N)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="91" createdBy="rhf22" guid="ccpn_rhf22_2009-04-13-16-34-37-190_00001" serial="192">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>quantification</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>relaxation</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[T1rho(N)][CO]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNCO T1rho(N)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="rhf22" guid="ccpn_rhf22_2009-04-14-10-33-39-595_00001" serial="193">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>NH(1)</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15N idept-90</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="65" createdBy="rhf22" guid="ccpn_rhf22_2009-04-14-10-37-53-780_00001" serial="194">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>{H(2n+1)|H(2n)}C</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>deptq-135</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="47" createdBy="rhf22" guid="ccpn_rhf22_2009-04-14-11-27-37-852_00001" serial="195">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>{H(2n+1)|H(2n)}[C]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>out-and-back 2D deptq-135</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="31" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-14-11-28-58-589_00001" lastUnlockedBy="editor" serial="196">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H(1)[C]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CH(1) HSQC/HMQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="31" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-14-11-29-48-421_00001" lastUnlockedBy="editor" serial="197">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H(1)[N]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NH(1) HSQC/HMQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="47" createdBy="rhf22" guid="ccpn_rhf22_2009-04-14-11-31-35-671_00001" serial="198">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>{H(2n+1)|H(2n)}[N]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>out-and-back 15N 2D deptq-135</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="85" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-14-11-44-57-949_00001" lastUnlockedBy="editor" serial="199">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H(1)[C]_H.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CH(1) HSQC-TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="85" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-14-11-45-55-800_00001" lastUnlockedBy="editor" serial="200">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H(1)[N]_H.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NH(1) HSQC-TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="107" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-14-11-46-49-692_00001" lastUnlockedBy="editor" serial="201">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>{H(2n+1)|H(2)}[C]_H.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13C HSQC-TOCSY, sign by CHn</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="107" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-14-11-50-14-577_00001" lastUnlockedBy="editor" serial="202">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>{H(2n+1)|H(2)}[N]_H.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15N HSQC-TOCSY, sign by NHn</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="37" createdBy="rhf22" guid="ccpn_rhf22_2009-04-14-12-02-30-906_00001" serial="203">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_C.Jmultibond</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>coloc</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="rhf22" guid="ccpn_rhf22_2009-04-14-12-05-03-105_00001" serial="204">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_H(1)C.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CH(1) TOCSY-HC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="rhf22" guid="ccpn_rhf22_2009-04-14-12-06-12-064_00001" serial="205">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_H(1)N.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NH(1) TOCSY-HN</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="93" createdBy="rhf22" guid="ccpn_rhf22_2009-04-14-12-07-23-897_00001" serial="206">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_{H(2n+1)|H(2)}C.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>TOCSY-HC, sign from CHn</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="93" createdBy="rhf22" guid="ccpn_rhf22_2009-04-14-12-11-10-549_00001" serial="207">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_{H(2n+1)|H(2)}N.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>TOCSY-HN, sign from NHn</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="93" createdBy="rhf22" guid="ccpn_rhf22_2009-04-14-15-10-00-409_00001" serial="208">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[{N|C}]_H{[n(0)]+[c(0)]}.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15N,13C HSQC-NOESY to unlabeled</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="129" createdBy="rhf22" guid="ccpn_rhf22_2009-04-14-15-18-59-112_00001" serial="210">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[{N|C}]_H[{n|c}].through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15N,13C HSQC-NOESY to labeled</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="113" createdBy="rhf22" guid="ccpn_rhf22_2009-04-15-14-45-27-920_00001" serial="211">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C]_{H(2n+1)|H(2)}[c].relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HC HSQC-TOCSY with CHn sign discrimination</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="33" createdBy="rhf22" guid="ccpn_rhf22_2009-04-15-16-08-26-260_00001" serial="213">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[co]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CO-selected HN HSQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="33" createdBy="rhf22" guid="ccpn_rhf22_2009-04-15-16-12-15-201_00001" serial="214">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[co(0)]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CO-rejected HN HSQC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="95" createdBy="rhf22" guid="ccpn_rhf22_2009-04-15-16-29-28-500_00001" serial="215">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>J. Biomol. NMR 28, 69-79 (2004)</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>DNA</NMRX.ExpKeyword>
+        <NMRX.ExpKeyword>RNA</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[Cbase[Cbase]]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNC6C5</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="298" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-15-17-09-17-471_00001" lastUnlockedBy="editor" serial="216">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H{CA|Cca}[CO[N]]HA</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HBCB/HACA[CO[N]]HA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="39" createdBy="rhf22" guid="ccpn_rhf22_2009-04-15-18-21-25-532_00001" serial="218">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[c[DQ(CC)]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>adequate11</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="39" createdBy="rhf22" guid="ccpn_rhf22_2009-04-15-18-25-02-171_00001" serial="219">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[c_[DQ(CC)]].Jmultibond</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>adequate1n</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="39" createdBy="rhf22" guid="ccpn_rhf22_2009-04-15-18-26-12-895_00001" serial="220">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_[c[DQ(CC)]].Jmultibond</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>adequaten1</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="39" createdBy="rhf22" guid="ccpn_rhf22_2009-04-15-18-26-56-119_00001" serial="221">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_[c_[DQ(CC)]].Jmultibond,Jmultibond</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>adequatenn</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="33" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-17-12-09-20-996_00001" lastUnlockedBy="editor" serial="223">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[n(0)]_H[n(0)].through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>14NH -&gt; 14NH NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="33" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-17-12-12-10-025_00001" lastUnlockedBy="editor" serial="224">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[c(0)]_H[c(0)].relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>12CH -&gt; 12CH TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="39" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-17-12-12-44-192_00001" lastUnlockedBy="editor" serial="225">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H{[n(0)]+[c(0)]}_H{[n(0)]+[c(0)]}.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>unlabelled -&gt;unlabelled TOCSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="61" createdBy="rhf22" guid="ccpn_rhf22_2009-04-17-12-57-19-572_00001" serial="226">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HHHH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>4D cosy, double-relayed COSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="rhf22" guid="ccpn_rhf22_2009-04-17-12-59-31-648_00001" serial="227">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HHHHH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>5D cosy, triple-relayed COSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="29" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-17-13-25-03-615_00001" lastUnlockedBy="editor" serial="230">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_[C].Jcoupling</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13C HMBC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="29" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-17-13-25-45-055_00001" lastUnlockedBy="editor" serial="231">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_[N].Jcoupling</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>15N HMBC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="19" createdBy="rhf22" guid="ccpn_rhf22_2009-04-17-17-33-10-552_00001" serial="232">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>other</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>C[h(0)]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>quaternary carbons</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="rhf22" guid="ccpn_rhf22_2009-04-23-11-51-15-867_00001" serial="234">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CHH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="rhf22" guid="ccpn_rhf22_2009-04-23-11-52-55-154_00001" serial="235">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>NHH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="37" createdBy="rhf22" guid="ccpn_rhf22_2009-04-23-11-59-17-881_00001" serial="236">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>FH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>FH COSY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="29" createdBy="rhf22" guid="ccpn_rhf22_2009-04-23-12-12-48-319_00001" serial="237">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CO[N]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>C-detected CON</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="85" createdBy="ccpnRef" guid="ccpn_rhf22_2009-04-24-14-25-05-979_00001" lastUnlockedBy="editor" serial="238">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H{CA|Cca}CO</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HBCB/HACACO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="83" createdBy="rhf22" guid="ccpn_rhf22_2009-04-24-14-51-43-233_00001" serial="239">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HNCO</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>C-detected HNCO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="83" createdBy="rhf22" guid="ccpn_rhf22_2009-04-24-14-55-28-367_00001" serial="240">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HNCA</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>C-detected HNCA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="rhf22" guid="ccpn_rhf22_2009-04-24-15-18-51-915_00001" serial="241">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H{CA|C}CA</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>C-detected HBCB/HACA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="67" createdBy="rhf22" guid="ccpn_rhf22_2009-04-24-15-22-16-017_00001" serial="242">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H{CA|C}CA[N]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>C-detected HBCB/HACAN</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="51" createdBy="rhf22" guid="ccpn_rhf22_2009-04-24-16-19-16-187_00001" serial="243">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HCA[N]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>C-detected HCAN</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="113" createdBy="rhf22" guid="ccpn_rhf22_2009-04-24-16-22-26-699_00001" serial="244">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HCANCO</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CO-detected HCANCO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="rhf22" guid="ccpn_rhf22_2009-04-24-16-33-20-103_00001" serial="245">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>C_CCO.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CCCO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="67" createdBy="rhf22" guid="ccpn_rhf22_2009-04-24-16-38-50-830_00001" serial="246">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>C_CCO[N].relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CO-detected CCCON</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="81" createdBy="ccpnRef" guid="ccpn_rhf22_2009-05-06-10-36-59-118_00001" lastUnlockedBy="editor" serial="247">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HNCO[CA]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CO-detected HNCO[CA]</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="148" createdBy="ccpnRef" guid="ccpn_rhf22_2009-05-27-15-24-49-312_00001" lastUnlockedBy="editor" serial="248">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>seq.H[N[{CA|ca[Cali]}]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>seq HNCA/CB</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="148" createdBy="ccpnRef" guid="ccpn_rhf22_2009-05-27-16-07-21-688_00001" lastUnlockedBy="editor" serial="251">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N_[{CA|ca[Cali]}]].onebond</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>intra-HNCA/CB</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="29" createdBy="ccpnRef" guid="CcpnStructCourseC_rhf22_2010-09-10-18-00-57-090_00001" lastUnlockedBy="editor" serial="252">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>e.g. POST-C7, INADEQUATE</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>C[DQ(CC)]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13C DQ</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="89" createdBy="vicky" guid="Expts_vicky_2010-12-14-13-22-07-063_00001" serial="253">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CH_HC.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CHHC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="249" createdBy="vicky" guid="Expts_vicky_2010-12-14-13-25-39-114_00001" serial="254">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CH_HC_C.through-space,through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CHHCC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="37" createdBy="vicky" guid="Expts_vicky_2010-12-14-13-33-38-416_00001" serial="255">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>long mixing time TEDOR, PAIN</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>N_C.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NC (through-space)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="vicky" guid="Expts_vicky_2010-12-14-13-43-27-696_00001" serial="256">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CBCACO</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CBCACO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="vicky" guid="Expts_vicky_2010-12-14-13-48-37-390_00001" serial="257">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CACBCG</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CACBCG</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="ccpnRef" guid="Expts_vicky_2010-12-14-13-52-50-236_00001" lastUnlockedBy="editor" serial="258">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>N_CA_C.onebond,relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NCACX (relayed)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="ccpnRef" guid="Expts_vicky_2010-12-14-13-55-39-540_00001" lastUnlockedBy="editor" serial="259">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>NCO_C.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NCOCX (relayed)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="vicky" guid="Expts_vicky_2010-12-14-14-00-12-164_00001" serial="260">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>N_CA_CB.onebond,relayed-alternate</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NCACB</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="183" createdBy="vicky" guid="Expts_vicky_2010-12-15-13-22-42-708_00001" serial="261">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>NH_HC.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NHHC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="191" createdBy="vicky" guid="Expts_vicky_2010-12-15-13-33-01-190_00001" serial="262">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>NH_HC_C.through-space,through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NHHCC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="vicky" guid="Expts_vicky_2010-12-15-14-05-02-575_00001" serial="263">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>NCOCA</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NCOCA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="vicky" guid="Expts_vicky_2010-12-15-14-09-46-258_00001" serial="264">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>N_CACO.onebond</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NCACO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="vicky" guid="Expts_vicky_2010-12-15-14-14-17-936_00001" serial="265">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CA_NCO.onebond</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CANCO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="103" createdBy="vicky" guid="Expts_vicky_2010-12-15-14-17-56-573_00001" serial="266">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CA_NCO_C.onebond,through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CANCOCX (through-space)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="vicky" guid="Expts_vicky_2010-12-15-14-21-48-507_00001" serial="267">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>C_C_C.relayed,through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CCC (relayed,through-space)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="vicky" guid="Expts_vicky_2010-12-15-14-27-18-216_00001" serial="268">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>Cali_Cali_C.relayed,through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CaliCaliC (relayed,through-space)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="27" createdBy="vicky" guid="Expts_vicky_2010-12-15-14-33-26-462_00001" serial="269">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>C_C.relayed-alternate</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>DREAM</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="vicky" guid="Expts_vicky_2010-12-15-14-35-51-210_00001" serial="270">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_HC.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HHC NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="vicky" guid="Expts_vicky_2010-12-15-14-39-22-142_00001" serial="271">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H_HN.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HHN through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="27" createdBy="vicky" guid="Expts_vicky_2010-12-15-15-01-53-533_00001" serial="272">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>N_N.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NN (through-space)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="vicky" guid="Expts_vicky_2010-12-15-15-04-43-891_00001" serial="273">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>NC_C.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NCC (relayed)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="vicky" guid="Expts_vicky_2010-12-15-15-21-30-616_00001" serial="276">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HC_C.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HCC (through-space)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="vicky" guid="Expts_vicky_2010-12-15-15-23-58-377_00001" serial="277">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HNC</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="169" createdBy="vicky" guid="Expts_vicky_2010-12-15-15-49-15-620_00001" serial="280">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>Including HNCACB</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HNCA_C.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNCACX (relayed)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="169" createdBy="vicky" guid="Expts_vicky_2010-12-15-16-02-18-326_00001" serial="281">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>Including HNCOCACB</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HNCO_C.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNCOCX (relayed)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="151" createdBy="vicky" guid="Expts_vicky_2010-12-15-16-06-54-700_00001" serial="282">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N]_HC.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNHHC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="vicky" guid="Expts_vicky_2010-12-15-16-28-12-800_00001" serial="283">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HN_C.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HNC (through-space)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="123" createdBy="vicky" guid="Expts_vicky_2010-12-15-16-30-47-730_00001" serial="284">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>NCOCA_CB.relayed-alternate</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NCOCACB</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="123" createdBy="vicky" guid="Expts_vicky_2010-12-15-16-37-58-854_00001" serial="285">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>N_CA_CB_C.onebond,relayed-alternate,relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>NCACBCX (relayed)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="113" createdBy="vicky" guid="Expts_vicky_2010-12-15-16-38-51-201_00001" serial="286">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>Including CANCOCA</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CA_NCO_C.onebond,relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CANCOCX (relayed)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="rhf22" guid="zzz_rhf22_2011-01-06-16-46-00-997_00001" serial="287">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>Cali_Cali_C.relayed-alternate,relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CaliCaliC (DREAM,relayed)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="vicky" guid="CcpnCourse3a_rhf22_2011-01-11-16-19-27-177_00001" serial="288">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CaliCali_C.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CaliCaliC (onebond,through-space)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="vicky" guid="CcpnCourse3a_rhf22_2011-01-11-16-23-45-807_00001" serial="289">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CaliCali_C.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CaliCaliC (onebond,relayed)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="49" createdBy="rhf22" guid="CcpnCourse3a_rhf22_2011-01-11-16-26-12-860_00001" serial="290">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>Cali_Cali_C.relayed-alternate,through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CaliCaliC (DREAM,through-space)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="353" createdBy="rhf22" guid="zzz_rhf22_2011-02-17-15-01-49-355_00001" serial="291">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>J. Biomol. NMR 26, 79-83 (2003)</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>DNA</NMRX.ExpKeyword>
+        <NMRX.ExpKeyword>RNA</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HCaro_CaroNH.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>H6/5C6/5C4NH</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="97" createdBy="ccpnRef" guid="zzz_rhf22_2011-02-17-16-11-14-804_00001" lastUnlockedBy="editor" serial="292">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C[N]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>H-detected HCN</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="241" createdBy="ccpnRef" guid="zzz_rhf22_2011-02-17-16-13-08-804_00001" lastUnlockedBy="editor" serial="293">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HCNCH</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HCNCH</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="97" createdBy="ccpnRef" guid="zzz_rhf22_2011-02-17-16-36-37-698_00001" lastUnlockedBy="editor" serial="295">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N_[CO]].through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>H-bond HNCO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="31" createdBy="rhf22" guid="zzz_rhf22_2011-02-17-16-45-39-150_00001" serial="296">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>other</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>C[{h(2n+1)|h(2n)}]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>APT</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="97" createdBy="ccpnRef" guid="zzz_rhf22_2011-02-17-17-46-47-440_00001" lastUnlockedBy="editor" serial="297">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[C_[C]].relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>relayed proton-detected HCC</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="193" createdBy="rhf22" guid="zzz_rhf22_2011-02-17-18-07-24-742_00001" serial="298">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HC_NH.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>HCNH (relayed)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="73" createdBy="rhf22" guid="zzz_rhf22_2011-02-17-18-21-39-277_00001" serial="299">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>PC_H.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="163" createdBy="ccpnRef" guid="zzz_rhf22_2011-03-07-11-50-12-012_00001" lastUnlockedBy="editor" serial="300">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[CA[CB]]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>H-detected HNCACB</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="289" createdBy="ccpnRef" guid="zzz_rhf22_2011-03-07-11-53-11-779_00001" lastUnlockedBy="editor" serial="301">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H[N[CO[CA[CB]]]]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>H-detected HNCOCACB</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="15" createdBy="rhf22" guid="zzz_rhf22_2011-08-05-16-37-30-332_00001" serial="302">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>other</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>Br</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="27" createdBy="rhf22" guid="ccpn_rhf22_2011-10-05-18-31-45-163_00001" serial="303">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>e.g. DOAM, CMAR, CMR, CTUC</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>C_C.Jcoupling</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CC COSY; CC (n-bond)</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="123" createdBy="ccpnRef" guid="ccpn_rhf22_2011-10-05-18-34-22-481_00001" lastUnlockedBy="editor" serial="304">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H{CA|Cca}CO[N]</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>C-detected HBCB/HACACON</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="113" createdBy="rhf22" guid="ccpn_rhf22_2011-10-05-18-49-04-456_00001" serial="305">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HCA_NCO.Jmultibond</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CO-detected HCANCO-seq</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="139" createdBy="ccpnRef" guid="ccpn_rhf22_2011-10-05-18-56-20-946_00001" lastUnlockedBy="editor" serial="306">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>H{CA|Cca}NCO</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>C-detected HBCB/HACANCO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="59" createdBy="rhf22" guid="ccpn_rhf22_2011-10-05-19-03-48-528_00001" serial="307">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HCA_CA.relayed</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>CACA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="105" createdBy="rhf22" guid="ccpn_rhf22_2011-10-05-19-08-34-464_00001" serial="308">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>CO_CO[N].Jcoupling</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>COCON</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="59" createdBy="rhf22" guid="ccpn_rhf22_2011-10-05-19-12-24-646_00001" serial="309">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-space</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HCA_CO.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>(H)CACO-NOESY</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="79" createdBy="rhf22" guid="ccpn_rhf22_2011-10-06-12-58-03-934_00001" serial="310">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HCANCA</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>(H)CANCA</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="113" createdBy="rhf22" guid="ccpn_rhf22_2011-10-06-13-03-54-202_00001" serial="311">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.keywords>
+        <NMRX.ExpKeyword>protein</NMRX.ExpKeyword>
+      </NMRX.NmrExpPrototype.keywords>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>HNCANCO</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>(H)NCANCO</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+    <NMRX.NmrExpPrototype _ID="1" _lastId="51" createdBy="ccpnRef" guid="ccpn_rhf22_2013-10-02-16-17-30-923_00001" lastUnlockedBy="editor" serial="312">
+      <NMRX.NmrExpPrototype.category>
+        <NMRX.ExpCategory>through-bond</NMRX.ExpCategory>
+      </NMRX.NmrExpPrototype.category>
+      <NMRX.NmrExpPrototype.details>
+        <IMPL.String>e.g. POST-C7, INADEQUATE</IMPL.String>
+      </NMRX.NmrExpPrototype.details>
+      <NMRX.NmrExpPrototype.name>
+        <IMPL.Line>C[DQ(CC)]_C.through-space</IMPL.Line>
+      </NMRX.NmrExpPrototype.name>
+      <NMRX.NmrExpPrototype.synonym>
+        <IMPL.Line>13C DQ</IMPL.Line>
+      </NMRX.NmrExpPrototype.synonym>
+    </NMRX.NmrExpPrototype>
+  </IMPL.MemopsRoot.nmrExpPrototypes>
+  <IMPL.MemopsRoot.nmrProjects>
+    <NMR.NmrProject _ID="1" _lastId="7" _uniqueId="0" createdBy="user" guid="default_user_2024-02-24-15-54-35-583_00001">
+      <NMR.NmrProject._nextUniqueIdValues>
+        <IMPL.Multiple>{
+  "Project": 1,
+  "NmrChain": 1,
+  "Window": 1,
+  "ChemicalShiftList": 1
+}</IMPL.Multiple>
+      </NMR.NmrProject._nextUniqueIdValues>
+      <IMPL.DataObject._objectVersion>
+        <IMPL.String>3.2.1</IMPL.String>
+      </IMPL.DataObject._objectVersion>
+      <IMPL.DataObject.ccpnInternalData>
+        <IMPL.Multiple>{
+  "_ccpNmrV3internal": {
+    "_references": {
+      "_MarkStrip": {
+        "__type__": "ccpn._MarkStrip",
+        "__data__": "{\"indices\": [], \"indptr\": [0], \"data\": [], \"shape\": [0, 0], \"dtype\": \"int8\", \"dformat\": \"csr\", \"rowPids\": [], \"columnPids\": [], \"rowClassName\": \"Mark\", \"columnClassName\": \"Strip\"}"
+      },
+      "_MarkSpectrumDisplay": {
+        "__type__": "ccpn._MarkSpectrumDisplay",
+        "__data__": "{\"indices\": [], \"indptr\": [0], \"data\": [], \"shape\": [0, 0], \"dtype\": \"int8\", \"dformat\": \"csr\", \"rowPids\": [], \"columnPids\": [], \"rowClassName\": \"Mark\", \"columnClassName\": \"SpectrumDisplay\"}"
+      },
+      "_MarkWindow": {
+        "__type__": "ccpn._MarkWindow",
+        "__data__": "{\"indices\": [], \"indptr\": [0], \"data\": [], \"shape\": [0, 1], \"dtype\": \"int8\", \"dformat\": \"csr\", \"rowPids\": [], \"columnPids\": [\"GW:Main\"], \"rowClassName\": \"Mark\", \"columnClassName\": \"Window\"}"
+      }
+    }
+  }
+}</IMPL.Multiple>
+      </IMPL.DataObject.ccpnInternalData>
+      <NMR.NmrProject.name>
+        <IMPL.Line>default</IMPL.Line>
+      </NMR.NmrProject.name>
+      <NMR.NmrProject.molSystem>
+        <MOLS.exo-MolSystem>
+          <IMPL.GuidString>default_user_2024-02-24-15-54-35-583_00004</IMPL.GuidString>
+        </MOLS.exo-MolSystem>
+      </NMR.NmrProject.molSystem>
+      <NMR.NmrProject.sampleStore>
+        <SAM.exo-SampleStore>
+          <IMPL.GuidString>default_user_2024-02-24-15-54-35-583_00002</IMPL.GuidString>
+        </SAM.exo-SampleStore>
+      </NMR.NmrProject.sampleStore>
+    </NMR.NmrProject>
+  </IMPL.MemopsRoot.nmrProjects>
+  <IMPL.MemopsRoot.refSampleComponentStores>
+    <REFS.RefSampleComponentStore _ID="1" _lastId="1" createdBy="user" guid="default_user_2024-02-24-15-54-35-583_00003">
+      <REFS.RefSampleComponentStore.name>
+        <IMPL.Line>default</IMPL.Line>
+      </REFS.RefSampleComponentStore.name>
+    </REFS.RefSampleComponentStore>
+  </IMPL.MemopsRoot.refSampleComponentStores>
+  <IMPL.MemopsRoot.sampleStores>
+    <SAM.SampleStore _ID="1" _lastId="1" createdBy="user" guid="default_user_2024-02-24-15-54-35-583_00002">
+      <SAM.SampleStore.name>
+        <IMPL.Line>default</IMPL.Line>
+      </SAM.SampleStore.name>
+      <SAM.SampleStore.refSampleComponentStore>
+        <REFS.exo-RefSampleComponentStore>
+          <IMPL.GuidString>default_user_2024-02-24-15-54-35-583_00003</IMPL.GuidString>
+        </REFS.exo-RefSampleComponentStore>
+      </SAM.SampleStore.refSampleComponentStore>
+    </SAM.SampleStore>
+  </IMPL.MemopsRoot.sampleStores>
+  <IMPL.MemopsRoot.windowStores>
+    <GUIW.WindowStore _ID="1" _lastId="4" createdBy="user" guid="default_user_2024-02-24-15-54-35-583_00005">
+      <GUIW.WindowStore.nmrProject>
+        <NMR.exo-NmrProject>
+          <IMPL.GuidString>default_user_2024-02-24-15-54-35-583_00001</IMPL.GuidString>
+        </NMR.exo-NmrProject>
+      </GUIW.WindowStore.nmrProject>
+    </GUIW.WindowStore>
+  </IMPL.MemopsRoot.windowStores>
+</IMPL.NotMemopsRoot>
+
+</_StorageUnit>
+<!--End of Memops Data-->

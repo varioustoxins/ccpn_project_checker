@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_StorageUnit time="Sat Feb 24 16:16:06 2024" release="3.1.0" packageGuid="www.ccpn.ac.uk_Fogh_2014-10-31-16:36:26_00004" originator="CCPN Python XmlIO">
+
+<GUIT.GuiTask _ID="1" _lastId="1" createdBy="user" guid="default_user_2024-02-24-15-54-35-583_00006" name="View">
+  <GUIT.GuiTask.nmrProjectName>
+    <IMPL.Line>default</IMPL.Line>
+  </GUIT.GuiTask.nmrProjectName>
+  <GUIT.GuiTask.nmrProject>
+    <NMR.exo-NmrProject>
+      <IMPL.GuidString>default_user_2024-02-24-15-54-35-583_00001</IMPL.GuidString>
+    </NMR.exo-NmrProject>
+  </GUIT.GuiTask.nmrProject>
+  <GUIT.GuiTask.windows>
+    <GUIW.exo-Window>
+      <IMPL.GuidString>default_user_2024-02-24-15-54-35-583_00005</IMPL.GuidString>
+      <IMPL.Int>1</IMPL.Int>
+    </GUIW.exo-Window>
+  </GUIT.GuiTask.windows>
+</GUIT.GuiTask>
+
+</_StorageUnit>
+<!--End of Memops Data-->

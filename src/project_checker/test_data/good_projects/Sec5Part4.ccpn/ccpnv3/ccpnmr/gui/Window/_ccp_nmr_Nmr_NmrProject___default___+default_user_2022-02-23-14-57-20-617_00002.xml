@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_StorageUnit time="Tue May 10 12:29:35 2022" release="3.1.0" packageGuid="www.ccpn.ac.uk_Fogh_2014-10-31-16:36:25_00003" originator="CCPN Python XmlIO">
+
+<GUIW.WindowStore _ID="1" _lastId="13" createdBy="user" guid="default_user_2022-02-23-14-57-20-617_00002">
+  <GUIW.WindowStore.mainWindow> 2</GUIW.WindowStore.mainWindow>
+  <GUIW.WindowStore.nmrProject>
+    <NMR.exo-NmrProject>
+      <IMPL.GuidString>default_user_2022-02-23-14-57-20-616_00001</IMPL.GuidString>
+    </NMR.exo-NmrProject>
+  </GUIW.WindowStore.nmrProject>
+  <GUIW.WindowStore.windows>
+    <GUIW.Window _ID="2" _uniqueId="0" serial="1" title="Main">
+      <IMPL.DataObject._objectVersion>
+        <IMPL.String>3.1.0.beta1</IMPL.String>
+      </IMPL.DataObject._objectVersion>
+      <IMPL.DataObject.ccpnInternalData>
+        <IMPL.Multiple>{}</IMPL.Multiple>
+      </IMPL.DataObject.ccpnInternalData>
+    </GUIW.Window>
+  </GUIW.WindowStore.windows>
+</GUIW.WindowStore>
+
+</_StorageUnit>
+<!--End of Memops Data-->

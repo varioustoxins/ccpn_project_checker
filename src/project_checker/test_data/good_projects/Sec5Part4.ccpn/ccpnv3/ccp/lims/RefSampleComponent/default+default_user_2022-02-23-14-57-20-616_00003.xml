@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_StorageUnit time="Tue May 10 12:29:35 2022" release="3.1.0" packageGuid="www.ccpn.ac.uk_Fogh_2006-08-16-14:22:52_00056" originator="CCPN Python XmlIO">
+
+<REFS.RefSampleComponentStore _ID="1" _lastId="4" createdBy="user" guid="default_user_2022-02-23-14-57-20-616_00003">
+  <REFS.RefSampleComponentStore.name>
+    <IMPL.Line>default</IMPL.Line>
+  </REFS.RefSampleComponentStore.name>
+  <REFS.RefSampleComponentStore.components>
+    <REFS.MolComponent _ID="2" _uniqueId="0" molecularMass="10107.7925">
+      <IMPL.DataObject._objectVersion>
+        <IMPL.String>3.1.0.beta1</IMPL.String>
+      </IMPL.DataObject._objectVersion>
+      <IMPL.DataObject.ccpnInternalData>
+        <IMPL.Multiple>{}</IMPL.Multiple>
+      </IMPL.DataObject.ccpnInternalData>
+      <REFS.MolComponent.empiricalFormula>
+        <IMPL.Line>C443H742N125O133S5</IMPL.Line>
+      </REFS.MolComponent.empiricalFormula>
+      <REFS.MolComponent.molType>
+        <MOLE.MolType>protein</MOLE.MolType>
+      </REFS.MolComponent.molType>
+      <REFS.AbstractComponent.name>
+        <IMPL.Line>Sec5</IMPL.Line>
+      </REFS.AbstractComponent.name>
+      <REFS.MolComponent.seqString>
+        <IMPL.String>HMRQPPLVTGISPNEGIPWTKVTIRGENLGTGPTDLIGLTICGHNCLLTAEWMSASKIVCRVGQAKNDKGDIIVTTKSGGKGTSTVSFKLLKPEK</IMPL.String>
+      </REFS.MolComponent.seqString>
+    </REFS.MolComponent>
+  </REFS.RefSampleComponentStore.components>
+</REFS.RefSampleComponentStore>
+
+</_StorageUnit>
+<!--End of Memops Data-->

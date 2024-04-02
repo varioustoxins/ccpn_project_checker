@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_StorageUnit time="Sat Feb 24 16:16:06 2024" release="3.1.0" packageGuid="www.ccpn.ac.uk_Fogh_2006-08-16-14:22:46_00006" originator="CCPN Python XmlIO">
+
+<NMR.NmrProject _ID="1" _lastId="7" _uniqueId="0" createdBy="user" guid="default_user_2024-02-24-15-54-35-583_00001">
+  <NMR.NmrProject._nextUniqueIdValues>
+    <IMPL.Multiple>{
+  "Project": 1,
+  "NmrChain": 1,
+  "Window": 1,
+  "ChemicalShiftList": 1
+}</IMPL.Multiple>
+  </NMR.NmrProject._nextUniqueIdValues>
+  <IMPL.DataObject._objectVersion>
+    <IMPL.String>3.2.1</IMPL.String>
+  </IMPL.DataObject._objectVersion>
+  <IMPL.DataObject.ccpnInternalData>
+    <IMPL.Multiple>{
+  "_ccpNmrV3internal": {
+    "_references": {
+      "_MarkStrip": {
+        "__type__": "ccpn._MarkStrip",
+        "__data__": "{\"indices\": [], \"indptr\": [0], \"data\": [], \"shape\": [0, 0], \"dtype\": \"int8\", \"dformat\": \"csr\", \"rowPids\": [], \"columnPids\": [], \"rowClassName\": \"Mark\", \"columnClassName\": \"Strip\"}"
+      },
+      "_MarkSpectrumDisplay": {
+        "__type__": "ccpn._MarkSpectrumDisplay",
+        "__data__": "{\"indices\": [], \"indptr\": [0], \"data\": [], \"shape\": [0, 0], \"dtype\": \"int8\", \"dformat\": \"csr\", \"rowPids\": [], \"columnPids\": [], \"rowClassName\": \"Mark\", \"columnClassName\": \"SpectrumDisplay\"}"
+      },
+      "_MarkWindow": {
+        "__type__": "ccpn._MarkWindow",
+        "__data__": "{\"indices\": [], \"indptr\": [0], \"data\": [], \"shape\": [0, 1], \"dtype\": \"int8\", \"dformat\": \"csr\", \"rowPids\": [], \"columnPids\": [\"GW:Main\"], \"rowClassName\": \"Mark\", \"columnClassName\": \"Window\"}"
+      }
+    }
+  }
+}</IMPL.Multiple>
+  </IMPL.DataObject.ccpnInternalData>
+  <NMR.NmrProject.name>
+    <IMPL.Line>default</IMPL.Line>
+  </NMR.NmrProject.name>
+  <NMR.NmrProject.molSystem>
+    <MOLS.exo-MolSystem>
+      <IMPL.GuidString>default_user_2024-02-24-15-54-35-583_00004</IMPL.GuidString>
+    </MOLS.exo-MolSystem>
+  </NMR.NmrProject.molSystem>
+  <NMR.NmrProject.sampleStore>
+    <SAM.exo-SampleStore>
+      <IMPL.GuidString>default_user_2024-02-24-15-54-35-583_00002</IMPL.GuidString>
+    </SAM.exo-SampleStore>
+  </NMR.NmrProject.sampleStore>
+  <NMR.NmrProject.measurementLists>
+    <NMR.ShiftList _ID="3" _uniqueId="0" serial="1">
+      <IMPL.DataObject._objectVersion>
+        <IMPL.String>3.2.1</IMPL.String>
+      </IMPL.DataObject._objectVersion>
+      <IMPL.DataObject.ccpnInternalData>
+        <IMPL.Multiple>{}</IMPL.Multiple>
+      </IMPL.DataObject.ccpnInternalData>
+      <NMR.ShiftList.data>
+        <IMPL.Multiple>{
+  "__type__": "pandas.DataFrame",
+  "__data__": "{\"index\": [], \"columns\": [\"uniqueId\", \"isDeleted\", \"static\", \"value\", \"valueError\", \"figureOfMerit\", \"nmrAtom\", \"chainCode\", \"sequenceCode\", \"residueType\", \"atomName\", \"comment\"], \"data\": []}"
+}</IMPL.Multiple>
+      </NMR.ShiftList.data>
+      <NMR.AbstractMeasurementList.name>
+        <IMPL.Line>default</IMPL.Line>
+      </NMR.AbstractMeasurementList.name>
+    </NMR.ShiftList>
+  </NMR.NmrProject.measurementLists>
+  <NMR.NmrProject.nmrChains>
+    <NMR.NmrChain _ID="2" _uniqueId="0" implCode="@-" label="@-" serial="1">
+      <IMPL.DataObject._objectVersion>
+        <IMPL.String>3.2.1</IMPL.String>
+      </IMPL.DataObject._objectVersion>
+      <IMPL.DataObject.ccpnInternalData>
+        <IMPL.Multiple>{}</IMPL.Multiple>
+      </IMPL.DataObject.ccpnInternalData>
+      <NMR.NmrChain.details>
+        <IMPL.Page>Default NmrChain, used for ResonanceGroups not in other chains. Cannot be deleted or renamed.</IMPL.Page>
+      </NMR.NmrChain.details>
+    </NMR.NmrChain>
+  </NMR.NmrProject.nmrChains>
+</NMR.NmrProject>
+
+</_StorageUnit>
+<!--End of Memops Data-->

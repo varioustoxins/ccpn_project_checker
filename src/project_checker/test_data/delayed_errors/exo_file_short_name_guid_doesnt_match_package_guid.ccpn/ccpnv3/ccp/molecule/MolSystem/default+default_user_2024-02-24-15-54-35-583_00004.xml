@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<_StorageUnit time="Sat Feb 24 16:16:06 2024" release="3.1.0" packageGuid="www.ccpn.ac.uk_Fogh_2006-08-16-14:22:54_00022" originator="CCPN Python XmlIO">
+
+<CHEM.MolSystem _ID="1" _lastId="1" code="default" createdBy="user" guid="default_user_2024-02-24-15-54-35-583_00004">
+  <MOLS.MolSystem.name>
+    <IMPL.String>default</IMPL.String>
+  </MOLS.MolSystem.name>
+</CHEM.MolSystem>
+
+</_StorageUnit>
+<!--End of Memops Data-->
