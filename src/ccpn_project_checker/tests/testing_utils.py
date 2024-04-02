@@ -1,5 +1,4 @@
 # https://stackoverflow.com/questions/75048986/way-to-temporarily-change-the-directory-in-python-to-execute-code-without-affect
-import contextlib
 import os
 import shutil
 import stat
@@ -12,6 +11,7 @@ from time import sleep
 from pathlib import Path
 
 from ccpn_project_checker.tests.api_test_data import ERROR_CODES_NOT_READ_PROTECTED, expecteds
+from ccpn_project_checker.util import different_cwd
 
 TEST_DIRECTORY = Path(__file__).parent / '..' / 'test_data'
 TEST_FILE = TEST_DIRECTORY / 'cli_test_output.txt'
@@ -33,12 +33,12 @@ class RedirectedStdoutToMemory:
         sys.stderr = self.saved_stderr_output
 
 
-from project_checker.DiskModelChecker import (
+from ccpn_project_checker.DiskModelChecker import (
     ErrorAndWarningData,
     ModelChecker,
     ExitStatus, run_cli_checker,
 )
-from project_checker.optional import Optional
+from ccpn_project_checker.optional import Optional
 
 
 def check_results_against_expected(expected, file_path, test_directory):
@@ -133,25 +133,6 @@ def check_results_against_expected(expected, file_path, test_directory):
         assert unexpected_messages == []
 
         assert expected == []
-
-
-@contextlib.contextmanager
-def different_cwd(x):
-    d = os.getcwd()
-
-    # This could raise an exception, but it's probably
-    # best to let it propagate and let the caller
-    # deal with it, since they requested x
-    os.chdir(x)
-
-    try:
-        yield
-
-    finally:
-        # This could also raise an exception, but you *really*
-        # aren't equipped to figure out what went wrong if the
-        # old working directory can't be restored.
-        os.chdir(d)
 
 
 def get_test_project_and_working_directory(file_path):
