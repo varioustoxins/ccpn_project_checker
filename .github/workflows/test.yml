@@ -37,9 +37,3 @@ jobs:
       - name: Run pytest
         run: |
           pytest src/ccpn_project_checker/tests 
-
-#      - name: Lint with ruff
-#        run: |
-#          pip install ruff
-#          ruff --output-format=github .
-#        continue-on-error:  true
