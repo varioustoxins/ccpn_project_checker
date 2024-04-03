@@ -374,7 +374,7 @@ NOTE: analysis took 0.000 seconds
 
 ERRORS [1]:
 
-1. code: MULTIPLE_ROOT_OR_TOP_OBJECTS_IN_STORAGE
+1. code: MULTIPLE_ROOT_OR_TOP_OBJECTS_IN_STORAGE_UNIT
    caused by: too_many_root_elements.ccpn/ccpnv3/memops/Implementation/too_many_root_elements.xml
    detailed message: no xml files which could be memops roots were found in too_many_root_elements.ccpn/ccpnv3/memops/Implementation
    with the following extra messages being reported the file too_many_root_elements.ccpn/ccpnv3/memops/Implementation/too_many_root_elements.xml is not a valid root xml file and
@@ -2294,7 +2294,7 @@ NOTE: the last error [1] prevented a complete analysis of the project
 WARNINGS [3]: - see items with *Ws in the margin above for further context
 
 1. code: MULTIPLE_MEMOPS_ROOT_FILES
-   caused by: [PosixPath('empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation/empty_good_project_mutiple_root_xml_files_2.xml'), PosixPath('empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation/empty_good_project_mutiple_root_xml_files_1.xml')]
+   caused by: [PosixPath('empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation/empty_good_project_mutiple_root_xml_files_1.xml'), PosixPath('empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation/empty_good_project_mutiple_root_xml_files_2.xml')]
    detailed message: more than one possible memops root file found in the implementation directory
    empty_good_project_mutiple_root_xml_files_2.xml
    empty_good_project_mutiple_root_xml_files_1.xml

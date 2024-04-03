@@ -75,7 +75,7 @@ class ErrorCode(Enum):
     BAD_XML = auto()
     NO_STORAGE_UNIT = auto()
     NO_ROOT_OR_TOP_OBJECT = auto()
-    MULTIPLE_ROOT_OR_TOP_OBJECTS_IN_STORAGE = auto()
+    MULTIPLE_ROOT_OR_TOP_OBJECTS_IN_STORAGE_UNIT = auto()
     MULTIPLE_MEMOPS_ROOT_FILES = auto()
     ROOT_IS_NOT_TOP_OBJECT = auto()
     ROOT_IS_NOT_MEMOPS_ROOT = auto()
@@ -377,7 +377,7 @@ def _get_single_root(storage_unit):
                 messages=[
                     f"expected single root element under storage unit, found {len(roots)}"
                 ],
-                error_code=ErrorCode.MULTIPLE_ROOT_OR_TOP_OBJECTS_IN_STORAGE,
+                error_code=ErrorCode.MULTIPLE_ROOT_OR_TOP_OBJECTS_IN_STORAGE_UNIT,
             )
     else:
         result = storage_unit
@@ -913,6 +913,7 @@ class ModelChecker:
                 root_file_names = [
                     xml_file_path.parts[-1] for xml_file_path in xml_file_paths
                 ]
+                root_file_names = sorted(root_file_names)
 
                 if len(xml_file_paths) > 1:
                     msg = f"""\
@@ -920,6 +921,7 @@ class ModelChecker:
                     {NEW_LINE.join(root_file_names)}"""
                     msg = _dedent_all(msg)
 
+                    xml_file_paths = sorted(xml_file_paths)
                     self._report_warning(
                         ErrorCode.MULTIPLE_MEMOPS_ROOT_FILES, xml_file_paths, msg
                     )

@@ -486,7 +486,7 @@ expecteds = {
         "../test_data/too_many_root_elements.ccpn",
         [
             ErrorAndWarningData(
-                ErrorCode.MULTIPLE_ROOT_OR_TOP_OBJECTS_IN_STORAGE,
+                ErrorCode.MULTIPLE_ROOT_OR_TOP_OBJECTS_IN_STORAGE_UNIT,
                 Path(
                     "too_many_root_elements.ccpn/ccpnv3/memops/Implementation/too_many_root_elements.xml"
                 ),
@@ -648,7 +648,7 @@ expecteds = {
         "../test_data/delayed_errors/exo_link_too_many_top_objects.ccpn",
         [
             ErrorAndWarningData(
-                ErrorCode.MULTIPLE_ROOT_OR_TOP_OBJECTS_IN_STORAGE,
+                ErrorCode.MULTIPLE_ROOT_OR_TOP_OBJECTS_IN_STORAGE_UNIT,
                 "exo_link_too_many_top_objects.ccpn/ccpnv3/ccp/molecule/MolSystem/default+default_user_2024-02-24-15-54-35-583_00004.xml",
                 """could not read the file exo_link_too_many_top_objects.ccpn/ccpnv3/ccp/molecule/MolSystem/default+default_user_2024-02-24-15-54-35-583_00004.xml because
                          expected single root element under storage unit, found 2""",
@@ -1225,8 +1225,8 @@ expecteds = {
                           with the following extra messages being reported
                           more than one ccpn root file found in empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation and none match project name
                           roots are:
-                          empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation/empty_good_project_mutiple_root_xml_files_2.xml
-                          empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation/empty_good_project_mutiple_root_xml_files_1.xml""",
+                          empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation/empty_good_project_mutiple_root_xml_files_1.xml
+                          empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation/empty_good_project_mutiple_root_xml_files_2.xml""",
             ),
             *update_notes(
                 EXPECTED_GOOD_NOTES_READ_MEMOPS_ROOT,
@@ -1236,8 +1236,8 @@ expecteds = {
             # *update_notes(EXPECTED_GOOD_EXO_LINKS),
             (
                 _dedent_all("""more than one possible memops root file found in the implementation directory
-                empty_good_project_mutiple_root_xml_files_2.xml
                 empty_good_project_mutiple_root_xml_files_1.xml
+                empty_good_project_mutiple_root_xml_files_2.xml
                 [warning]"""),
                 False,
             ),
