@@ -33,7 +33,7 @@ jobs:
 
       - name: Run pytest
         run: |
-          pytest tests.py 
+          pytest src/ccpn_project_checker/tests 
 
 #      - name: Lint with ruff
 #        run: |
