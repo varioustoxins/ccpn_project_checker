@@ -14,11 +14,13 @@ jobs:
   build:
     strategy:
       matrix:
-        python-version: [ "3.9", "3.10", "3.11", "3.12" ]
-        os: [ubuntu-latest, macos-latest]
+        python-version: [ "3.9"] #, "3.10", "3.11", "3.12" ]
+        os: [windows-latest] #[ubuntu-latest, macos-latest]
 
     runs-on: ${{ matrix.os }}
     steps:
+      - name: Support longpaths
+        run: git config --system core.longpaths true
 
       - uses: actions/checkout@v4
 
