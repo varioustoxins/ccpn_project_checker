@@ -17,7 +17,7 @@ from lxml.etree import Element, ETCompatXMLParser
 
 from typing import List, Dict, Any, Tuple, Union
 
-from dateutil import parser
+from dateutil import parser as time_parser
 
 from ccpn_project_checker.optional.optional import Optional
 from ccpn_project_checker.optional.something import Something
@@ -1823,7 +1823,7 @@ class ModelChecker:
                 storage_time = storage_time.get()
 
             try:
-                parser.parse(storage_time)
+                time_parser.parse(storage_time)
             except Exception:
                 msg = f"in the file {file_path.parts[-1]} {short_name} the attribute time [{storage_time}] in the element {storage_unit.tag} is not a valid time"
                 self._report_error(
