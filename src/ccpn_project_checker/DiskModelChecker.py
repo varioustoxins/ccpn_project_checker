@@ -128,6 +128,7 @@ class ExoLinkInfo:
         return f"{self.short_package_name}.{self.class_name}"
 
 
+# TODO this should be a dataclass
 class ObjectInfo:
     def __init__(
         self,
@@ -1091,6 +1092,7 @@ class ModelChecker:
             # TODO: add tests for guid format
             # exo_link_guid = proto_exo_link.text
             exo_link_guid = proto_exo_link.text
+            #TODO: add the check that the first part of the name is exo?
             try:
                 exo_link_parent = proto_exo_link.getparent()
 
