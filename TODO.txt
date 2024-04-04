@@ -49,6 +49,8 @@
 
 32. odd storage modes ...- not important
 
+33. support v2 file formats
+
 
 
 
