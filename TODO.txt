@@ -29,6 +29,26 @@
 
 21. could check types of keys compatible (some are ints)! -long term goal
 
+22. add a quiet mode - not important
+
+23. add a flag for where to find reference data files - not important
+
+24. NO_EXO_LINKS should be a warning... - not important
+
+25. Check top object internal keys match - important
+
+27. check for multiple top object keys - important
+
+28. consult with Wayne & Rasmus! - important
+
+29. check internal top object keys - not important
+
+30. if filename keys and guids don't match error or warning - not important
+
+31. double ended links vs single ended links... - not important
+
+32. odd storage modes ...- not important
+
 
 
 
