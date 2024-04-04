@@ -1,4 +1,5 @@
 import json
+import os
 
 from os import walk
 from pathlib import Path
@@ -207,11 +208,17 @@ def _find_values_over_hierarchy(top_object_info, field_name, top_object_info_map
     return _merge_dicts(key_types)
 
 
-def build_top_info(model_version):
+def build_top_info(root, model_version):
     global top_object_info_map
-    root = Path(__file__).parent.parent
+
     model_root = root / "ccpnmodel" / "versions"
+
     model_version_root = model_root / model_version
+
+    if not model_version_root.exists():
+        print(f"Error: {model_version_root} does not exist, exiting", file=sys.stderr)
+        sys.exit(1)
+
     top_object_info_map = _walk_meta_model(model_version_root)
 
     for top_object_info in top_object_info_map.values():
@@ -248,7 +255,21 @@ if __name__ == "__main__":
     start = time.time()
 
     model_version = "v_3_1_0"
-    build_top_info(model_version)
+    if len(sys.argv) ==1:
+        root = Path(os.getcwd())
+
+    if len(sys.argv) >1 :
+        root = Path(sys.argv[1])
+
+    if len(sys.argv) > 2:
+        model_version = sys.argv[2]
+
+
+    if not root.exists():
+        print(f"Error: {root} does not exist, exiting", file=sys.stderr)
+        sys.exit(1)
+
+    build_top_info(root, model_version)
 
     end = time.time()
 
