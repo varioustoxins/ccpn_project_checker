@@ -6,8 +6,8 @@ authors = [
     { name = "varioustoxins", email = "garyt.and.sarahb@gmail.com" }
 ]
 dependencies = [
-    "lxml>=5.2.0",
-    "pytest>=8.1.1",
+    "lxml>=4.9.0",
+    "pytest>=7.4.0",
     "time-machine>=2.14.1",
 ]
 readme = "README.md"
