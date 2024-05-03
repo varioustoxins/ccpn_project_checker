@@ -4,4 +4,4 @@ SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
 export PYTHONPATH=${SCRIPT_DIR}/../src:${PYTHONPATH}
 
-python3 ${SCRIPT_DIR}/../src/MetaModelWalker.py ${@}
+python3 ${SCRIPT_DIR}/../src/ccpn_project_checker/MetaModelWalker.py "${@}"
