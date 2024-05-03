@@ -164,6 +164,7 @@ NOTE: analysing exo links
     6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
     7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
     8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
 NOTE: found 8 out of 8 top object files exo linked by the project
 NOTE: expected top object paths are:
     1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -224,6 +225,7 @@ NOTE: analysing exo links
     6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
     7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
     8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
 NOTE: found 8 out of 8 top object files exo linked by the project
 NOTE: expected top object paths are:
     1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -438,6 +440,7 @@ command exited with exit code: 1, [ExitStatus.EXIT_ERROR_INCOMPLETE]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
 *W NOTE: empty directories [1] which may be orphaned containers found and listed below [warning]
 *W     1. exo_linked_file_missing.ccpn/ccpnv3/ccp/molecule/MolSystem [warning]
    NOTE: found 7 out of 8 top object files exo linked by the project
@@ -516,6 +519,7 @@ NOTE: analysing exo links
     6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
     7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
     8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
 NOTE: found 8 out of 8 top object files exo linked by the project
 NOTE: expected top object paths are:
     1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -585,6 +589,7 @@ NOTE: analysing exo links
     6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
     7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
     8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
 NOTE: found 8 out of 8 top object files exo linked by the project
 NOTE: expected top object paths are:
     1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -654,6 +659,7 @@ NOTE: analysing exo links
     6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
     7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
     8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
 NOTE: found 8 out of 8 top object files exo linked by the project
 NOTE: expected top object paths are:
     1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -723,6 +729,7 @@ NOTE: analysing exo links
     6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
     7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
     8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
 NOTE: found 8 out of 8 top object files exo linked by the project
 NOTE: expected top object paths are:
     1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -761,7 +768,7 @@ NOTE: analysis took 0.000 seconds
 
 ERRORS [1]:
 
-1. code: MULTIPLE_ROOT_OR_TOP_OBJECTS_IN_STORAGE
+1. code: MULTIPLE_ROOT_OR_TOP_OBJECTS_IN_STORAGE_UNIT
    caused by: exo_link_too_many_top_objects.ccpn/ccpnv3/ccp/molecule/MolSystem/default+default_user_2024-02-24-15-54-35-583_00004.xml
    detailed message: could not read the file exo_link_too_many_top_objects.ccpn/ccpnv3/ccp/molecule/MolSystem/default+default_user_2024-02-24-15-54-35-583_00004.xml because
    expected single root element under storage unit, found 2
@@ -792,6 +799,7 @@ NOTE: analysing exo links
     6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
     7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
     8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
 NOTE: found 8 out of 8 top object files exo linked by the project
 NOTE: expected top object paths are:
     1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -861,6 +869,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
 *W NOTE: there are 2 files in the project directory that are not linked to a file by an exo link [warning]
 *W     1. ccp/molecule/MolSystem/molecule2.xml [warning]
 *W     2. ccpnmr/gui/Task/task_2.xml [warning]
@@ -940,6 +949,7 @@ command exited with exit code: 4, [ExitStatus.EXIT_WARN]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -1008,6 +1018,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -1076,6 +1087,7 @@ NOTE: analysing exo links
     6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
     7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
     8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
 NOTE: found 8 out of 8 top object files exo linked by the project
 NOTE: expected top object paths are:
     1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -1146,6 +1158,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -1214,6 +1227,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -1286,6 +1300,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -1354,6 +1369,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -1422,6 +1438,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -1492,6 +1509,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -1562,6 +1580,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -1630,6 +1649,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -1704,6 +1724,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -1776,6 +1797,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 None.None - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -1845,6 +1867,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
 *E     6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore - exo link detected but is incorrectly defined in root [error]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -1915,6 +1938,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
 *E     6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore - exo link detected but is incorrectly defined in root [error]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -1985,6 +2009,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
 *E     8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore - exo link detected but is incorrectly defined in root [error]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -2055,6 +2080,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
 *E     8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore - exo link detected but is incorrectly defined in root [error]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -2129,6 +2155,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -2209,6 +2236,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -2252,11 +2280,9 @@ WARNINGS [2]: - see items with *Ws in the margin above for further context
    empty_good_project_extra_root_xml_files.xml
    empty_good_project_extra_root_xml_files_2.xml
    
-2. code: MULTIPLE_MEMOPS_ROOT_FILES
+2. code: WARNING_POSSIBLE_ORPHANED_MEMOPS_ROOT_FILE
    caused by: empty_good_project_extra_root_xml_files.ccpn/ccpnv3/memops/Implementation
-   detailed message: more than one possible memops root file found in the implementation directory
-   empty_good_project_extra_root_xml_files.xml
-   empty_good_project_extra_root_xml_files_2.xml
+   detailed message: the file empty_good_project_extra_root_xml_files_2.xml is a possible orphaned memops root
    
 Overall status EXIT_WARN [4]: The project was ok and is useable but there were some warnings
 
@@ -2269,11 +2295,11 @@ command exited with exit code: 4, [ExitStatus.EXIT_WARN]
    NOTE: the directory empty_good_project_multiple_root_xml_files.ccpn has the correct suffix
    NOTE: found an implementation directory empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation
 *W NOTE: more than one possible memops root file found in the implementation directory
-*W NOTE: empty_good_project_mutiple_root_xml_files_2.xml
 *W NOTE: empty_good_project_mutiple_root_xml_files_1.xml
+*W NOTE: empty_good_project_mutiple_root_xml_files_2.xml
 *W NOTE: [warning]
-*W NOTE: the file empty_good_project_mutiple_root_xml_files_2.xml is a possible orphaned memops root [warning]
 *W NOTE: the file empty_good_project_mutiple_root_xml_files_1.xml is a possible orphaned memops root [warning]
+*W NOTE: the file empty_good_project_mutiple_root_xml_files_2.xml is a possible orphaned memops root [warning]
 
    NOTE: analysis took 0.000 seconds
 
@@ -2285,8 +2311,8 @@ ERRORS [1]: - see items with *Es in the margin above for further context
    with the following extra messages being reported
    more than one ccpn root file found in empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation and none match project name
    roots are:
-   empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation/empty_good_project_mutiple_root_xml_files_2.xml
    empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation/empty_good_project_mutiple_root_xml_files_1.xml
+   empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation/empty_good_project_mutiple_root_xml_files_2.xml
    
 
 NOTE: the last error [1] prevented a complete analysis of the project
@@ -2296,20 +2322,16 @@ WARNINGS [3]: - see items with *Ws in the margin above for further context
 1. code: MULTIPLE_MEMOPS_ROOT_FILES
    caused by: [PosixPath('empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation/empty_good_project_mutiple_root_xml_files_1.xml'), PosixPath('empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation/empty_good_project_mutiple_root_xml_files_2.xml')]
    detailed message: more than one possible memops root file found in the implementation directory
-   empty_good_project_mutiple_root_xml_files_2.xml
    empty_good_project_mutiple_root_xml_files_1.xml
+   empty_good_project_mutiple_root_xml_files_2.xml
    
-2. code: MULTIPLE_MEMOPS_ROOT_FILES
+2. code: WARNING_POSSIBLE_ORPHANED_MEMOPS_ROOT_FILE
    caused by: empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation
-   detailed message: more than one possible memops root file found in the implementation directory
-   empty_good_project_mutiple_root_xml_files_2.xml
-   empty_good_project_mutiple_root_xml_files_1.xml
+   detailed message: the file empty_good_project_mutiple_root_xml_files_1.xml is a possible orphaned memops root
    
-3. code: MULTIPLE_MEMOPS_ROOT_FILES
+3. code: WARNING_POSSIBLE_ORPHANED_MEMOPS_ROOT_FILE
    caused by: empty_good_project_multiple_root_xml_files.ccpn/ccpnv3/memops/Implementation
-   detailed message: more than one possible memops root file found in the implementation directory
-   empty_good_project_mutiple_root_xml_files_2.xml
-   empty_good_project_mutiple_root_xml_files_1.xml
+   detailed message: the file empty_good_project_mutiple_root_xml_files_2.xml is a possible orphaned memops root
    
 Overall status EXIT_ERROR_INCOMPLETE [1]: There was an error [the last one listed] in the project that prevented complete processing
 
@@ -2339,6 +2361,7 @@ command exited with exit code: 1, [ExitStatus.EXIT_ERROR_INCOMPLETE]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -2409,6 +2432,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -2477,6 +2501,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
 *W NOTE: empty directories [2] which may be orphaned containers found and listed below [warning]
 *W     1. empty_good_project_with_empty_containers.ccpn/ccpnv3/ccp/molsim/Symmetry [warning]
 *W     2. empty_good_project_with_empty_containers.ccpn/ccpnv3/ccp/molecule/LabeledMolecule [warning]
@@ -2556,6 +2581,7 @@ command exited with exit code: 4, [ExitStatus.EXIT_WARN]
 *E NOTE: 1. [name]. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask  name: View~ [error]
 *E NOTE:    key: View~
 *E NOTE:    _________^
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View~+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -2624,6 +2650,7 @@ command exited with exit code: 2, [ExitStatus.EXIT_ERROR]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml
@@ -2691,6 +2718,7 @@ command exited with exit code: 4, [ExitStatus.EXIT_WARN]
        6. default_user_2024-02-24-15-54-35-583_00003 REFS.RefSampleComponentStore [keys: {'name': 'default'}]
        7. default_user_2024-02-24-15-54-35-583_00002 SAM.SampleStore [keys: {'name': 'default'}]
        8. default_user_2024-02-24-15-54-35-583_00005 GUIW.WindowStore [keys: {'nmrProject': '_ccp_nmr_Nmr_NmrProject___default___'}]
+   NOTE: using v3.1.0 cached data files from 25/03/2024 in stand alone mode
    NOTE: found 8 out of 8 top object files exo linked by the project
    NOTE: expected top object paths are:
        1. default_user_2024-02-24-15-54-35-583_00006 GUIT.GuiTask - [PROJECT] ccpnmr/gui/Task/user+View+default_user_2024-02-24-15-54-35-583_00006.xml

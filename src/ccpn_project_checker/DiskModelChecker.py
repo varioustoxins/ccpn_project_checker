@@ -111,6 +111,7 @@ class ErrorCode(Enum):
     ROOT_FILE_TIME_ATTRIB_BAD_FORMAT = auto()
     ROOT_MODEL_VERSION_BAD = auto()
     ROOT_MODEL_VERSION_MISSING = auto()
+    WARNING_POSSIBLE_ORPHANED_MEMOPS_ROOT_FILE =  auto()
 
 
 @dataclass
@@ -935,8 +936,9 @@ class ModelChecker:
                             False,
                         )
                     else:
+                        msg = f"the file {xml_file_path.parts[-1]} is a possible orphaned memops root"
                         self._report_warning(
-                            ErrorCode.MULTIPLE_MEMOPS_ROOT_FILES,
+                            ErrorCode.WARNING_POSSIBLE_ORPHANED_MEMOPS_ROOT_FILE,
                             implementation_directory,
                             msg,
                         )
