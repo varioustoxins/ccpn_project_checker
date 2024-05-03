@@ -1,6 +1,6 @@
 [project]
 name = "ccpn-project-checker"
-version = "0.1.16"
+version = "0.1.17"
 description = "A project checker for ccpn v3+ projects"
 authors = [
     { name = "varioustoxins", email = "garyt.and.sarahb@gmail.com" }
