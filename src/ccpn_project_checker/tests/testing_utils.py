@@ -14,7 +14,7 @@ from ccpn_project_checker.tests.api_test_data import ERROR_CODES_NOT_READ_PROTEC
 from ccpn_project_checker.util import different_cwd
 
 TEST_DIRECTORY = Path(__file__).parent / '..' / 'test_data'
-TEST_FILE = TEST_DIRECTORY / 'cli_test_output.txt'
+TEST_FILE = (TEST_DIRECTORY / 'cli_test_output.txt').resolve()
 
 class RedirectedStdoutToMemory:
     def __init__(self):
