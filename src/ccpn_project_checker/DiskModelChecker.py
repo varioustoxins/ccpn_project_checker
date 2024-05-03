@@ -2139,7 +2139,7 @@ def run_cli_checker(file_path=None, warnings_are_errors=False):
         ExitStatus.EXIT_ERROR: "There was an error in the project that would prevent it loading",
         ExitStatus.EXIT_ERROR_INCOMPLETE: "There was an error [the last one listed] in the project that prevented complete processing",
         ExitStatus.EXIT_INTERNAL_ERROR: "There was an internal error in the project checker, please see the traceback and report this to ccpn!",
-        ExitStatus.EXIT_WARN: "The project was ok and is use able but there were some warnings",
+        ExitStatus.EXIT_WARN: "The project was ok and is useable but there were some warnings",
     }
 
     _display_notes(checker)

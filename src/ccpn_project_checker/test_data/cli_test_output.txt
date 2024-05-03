@@ -914,7 +914,7 @@ WARNINGS [2]: - see items with *Ws in the margin above for further context
    caused by: ccpnmr/gui/Task/task_2.xml
    detailed message: the file ccpnmr/gui/Task/task_2.xml is not linked to a file by an exo link
    
-Overall status EXIT_WARN [4]: The project was ok and is use able but there were some warnings
+Overall status EXIT_WARN [4]: The project was ok and is useable but there were some warnings
 
 command exited with exit code: 4, [ExitStatus.EXIT_WARN]
 
@@ -2258,7 +2258,7 @@ WARNINGS [2]: - see items with *Ws in the margin above for further context
    empty_good_project_extra_root_xml_files.xml
    empty_good_project_extra_root_xml_files_2.xml
    
-Overall status EXIT_WARN [4]: The project was ok and is use able but there were some warnings
+Overall status EXIT_WARN [4]: The project was ok and is useable but there were some warnings
 
 command exited with exit code: 4, [ExitStatus.EXIT_WARN]
 
@@ -2525,7 +2525,7 @@ WARNINGS [2]: - see items with *Ws in the margin above for further context
    caused by: empty_good_project_with_empty_containers.ccpn/ccpnv3/ccp/molecule/LabeledMolecule
    detailed message: possibly empty_container found at empty_good_project_with_empty_containers.ccpn/ccpnv3/ccp/molecule/LabeledMolecule
    
-Overall status EXIT_WARN [4]: The project was ok and is use able but there were some warnings
+Overall status EXIT_WARN [4]: The project was ok and is useable but there were some warnings
 
 command exited with exit code: 4, [ExitStatus.EXIT_WARN]
 
@@ -2665,7 +2665,7 @@ WARNINGS [1]: - see items with *Ws in the margin above for further context
    caused by: root_file_missing_time.ccpn/ccpnv3/memops/Implementation/root_file_missing_time.xml
    detailed message: in the file root_file_missing_time.xml the attribute time is missing in the element _StorageUnit
    
-Overall status EXIT_WARN [4]: The project was ok and is use able but there were some warnings
+Overall status EXIT_WARN [4]: The project was ok and is useable but there were some warnings
 
 command exited with exit code: 4, [ExitStatus.EXIT_WARN]
 
@@ -2732,7 +2732,7 @@ WARNINGS [1]: - see items with *Ws in the margin above for further context
    caused by: root_file_badly_formatted_time.ccpn/ccpnv3/memops/Implementation/root_file_badly_formatted_time.xml
    detailed message: in the file root_file_badly_formatted_time.xml the attribute time [2024 Sat Feb 24 16:16:06] is badly formatted in the element _StorageUnit
    
-Overall status EXIT_WARN [4]: The project was ok and is use able but there were some warnings
+Overall status EXIT_WARN [4]: The project was ok and is useable but there were some warnings
 
 command exited with exit code: 4, [ExitStatus.EXIT_WARN]
 
