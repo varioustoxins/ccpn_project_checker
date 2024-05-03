@@ -1,10 +1,32 @@
 # ccpn-project-checker
 
-This is a small utility for checking the basic structure of a ccpn v3 project
+This is a small utility for checking the basic structure of a ccpn v3 project. 
 
+It can either be run from the command line
+```bash
+check-project <PROJECT-NAME>
+```
+
+or used as a library in a python program
+
+```python   
+from ccpn_project_checker.DiskModelChecker import ModelChecker
+
+file_path = 'Sec5Part4.ccpn'
+checker = ModelChecker()
+exit_code = checker.run(file_path)
+
+if exit_code == ModelChecker.ExitStatus.EXIT_OK:
+    print('The project is ok')
+else:
+    print(f'The project has errors, error code is {exit_code.value}')
+
+# more detail information can be gleaned from the checker object fields messages, errors and warnings... vide infra!
+
+```
 ## Installation
 
-The program maybe installed as a command line tool using pipx:
+The program maybe installed as the command line tool using pipx:
 
 ```bash 
 pipx install ccpn_project_checker
@@ -18,6 +40,13 @@ pipx install ccpn_project_checker --python <PATH-TO-PYTHON-EXECUTABLE>
 
 where <PATH-TO-PYTHON-EXECUTABLE> is the path to a python executable e.g. `/usr/local/bin/python3` or something
 equivalent
+
+installation of the program as a library is best done using pip [and a virtual environment [^1]], though at some point
+conda will also be supported
+
+```bash
+pip install ccpn_project_checker
+```
 
 ## Uninstalling
 
@@ -208,8 +237,8 @@ of the ModelChecker class; this parameter is False by default.
 | READ_PROTECTED_CCPNV3                        | the ccpnv3 directory `<PROJECT>.ccpn/ccpnv3>` is not readable                                                                                                                                                                                                      |
 | BAD_XML                                      | one of the projects xml files is not correcly formatted xml, the detail will contain a complete diagnosis from the lxml parser. If this occurse on the root project file it is a fatal error otherwise the checker will check as many files as can be read.        |
 | NO_STORAGE_UNIT                              | each xml file should contains _exactly_ one storage unit with the structure ```xml <_StorageUnit ...></_StorageUnit>. This was missing from the root of the xmnl in the file                                                                                       |
-| NO_ROOT_OR_TOP_OBJECT                        | each _StorageUnit should contain _exactly_ one element[^1] no child elements were found it was missing.                                                                                                                                                            |
-| MULTIPLE_ROOT_OR_TOP_OBJECTS_IN_STORAGE_UNIT | each _StorageUnit should contain _exactly_ one element[^1] multiple elements were found.                                                                                                                                                                           |
+| NO_ROOT_OR_TOP_OBJECT                        | each _StorageUnit should contain _exactly_ one element[^2] no child elements were found it was missing.                                                                                                                                                            |
+| MULTIPLE_ROOT_OR_TOP_OBJECTS_IN_STORAGE_UNIT | each _StorageUnit should contain _exactly_ one element[^2] multiple elements were found.                                                                                                                                                                           |
 | ROOT_IS_NOT_TOP_OBJECT                       | the child of the `_StorageUnit` in a non root project file was not a descendant of `IMPL.TopObject`                                                                                                                                                                |
 | ROOT_IS_NOT_MEMOPS_ROOT                      | the child of the `_StorageUnit` in the root project file was not of type `IMPL.MemopsRoot`                                                                                                                                                                         |
 | ROOT_HAS_NO_MODEL_VERSION                    | the `_StorageUnit` in the root project file shoudl have an attribute release which defines the current version of the dat model being saved. If this is missing or badly formatted its a fatal error as the version of the model being read cannot be ascertained. |
@@ -243,7 +272,7 @@ of the ModelChecker class; this parameter is False by default.
 | ROOT_FILE_TIME_ATTRIB_MISSING                | the `<_StorageUnit>` in the root file doesn't have a `time` attribute [warning]                                                                                                                                                                                    |
 | ROOT_FILE_TIME_ATTRIB_BAD_FORMAT             | the `<_StorageUnit>` in the root file doesn't have a  correctly formatted `time` attribute it should have the format "%a %b %d %H:%M:%S %Y" [warning]                                                                                                              |
 | ROOT_MODEL_VERSION_BAD                       | the `<_StorageUnit>` in the root file doesn't have a  `release` attribute                                                                                                                                                                                          |
-| ROOT_MODEL_VERSION_MISSING                   | the `<_StorageUnit>` in the root file doesn't have a correcly formatted `release` attribute. It should have the form described below in *The _StorageUnit Element*    |
+| ROOT_MODEL_VERSION_MISSING                   | the `<_StorageUnit>` in the root file doesn't have a correcly formatted `release` attribute. It should have the form described below in *The _StorageUnit Element*                                                                                                 |
 
 
 ## Supporting Utilities
@@ -545,6 +574,13 @@ object in the same ways as it is stored in the root object.
 
 
 
+[^1]: information on setting up a virtual environment can be found in the 
+[python documentation](https://docs.python.org/3/library/venv.html). The author would recommend using 
+[pyenv](https://github.com/pyenv/pyenv) or [miniconda](https://docs.anaconda.com/free/miniconda/index.html)  or 
+[conda](https://docs.conda.io/en/latest/)
+to install the correct python runtime.
 
-[^1]: this elemenet should be a descendant of `IMPL.MemopsRoot` if the file is the root project file or otherwise a
+[^2]: this elemenet should be a descendant of `IMPL.MemopsRoot` if the file is the root project file or otherwise a
 descendant of `IMPL.TopObject`
+
+ 
